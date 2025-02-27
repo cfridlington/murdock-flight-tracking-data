@@ -1,0 +1,65 @@
+{
+  "typesSeen" : 99,
+  "totalFlights" : 822,
+  "mostFrequentType" : {
+    "lastSeen" : 1740699220.3999999,
+    "icao" : "B772",
+    "aircraft" : [
+      "aaa4dc",
+      "aab202",
+      "4006c1",
+      "aaa326",
+      "4841ad",
+      "aa57df",
+      "aace5c",
+      "aacc5b",
+      "aa441c",
+      "aa9093",
+      "aa7439",
+      "aa9f6f",
+      "aa92fa",
+      "3949ec",
+      "aac4ed",
+      "400683",
+      "aa9321",
+      "a20433",
+      "4007f0",
+      "400684",
+      "4005be",
+      "aabf80",
+      "aa86cc",
+      "48436c",
+      "aaa125",
+      "aa305f",
+      "aac6ee",
+      "4005bf",
+      "4005bd",
+      "a1f557",
+      "aac136",
+      "4005b9",
+      "a1aa10",
+      "aa92ff",
+      "4007fa",
+      "aa6b9f",
+      "4006c4"
+    ],
+    "name" : "777 222ER"
+  },
+  "totalManufacturers" : 26,
+  "aircraftSeen" : 623,
+  "mostFrequentAircraft" : {
+    "lastSeen" : 1740669637.1000001,
+    "timesSeen" : [
+      1740510490.3,
+      1740523919.4,
+      1740552723.3999999,
+      1740614365.5,
+      1740668759.9
+    ],
+    "hex" : "c017bc",
+    "flights" : {
+      "SWG3269 " : 1
+    }
+  },
+  "totalCallsigns" : 424
+}

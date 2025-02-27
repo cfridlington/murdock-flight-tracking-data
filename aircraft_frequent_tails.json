@@ -1,0 +1,195 @@
+[
+  {
+    "lastSeen" : 1740669637.1000001,
+    "hex" : "c017bc",
+    "timesSeen" : [
+      1740510490.3,
+      1740523919.4,
+      1740552723.3999999,
+      1740614365.5,
+      1740668759.9
+    ],
+    "flights" : {
+      "SWG3269 " : 1
+    }
+  },
+  {
+    "flights" : {
+      "JZA612  " : 1
+    },
+    "timesSeen" : [
+      1740533072,
+      1740574020.3999999,
+      1740684696.7,
+      1740691883.5
+    ],
+    "hex" : "c00b7c",
+    "lastSeen" : 1740692839.2,
+    "properties" : {
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/683\/001683334.jpg",
+      "registered_owner" : "Air Canada Express",
+      "manufacturer" : "Embraer",
+      "registered_owner_country_name" : "Canada",
+      "type" : "EMB-175 SU",
+      "registered_owner_operator_flag_code" : "JZA",
+      "registration" : "C-FEJB",
+      "registered_owner_country_iso_name" : "CA",
+      "icao_type" : "E75S"
+    }
+  },
+  {
+    "flights" : {
+      "DAL194  " : 1
+    },
+    "lastSeen" : 1740683117.9,
+    "hex" : "aaea8c",
+    "timesSeen" : [
+      1740502733.7,
+      1740530499.3999999,
+      1740620039.6,
+      1740681961.8000002
+    ],
+    "properties" : {
+      "icao_type" : "A333",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "DAL",
+      "type" : "A330 323X",
+      "registration" : "N802NW",
+      "registered_owner" : "Delta Air Lines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/696\/001696623.jpg"
+    }
+  },
+  {
+    "hex" : "a5cc82",
+    "flights" : {
+      "N473CS  " : 3
+    },
+    "lastSeen" : 1740619971.6000001,
+    "timesSeen" : [
+      1740576634.8,
+      1740582791.8,
+      1740613552.3000002,
+      1740617181.3
+    ]
+  },
+  {
+    "hex" : "a6c1bc",
+    "flights" : {
+      "N53402  " : 3
+    },
+    "timesSeen" : [
+      1740574961.3,
+      1740585198.5,
+      1740595286,
+      1740605312
+    ],
+    "lastSeen" : 1740606011.3
+  },
+  {
+    "properties" : {
+      "registered_owner_country_iso_name" : "CA",
+      "type" : "EMB-175 SU",
+      "manufacturer" : "Embraer",
+      "registered_owner_operator_flag_code" : "JZA",
+      "registered_owner_country_name" : "Canada",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/663\/001663966.jpg",
+      "registration" : "C-FEJY",
+      "registered_owner" : "Air Canada Express",
+      "icao_type" : "E75S"
+    },
+    "lastSeen" : 1740605129.8,
+    "hex" : "c00b93",
+    "flights" : {
+      "JZA608  " : 1
+    },
+    "timesSeen" : [
+      1740510504.3,
+      1740517542.6,
+      1740597299.8,
+      1740604549.3
+    ]
+  },
+  {
+    "timesSeen" : [
+      1740504236.6,
+      1740510052,
+      1740576694,
+      1740590062.1000001
+    ],
+    "flights" : {
+      "N405SB  " : 4
+    },
+    "lastSeen" : 1740591929.7,
+    "hex" : "a4c0c6"
+  },
+  {
+    "timesSeen" : [
+      1740506523,
+      1740521163.3999999,
+      1740528031.5,
+      1740580828.9
+    ],
+    "hex" : "a5d197",
+    "flights" : {
+
+    },
+    "lastSeen" : 1740581401.2,
+    "properties" : {
+      "type" : "PC-XII 47",
+      "registered_owner" : "Boutique Air",
+      "registered_owner_operator_flag_code" : "BTQ",
+      "registration" : "N474SS",
+      "manufacturer" : "Pilatus",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "PC12",
+      "registered_owner_country_iso_name" : "US"
+    }
+  },
+  {
+    "flights" : {
+      "N1848U  " : 1
+    },
+    "lastSeen" : 1740697353.2,
+    "properties" : {
+      "manufacturer" : "Embraer",
+      "registered_owner_operator_flag_code" : "E545",
+      "registered_owner" : "UNUM Group",
+      "icao_type" : "E545",
+      "type" : "Legacy 450",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N1848U",
+      "registered_owner_country_iso_name" : "US"
+    },
+    "hex" : "a1530b",
+    "timesSeen" : [
+      1740609270.2,
+      1740613318.1,
+      1740696373.3999999
+    ]
+  },
+  {
+    "flights" : {
+
+    },
+    "properties" : {
+      "registration" : "N723ST",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "PC12",
+      "type" : "PC-XII 47",
+      "registered_owner_operator_flag_code" : "BTQ",
+      "manufacturer" : "Pilatus",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/639\/001639098.jpg",
+      "registered_owner" : "Boutique Air"
+    },
+    "lastSeen" : 1740696887.2,
+    "hex" : "a9b053",
+    "timesSeen" : [
+      1740679482,
+      1740687156.1999998,
+      1740696346.6
+    ]
+  }
+]
