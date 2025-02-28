@@ -1,184 +1,184 @@
 [
   {
+    "timesSeen" : [
+      1740771736.6
+    ],
     "flights" : {
-      "EIN106  " : 1
+      "ABLE12  " : 1
     },
+    "lastSeen" : 1740772840.7,
+    "hex" : "ae0b71"
+  },
+  {
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "FTH",
+      "registered_owner" : "Mountain Aviation",
+      "manufacturer" : "Cessna",
+      "type" : "Citation X",
+      "registration" : "N905VR",
+      "icao_type" : "C750",
+      "registered_owner_country_name" : "United States"
+    },
+    "timesSeen" : [
+      1740768127.6,
+      1740772182.6
+    ],
+    "flights" : {
+      "N905VR  " : 2
+    },
+    "lastSeen" : 1740772754.3,
+    "hex" : "ac83aa"
+  },
+  {
+    "flights" : {
+      "N525PF  " : 1
+    },
+    "hex" : "a69ccc",
+    "timesSeen" : [
+      1740771912.4
+    ],
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "C25A",
+      "registered_owner_operator_flag_code" : "C25A",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/539\/539682.jpg",
+      "type" : "Citation CJ2",
+      "manufacturer" : "Cessna",
+      "registration" : "N525PF",
+      "registered_owner" : "Healthy Treats Corp"
+    },
+    "lastSeen" : 1740772665.8
+  },
+  {
+    "timesSeen" : [
+      1740507540.8,
+      1740685114.3,
+      1740711285.5,
+      1740771732.5
+    ],
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Airbus",
+      "type" : "A330 323E",
+      "icao_type" : "A333",
+      "registered_owner" : "Delta Air Lines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/695\/001695095.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N817NW",
+      "registered_owner_operator_flag_code" : "DAL"
+    },
+    "lastSeen" : 1740772580.3000002,
+    "hex" : "ab249e",
+    "flights" : {
+      "DAL195  " : 1
+    }
+  },
+  {
+    "hex" : "a9a97f",
+    "properties" : {
+      "type" : "EMB-175 LR",
+      "manufacturer" : "Embraer",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "E75L",
+      "registered_owner_country_name" : "United States",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/596\/001596472.jpg",
+      "registered_owner_operator_flag_code" : "RPA",
+      "registration" : "N721YX",
+      "registered_owner" : "United Express"
+    },
+    "timesSeen" : [
+      1740771732.5
+    ],
+    "flights" : {
+      "RPA3704 " : 1
+    },
+    "lastSeen" : 1740772332.3999999
+  },
+  {
     "timesSeen" : [
       1740698859.8,
       1740712813.9,
       1740770921.5
     ],
     "hex" : "4cae29",
-    "lastSeen" : 1740772097.1000001
-  },
-  {
-    "properties" : {
-      "registration" : "N721YX",
-      "registered_owner_operator_flag_code" : "RPA",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "United Express",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/596\/001596472.jpg",
-      "registered_owner_country_name" : "United States",
-      "type" : "EMB-175 LR",
-      "icao_type" : "E75L"
-    },
     "flights" : {
-      "RPA3704 " : 1
+      "EIN106  " : 1
     },
-    "hex" : "a9a97f",
-    "timesSeen" : [
-      1740771732.5
-    ],
-    "lastSeen" : 1740772092.2
+    "lastSeen" : 1740772097.1000001
   },
   {
     "flights" : {
       "UAL17   " : 1
     },
+    "lastSeen" : 1740772046.8999999,
     "timesSeen" : [
       1740684768,
       1740771986.8999999
     ],
+    "hex" : "a8e132",
     "properties" : {
-      "registration" : "N671UA",
       "type" : "767 322ER\/W",
+      "manufacturer" : "Boeing",
+      "registration" : "N671UA",
       "registered_owner_operator_flag_code" : "UAL",
       "registered_owner_country_iso_name" : "US",
       "registered_owner" : "United Airlines",
       "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/698\/001698436.jpg",
-      "manufacturer" : "Boeing",
-      "icao_type" : "B763"
-    },
-    "lastSeen" : 1740772046.8999999,
-    "hex" : "a8e132"
+      "icao_type" : "B763",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/698\/001698436.jpg"
+    }
   },
   {
+    "lastSeen" : 1740772042.1,
     "timesSeen" : [
       1740771982
     ],
     "hex" : "407131",
     "properties" : {
-      "type" : "787 9",
-      "registered_owner_country_name" : "United Kingdom",
       "registration" : "G-VBOW",
-      "registered_owner_operator_flag_code" : "VIR",
-      "registered_owner_country_iso_name" : "GB",
-      "registered_owner" : "Virgin Atlantic Airways",
       "manufacturer" : "Boeing",
-      "icao_type" : "B789"
+      "registered_owner_country_name" : "United Kingdom",
+      "registered_owner" : "Virgin Atlantic Airways",
+      "icao_type" : "B789",
+      "registered_owner_country_iso_name" : "GB",
+      "registered_owner_operator_flag_code" : "VIR",
+      "type" : "787 9"
     },
-    "lastSeen" : 1740772042.1,
     "flights" : {
       "VIR21K  " : 1
     }
   },
   {
-    "hex" : "ae0b71",
-    "lastSeen" : 1740772012,
-    "flights" : {
-
-    },
-    "timesSeen" : [
-      1740771736.6
-    ]
-  },
-  {
-    "flights" : {
-
-    },
-    "lastSeen" : 1740771969.8,
     "hex" : "3e8819",
     "timesSeen" : [
       1740771343.5
-    ]
+    ],
+    "flights" : {
+
+    },
+    "lastSeen" : 1740771969.8
   },
   {
-    "lastSeen" : 1740771959.4,
     "flights" : {
 
     },
     "hex" : "ac828f",
-    "properties" : {
-      "manufacturer" : "Embraer",
-      "icao_type" : "E145",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "American Eagle",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/569\/001569583.jpg",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_operator_flag_code" : "ENY",
-      "type" : "ERJ-145 LR",
-      "registration" : "N905JH"
-    },
     "timesSeen" : [
       1740771311.6
-    ]
-  },
-  {
-    "flights" : {
-      "DAL195  " : 1
-    },
-    "hex" : "ab249e",
-    "properties" : {
-      "registered_owner_operator_flag_code" : "DAL",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N817NW",
-      "type" : "A330 323E",
-      "icao_type" : "A333",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Delta Air Lines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/695\/001695095.jpg"
-    },
-    "lastSeen" : 1740771940.6,
-    "timesSeen" : [
-      1740507540.8,
-      1740685114.3,
-      1740711285.5,
-      1740771732.5
-    ]
-  },
-  {
-    "flights" : {
-      "N525PF  " : 1
-    },
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/539\/539682.jpg",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N525PF",
-      "registered_owner_operator_flag_code" : "C25A",
-      "registered_owner" : "Healthy Treats Corp",
-      "icao_type" : "C25A",
-      "type" : "Citation CJ2",
-      "manufacturer" : "Cessna",
-      "registered_owner_country_name" : "United States"
-    },
-    "timesSeen" : [
-      1740771912.4
-    ],
-    "hex" : "a69ccc",
-    "lastSeen" : 1740771912.4
-  },
-  {
-    "flights" : {
-
-    },
-    "timesSeen" : [
-      1740771349.7
     ],
     "properties" : {
-      "type" : "CRJ 700 701ER",
-      "registered_owner_operator_flag_code" : "JIA",
-      "manufacturer" : "Bombardier",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/671\/001671266.jpg",
-      "icao_type" : "CRJ7",
+      "type" : "ERJ-145 LR",
+      "icao_type" : "E145",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/569\/001569583.jpg",
+      "manufacturer" : "Embraer",
+      "registration" : "N905JH",
       "registered_owner" : "American Eagle",
-      "registration" : "N720PS",
+      "registered_owner_operator_flag_code" : "ENY",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States"
     },
-    "lastSeen" : 1740771890.3,
-    "hex" : "a9a4e2"
+    "lastSeen" : 1740771959.4
   }
 ]
