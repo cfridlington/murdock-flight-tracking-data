@@ -1,201 +1,205 @@
 [
   {
-    "hex" : "4a91b2",
+    "properties" : {
+      "registered_owner_country_name" : "Canada",
+      "registered_owner" : "Air Transat",
+      "registered_owner_operator_flag_code" : "TSC",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_iso_name" : "CA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/413\/001413983.jpg",
+      "type" : "A321 211",
+      "registration" : "C-GEZO",
+      "icao_type" : "A321"
+    },
+    "timesSeen" : [
+      1740659737.8,
+      1740700473.8
+    ],
+    "hex" : "c051d1",
+    "lastSeen" : 1740701074.5,
+    "flights" : {
+
+    }
+  },
+  {
+    "flights" : {
+      "ENY3946 " : 1
+    },
+    "timesSeen" : [
+      1740700115.1999998
+    ],
+    "lastSeen" : 1740700991,
+    "hex" : "a1c229",
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "ENY",
+      "type" : "EMB-175 LR",
+      "registered_owner" : "American Eagle",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/657\/001657066.jpg",
+      "manufacturer" : "Embraer",
+      "icao_type" : "E75L",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N212NN"
+    }
+  },
+  {
+    "hex" : "4cabd1",
+    "flights" : {
+      "EIN10M  " : 1
+    },
+    "lastSeen" : 1740700804.2,
+    "timesSeen" : [
+      1740689045.8,
+      1740700625.9
+    ],
+    "properties" : {
+      "type" : "A321 253NXSL",
+      "registered_owner_operator_flag_code" : "EIN",
+      "icao_type" : "A21N",
+      "registration" : "EI-LRE",
+      "registered_owner_country_iso_name" : "IE",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "Ireland",
+      "registered_owner" : "Aer Lingus"
+    }
+  },
+  {
+    "lastSeen" : 1740700622,
+    "hex" : "407cd2",
+    "flights" : {
+      "BAW293  " : 1
+    },
+    "properties" : {
+      "registered_owner_country_iso_name" : "GB",
+      "registered_owner_operator_flag_code" : "BAW",
+      "registered_owner" : "British Airways",
+      "type" : "A350-1041",
+      "registration" : "G-XWBM",
+      "icao_type" : "A35K",
+      "registered_owner_country_name" : "United Kingdom",
+      "manufacturer" : "Airbus Sas"
+    },
+    "timesSeen" : [
+      1740699548.4
+    ]
+  },
+  {
+    "lastSeen" : 1740700605.1,
+    "hex" : "a85d00",
     "flights" : {
 
     },
     "timesSeen" : [
-      1740698641.8999999
+      1740611458.8000002,
+      1740662287.7,
+      1740700064.5
     ],
     "properties" : {
-      "registration" : "SE-DMR",
-      "icao_type" : "A21N",
-      "registered_owner_country_iso_name" : "SE",
-      "registered_owner_country_name" : "Sweden",
-      "type" : "A321 253NXSL",
-      "registered_owner_operator_flag_code" : "SAS",
-      "manufacturer" : "Airbus",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/723\/001723155.jpg",
-      "registered_owner" : "Scandinavian Airlines System"
-    },
-    "lastSeen" : 1740699285
-  },
-  {
-    "hex" : "a20433",
-    "flights" : {
-      "UAL925  " : 1
-    },
-    "lastSeen" : 1740699220.3999999,
-    "timesSeen" : [
-      1740698410.3
-    ],
-    "properties" : {
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "UAL",
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B772",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/681\/001681685.jpg",
-      "type" : "777 222ER",
+      "registered_owner" : "United Express",
+      "manufacturer" : "Embraer",
+      "registered_owner_operator_flag_code" : "RPA",
       "registered_owner_country_name" : "United States",
-      "registration" : "N229UA",
+      "icao_type" : "E170",
+      "type" : "EMB-170 SE",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/646\/001646292.jpg",
+      "registration" : "N638RW",
       "registered_owner_country_iso_name" : "US"
     }
   },
   {
     "flights" : {
-
+      "BAW189  " : 1
     },
-    "lastSeen" : 1740699197.2,
-    "hex" : "478f43",
-    "timesSeen" : [
-      1740698707.2
-    ],
     "properties" : {
-      "type" : "A330 343X",
-      "registered_owner" : "Scandinavian Airlines System",
-      "registered_owner_operator_flag_code" : "SAS",
-      "registration" : "LN-RKO",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/654\/001654766.jpg",
-      "manufacturer" : "Airbus",
-      "icao_type" : "A333",
-      "registered_owner_country_name" : "Norway",
-      "registered_owner_country_iso_name" : "NO"
-    }
+      "registered_owner" : "British Airways",
+      "manufacturer" : "Boeing",
+      "type" : "777 236ER",
+      "registration" : "G-RAES",
+      "registered_owner_country_iso_name" : "GB",
+      "icao_type" : "B772",
+      "registered_owner_operator_flag_code" : "BAW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/493\/001493317.jpg",
+      "registered_owner_country_name" : "United Kingdom"
+    },
+    "timesSeen" : [
+      1740699572.8000002
+    ],
+    "hex" : "4005c1",
+    "lastSeen" : 1740700557.3999999
   },
   {
     "flights" : {
 
     },
+    "properties" : {
+      "registered_owner_country_name" : "Norway",
+      "icao_type" : "A333",
+      "registered_owner" : "Scandinavian Airlines System",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/743\/001743622.jpg",
+      "type" : "A330 343E",
+      "registered_owner_operator_flag_code" : "SAS",
+      "registered_owner_country_iso_name" : "NO",
+      "registration" : "LN-RKS",
+      "manufacturer" : "Airbus"
+    },
+    "lastSeen" : 1740700529.6000001,
     "timesSeen" : [
-      1740698859.8
+      1740686105.2,
+      1740699989
     ],
-    "hex" : "4cae29",
-    "lastSeen" : 1740699137.3
+    "hex" : "478854"
   },
   {
-    "lastSeen" : 1740699132.8999999,
-    "hex" : "a913d6",
+    "properties" : {
+      "registered_owner" : "Finnair",
+      "registered_owner_country_iso_name" : "FI",
+      "icao_type" : "A333",
+      "registered_owner_operator_flag_code" : "FIN",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/742\/001742503.jpg",
+      "registration" : "OH-LTN",
+      "registered_owner_country_name" : "Finland",
+      "manufacturer" : "Airbus",
+      "type" : "A330 302E"
+    },
+    "hex" : "461f07",
+    "lastSeen" : 1740700154.3,
+    "flights" : {
+
+    },
+    "timesSeen" : [
+      1740699513.1000001
+    ]
+  },
+  {
+    "hex" : "4cae29",
+    "flights" : {
+
+    },
+    "lastSeen" : 1740699437.6000001,
+    "timesSeen" : [
+      1740698859.8
+    ]
+  },
+  {
+    "lastSeen" : 1740699433.1000001,
     "properties" : {
       "registered_owner_country_iso_name" : "US",
       "type" : "767 3CBER\/W",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "UAL",
       "registered_owner_country_name" : "United States",
+      "icao_type" : "B763",
+      "registered_owner_operator_flag_code" : "UAL",
+      "manufacturer" : "Boeing",
       "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/679\/001679825.jpg",
       "registration" : "N684UA",
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B763"
+      "registered_owner" : "United Airlines"
+    },
+    "hex" : "a913d6",
+    "flights" : {
+
     },
     "timesSeen" : [
       1740500317.9,
       1740698604
-    ],
-    "flights" : {
-
-    }
-  },
-  {
-    "flights" : {
-      "EIN11T  " : 1
-    },
-    "hex" : "4cabd3",
-    "lastSeen" : 1740698845.4,
-    "timesSeen" : [
-      1740684560,
-      1740698152.5
-    ],
-    "properties" : {
-      "icao_type" : "A21N",
-      "registered_owner_country_iso_name" : "IE",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "Ireland",
-      "registered_owner_operator_flag_code" : "EIN",
-      "type" : "A321 253NXSL",
-      "registration" : "EI-LRG",
-      "registered_owner" : "Aer Lingus",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/775\/001775126.jpg"
-    }
-  },
-  {
-    "flights" : {
-
-    },
-    "lastSeen" : 1740698431.5,
-    "hex" : "ae68be",
-    "timesSeen" : [
-      1740697874.2
-    ],
-    "properties" : {
-      "registered_owner" : "United States Air Force",
-      "manufacturer" : "Dornier",
-      "registered_owner_country_name" : "United States",
-      "type" : "C-146A",
-      "registered_owner_operator_flag_code" : "D328",
-      "registration" : "15-3086",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "D328"
-    }
-  },
-  {
-    "timesSeen" : [
-      1740696743.8
-    ],
-    "hex" : "c0636e",
-    "flights" : {
-      "PTR2345 " : 1
-    },
-    "lastSeen" : 1740697725.6000001,
-    "properties" : {
-      "registration" : "C-GLQZ",
-      "registered_owner" : "Porter Airlines",
-      "registered_owner_country_name" : "Canada",
-      "manufacturer" : "Bombardier",
-      "type" : "DHC-8 402 NG",
-      "registered_owner_country_iso_name" : "CA",
-      "icao_type" : "DH8D",
-      "registered_owner_operator_flag_code" : "POE"
-    }
-  },
-  {
-    "flights" : {
-      "JAS127  " : 1
-    },
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "Global 7500",
-      "manufacturer" : "Bombardier",
-      "registered_owner" : "Jet Aviation Flight Services",
-      "registered_owner_operator_flag_code" : "JAS",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "GL7T",
-      "registration" : "N512GL"
-    },
-    "lastSeen" : 1740697545.4,
-    "hex" : "a6697e",
-    "timesSeen" : [
-      1740696195.6000001
-    ]
-  },
-  {
-    "flights" : {
-      "N1848U  " : 1
-    },
-    "lastSeen" : 1740697353.2,
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "registration" : "N1848U",
-      "icao_type" : "E545",
-      "registered_owner" : "UNUM Group",
-      "registered_owner_operator_flag_code" : "E545",
-      "type" : "Legacy 450",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_iso_name" : "US"
-    },
-    "hex" : "a1530b",
-    "timesSeen" : [
-      1740609270.2,
-      1740613318.1,
-      1740696373.3999999
     ]
   }
 ]
