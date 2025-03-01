@@ -1,725 +1,296 @@
 {
-  "Boeing" : {
-    "name" : "Boeing",
+  "Cirrus" : {
     "types" : {
-      "B748" : {
-        "lastSeen" : 1740817311.2,
-        "name" : "747 8F",
-        "icao" : "B748",
+      "SR22" : {
         "aircraft" : [
-          "a7f7fc",
-          "a7e310",
-          "780a29",
-          "a82332",
-          "a7e6c7",
-          "3c4b2e",
-          "4d0117",
-          "3c4b2a",
-          "4243c4",
-          "a806d8"
-        ]
-      },
-      "B738" : {
-        "name" : "737-8K5",
-        "lastSeen" : 1740695685.2,
-        "aircraft" : [
-          "c01f53"
+          "a49592",
+          "a36c00"
         ],
-        "icao" : "B738"
+        "icao" : "SR22",
+        "name" : "SR22",
+        "lastSeen" : 1740850201.8999999
       },
-      "B737" : {
-        "name" : "737NG 7H4\/W",
+      "SF50" : {
         "aircraft" : [
-          "acba1b",
-          "a56e0d",
-          "acab3f",
-          "a4d621",
-          "a2e28f",
-          "a582f9",
-          "a3117c",
-          "a20a81",
-          "ad61de",
-          "a2e646"
+          "a73ac5"
         ],
-        "lastSeen" : 1740781987.6,
-        "icao" : "B737"
-      },
-      "B744" : {
-        "name" : "747 47UF",
+        "icao" : "SF50",
+        "lastSeen" : 1740516342.5,
+        "name" : "SF50"
+      }
+    },
+    "name" : "Cirrus"
+  },
+  "Honda Aircraft Company" : {
+    "types" : {
+      "HDJT" : {
         "aircraft" : [
-          "a4dca4",
-          "3c4ad8",
-          "448465",
-          "a777b8",
-          "3c4a8b",
-          "3c4ad9",
-          "3c4ad5",
-          "acfc26"
+          "a1b7e1"
         ],
-        "icao" : "B744",
-        "lastSeen" : 1740848054.6000001
-      },
-      "B38M" : {
-        "icao" : "B38M",
-        "name" : "737MAX 8",
-        "aircraft" : [
-          "4cc53a",
-          "c02fd5",
-          "c03003",
-          "ab120a",
-          "4cc52c",
-          "ab1978",
-          "4cc547",
-          "c030ef",
-          "c03068",
-          "a143e9",
-          "c05d7b",
-          "4cc577",
-          "c03064",
-          "4cc53b",
-          "c0307a",
-          "ac3a60"
-        ],
-        "lastSeen" : 1740844878.1999998
-      },
-      "B722" : {
-        "icao" : "B722",
-        "aircraft" : [
-          "a9bba9"
-        ],
-        "name" : "727 223F",
-        "lastSeen" : 1740514130.6999998
-      },
-      "B752" : {
-        "aircraft" : [
-          "a5ce0f",
-          "ad27aa",
-          "aa7864",
-          "a50c4b",
-          "adc5a6",
-          "a0a903",
-          "c01d16",
-          "a4cfe0",
-          "a11f9d",
-          "add6db",
-          "a14700",
-          "4cc2a7",
-          "ad23f3",
-          "a0a8de"
-        ],
-        "icao" : "B752",
-        "lastSeen" : 1740828333,
-        "name" : "757 24APF"
-      },
-      "K35R" : {
-        "icao" : "K35R",
-        "lastSeen" : 1740775596.7,
-        "name" : "KC-135R",
-        "aircraft" : [
-          "ae068c",
-          "ae07c4",
-          "ae07a7",
-          "ae038b",
-          "ae0149",
-          "ae0148"
-        ]
-      },
-      "KC46" : {
-        "icao" : "KC46",
-        "lastSeen" : 1740762604.6999998,
-        "aircraft" : [
-          "ae5bc3",
-          "ae5fa8"
-        ],
-        "name" : "KC-46A Pegasus"
-      },
-      "C17" : {
-        "lastSeen" : 1740709260.8,
-        "icao" : "C17",
-        "name" : "C-17A Globemaster III",
-        "aircraft" : [
-          "ae10b8",
-          "ae1472",
-          "ae145b",
-          "ae1172",
-          "ae4f13",
-          "ae10ba",
-          "ae4d6a",
-          "ae20c5",
-          "ae49c6"
-        ]
-      },
-      "B763" : {
-        "lastSeen" : 1740844364.3,
-        "icao" : "B763",
-        "aircraft" : [
-          "a3f579",
-          "a8cffd",
-          "a8e4e9",
-          "a8a87e",
-          "a8d3b4",
-          "a8bd6a",
-          "a07bb3",
-          "44003f",
-          "a895eb",
-          "a8ac35",
-          "a8f00e",
-          "a8f3c5",
-          "a12c23",
-          "a3f930",
-          "a899a2",
-          "a8c88f",
-          "a8f77c",
-          "a8c4d8",
-          "a3c68c",
-          "a5fef9",
-          "a91b44",
-          "440060",
-          "a13748",
-          "a8e132",
-          "a89d59",
-          "400b4b",
-          "a8ec57",
-          "a11380",
-          "a3b90e",
-          "a1775f",
-          "a8cc46",
-          "a17b16",
-          "a875da",
-          "a8c3bd",
-          "a913d6",
-          "a8b9b3"
-        ],
-        "name" : "767 34AF\/W"
-      },
-      "B764" : {
-        "name" : "767 432ER",
-        "aircraft" : [
-          "ab8862",
-          "ab9387",
-          "ab4bf7",
-          "ab80f4",
-          "aa44cf",
-          "ab5365",
-          "ab8fd0",
-          "a92dfc",
-          "ab5975",
-          "aa44ac",
-          "ab60e3",
-          "a92ddf",
-          "ab5d2c",
-          "ab772d",
-          "ab4840",
-          "a8b75a",
-          "aa6c50",
-          "aa93c9",
-          "aa44d0",
-          "aa44ad",
-          "aa44cd",
-          "ab649a",
-          "ab6c08",
-          "ab84ab"
-        ],
-        "icao" : "B764",
-        "lastSeen" : 1740807745.8
-      },
-      "B77L" : {
-        "aircraft" : [
-          "3c70c4",
-          "ac498c",
-          "4bb14c",
-          "ac30e9",
-          "3c4585",
-          "4bb14f",
-          "06a073",
-          "3951c1",
-          "896169",
-          "7804c6",
-          "06a066",
-          "3c4584"
-        ],
-        "lastSeen" : 1740845159.4,
-        "name" : "777 FBT",
-        "icao" : "B77L"
-      },
-      "B739" : {
-        "lastSeen" : 1740829744.6000001,
-        "icao" : "B739",
-        "name" : "737NG 932ER\/W",
-        "aircraft" : [
-          "aae9a3",
-          "a9dce9",
-          "aaf4c8",
-          "a81006",
-          "a44588",
-          "aaf111",
-          "a300a9",
-          "a46d95",
-          "ab1c47"
-        ]
-      },
-      "B788" : {
-        "lastSeen" : 1740744612.6,
-        "icao" : "B788",
-        "name" : "787 8",
-        "aircraft" : [
-          "507c4c",
-          "040127",
-          "aae958",
-          "507c59",
-          "740823",
-          "ac0906",
-          "ac142e",
-          "a2a2e3",
-          "40731c",
-          "040049"
-        ]
-      },
+        "name" : "Honda Jet HA-420",
+        "lastSeen" : 1740506880.7,
+        "icao" : "HDJT"
+      }
+    },
+    "name" : "Honda Aircraft Company"
+  },
+  "The Boeing Company" : {
+    "name" : "The Boeing Company",
+    "types" : {
       "B78X" : {
         "icao" : "B78X",
-        "name" : "787 10",
+        "lastSeen" : 1740786559.3999999,
+        "name" : "787-10",
         "aircraft" : [
-          "a0a54a",
-          "a05646",
-          "485b44",
-          "407af1",
-          "a11bc8",
-          "485e2d",
-          "a11bc6",
-          "4078de"
-        ],
-        "lastSeen" : 1740764240.2
-      },
-      "B39M" : {
-        "lastSeen" : 1740796388.8,
-        "icao" : "B39M",
-        "name" : "737MAX 9",
-        "aircraft" : [
-          "4cc52e",
-          "4cc52b",
-          "4cc548"
+          "486072"
         ]
-      },
-      "B772" : {
-        "lastSeen" : 1740809643.4,
-        "icao" : "B772",
-        "aircraft" : [
-          "aa9321",
-          "aa9f6f",
-          "aa305f",
-          "4007f7",
-          "aace5c",
-          "aa9bb8",
-          "3949ec",
-          "aaa326",
-          "48436c",
-          "aa2ca9",
-          "4005b9",
-          "aac136",
-          "aab202",
-          "4841ad",
-          "4005bb",
-          "aa92fc",
-          "4005bd",
-          "4007f0",
-          "aa6ccb",
-          "aa92fa",
-          "405bfc",
-          "aac4ed",
-          "a20433",
-          "aac6ee",
-          "aa6b9f",
-          "4005be",
-          "aacc5b",
-          "aa9093",
-          "aabf80",
-          "a2007c",
-          "aa92ff",
-          "4006c4",
-          "aa7439",
-          "4006c1",
-          "4007fa",
-          "aa441c",
-          "aa57df",
-          "4006c0",
-          "aaa4dc",
-          "400683",
-          "aaa125",
-          "4005c1",
-          "a1f557",
-          "4005bf",
-          "400684",
-          "aa86cc",
-          "a1aa10"
-        ],
-        "name" : "777 224ER"
-      },
-      "B789" : {
-        "icao" : "B789",
-        "name" : "787 9",
-        "lastSeen" : 1740836691.8999999,
-        "aircraft" : [
-          "86e496",
-          "ab6380",
-          "406c3b",
-          "48ae26",
-          "34558f",
-          "4bb182",
-          "8965f3",
-          "86eb14",
-          "c01049",
-          "0101df",
-          "a13de2",
-          "7380c8",
-          "78158f",
-          "86e4b8",
-          "4bb183",
-          "c01074",
-          "ab6737",
-          "ab5c12",
-          "40749b",
-          "406b49",
-          "4073ce",
-          "7380c4",
-          "0101db",
-          "c02ed9",
-          "4851b1",
-          "7380cb",
-          "406b4a",
-          "89640a",
-          "48ae20",
-          "896409",
-          "7380c3",
-          "406d7b",
-          "407131",
-          "4bb194",
-          "7380c5",
-          "ab7613",
-          "39c429",
-          "86e474"
-        ]
-      },
-      "B77W" : {
-        "aircraft" : [
-          "394a02",
-          "710111",
-          "06a2af",
-          "780a16",
-          "4b1916",
-          "71c009",
-          "06a2b3",
-          "a9a399",
-          "4ba94f",
-          "3965a0",
-          "a1cb0f",
-          "a9e167",
-          "394a0a",
-          "78023d",
-          "a999d2",
-          "406a35",
-          "010154",
-          "a9b275",
-          "780a61",
-          "7100c8",
-          "71c041",
-          "a1c7c1",
-          "a9b9e3",
-          "06a2b6",
-          "4ba945",
-          "06a2c6",
-          "76ceef",
-          "8964a4",
-          "394a0b",
-          "a2b8fe",
-          "3965a4",
-          "06a2c7",
-          "01013c",
-          "71c347",
-          "a9b62c",
-          "4ba946",
-          "06a1be",
-          "71c007",
-          "706058",
-          "a2b501",
-          "71ba05",
-          "76cef2"
-        ],
-        "icao" : "B77W",
-        "lastSeen" : 1740849023.1,
-        "name" : "777 328ER"
       }
     }
   },
-  "Airbus" : {
-    "name" : "Airbus",
+  "Pilatus" : {
+    "name" : "Pilatus",
     "types" : {
-      "BCS3" : {
+      "PC24" : {
+        "name" : "PC-24",
+        "icao" : "PC24",
+        "lastSeen" : 1740580955,
         "aircraft" : [
-          "a19d59",
-          "c05ec7",
-          "c05ed9",
-          "a34d2f"
-        ],
-        "icao" : "BCS3",
-        "name" : "A220 300",
-        "lastSeen" : 1740787850.6999998
-      },
-      "A332" : {
-        "aircraft" : [
-          "abd3cf",
-          "abbb2c",
-          "39644a",
-          "7102f9",
-          "abac50",
-          "484445",
-          "c07996",
-          "484443",
-          "abb3be",
-          "abbee3"
-        ],
-        "lastSeen" : 1740774171.5,
-        "icao" : "A332",
-        "name" : "A330 223"
-      },
-      "A321" : {
-        "lastSeen" : 1740831785.8999999,
-        "aircraft" : [
-          "c03493",
-          "a7fe27",
-          "4cc56d",
-          "c010f6",
-          "c005c5",
-          "c051d1",
-          "a6b833",
-          "c051da",
-          "c051c6",
-          "a6dbf3",
-          "ad1927",
-          "a6ce7d"
-        ],
-        "icao" : "A321",
-        "name" : "A321 211SL"
-      },
-      "A343" : {
-        "aircraft" : [
-          "3c64ee",
-          "3c64f6",
-          "4b18ff"
-        ],
-        "lastSeen" : 1740777297.5,
-        "icao" : "A343",
-        "name" : "A340 313X"
-      },
-      "A320" : {
-        "name" : "A320 214",
-        "icao" : "A320",
-        "lastSeen" : 1740846997,
-        "aircraft" : [
-          "a2d2f2",
-          "a1dc31",
-          "a854d0",
-          "4cc564",
-          "a26b51",
-          "a17847",
-          "a2de17",
-          "a7bbe9",
-          "4cc561",
-          "4cc56e",
-          "a26f08",
-          "a1a21f",
-          "4cc569",
-          "4d2332",
-          "a2e93c",
-          "a17fb5"
+          "a06a02"
         ]
       },
-      "A346" : {
-        "lastSeen" : 1740507471.6999998,
+      "PC12" : {
         "aircraft" : [
-          "3c6509"
+          "a067a2",
+          "ad4389",
+          "a3e88a",
+          "a9b053",
+          "a6d1e2",
+          "c0843a",
+          "a70885",
+          "a120a1",
+          "aa68ee",
+          "a05514",
+          "c05e2d",
+          "a5d197"
         ],
-        "name" : "A340 642",
-        "icao" : "A346"
-      },
-      "A20N" : {
-        "icao" : "A20N",
+        "name" : "PC-XII 45",
+        "lastSeen" : 1740802277.8,
+        "icao" : "PC12"
+      }
+    }
+  },
+  "Gulfstream Aerospace" : {
+    "name" : "Gulfstream Aerospace",
+    "types" : {
+      "G650" : {
+        "name" : "G650",
+        "icao" : "G650",
         "aircraft" : [
-          "4cc553",
-          "a46345",
-          "a47221",
-          "a3ccb7"
+          "424b31",
+          "4242f9",
+          "a88dde",
+          "a195f1"
         ],
-        "lastSeen" : 1740844349.4,
-        "name" : "A320 251NSL"
+        "lastSeen" : 1740794449.1
       },
-      "A339" : {
-        "icao" : "A339",
-        "name" : "A330 941N",
+      "GA6C" : {
+        "name" : "GVII-G600",
+        "lastSeen" : 1740684739.8000002,
+        "icao" : "GA6C",
         "aircraft" : [
-          "a4c703",
-          "a4bbde",
-          "a4dbef",
-          "a4e714",
-          "a4f239",
-          "a4eacb",
-          "a4caba",
-          "a4ee82"
-        ],
-        "lastSeen" : 1740844094.6999998
-      },
-      "A333" : {
-        "lastSeen" : 1740844667.7,
-        "icao" : "A333",
-        "name" : "A330 343E",
-        "aircraft" : [
-          "406814",
-          "aaf968",
-          "478f43",
-          "4b187f",
-          "4b1880",
-          "406832",
-          "461f07",
-          "4b1883",
-          "ab0e54",
-          "4ca5c7",
-          "4b187b",
-          "478d42",
-          "ab4fd4",
-          "478854",
-          "47c1c2",
-          "3c5b32",
-          "4b1885",
-          "4ba9ce",
-          "aaf5b1",
-          "4caaf1",
-          "461f09",
-          "ab538b",
-          "aaea8c",
-          "3c656b",
-          "4ca74e",
-          "4063e6",
-          "4ac8a8",
-          "ab398a",
-          "4b187d",
-          "478f47",
-          "ab15c2",
-          "ab00d6",
-          "484fff",
-          "3c4ec7",
-          "ab2855",
-          "40655d",
-          "4b1884",
-          "3c6573",
-          "ab249e",
-          "3c68cb",
-          "ab35d3",
-          "407be6",
-          "ab20e7"
+          "a0f57e",
+          "a70853"
         ]
       },
-      "A359" : {
-        "icao" : "A359",
-        "name" : "A350-941",
-        "lastSeen" : 1740813965.9,
+      "GA5C" : {
+        "icao" : "GA5C",
+        "name" : "GVII-G500",
         "aircraft" : [
-          "3475c7",
-          "39cf0d",
-          "76cce7",
-          "34604e",
-          "06a0e6",
-          "3c6701",
-          "39cf06",
-          "06a0eb",
-          "a6456d",
-          "39c498",
-          "75855b",
-          "780ac8",
-          "76cdb3",
-          "39d2a4",
-          "a74ecc",
-          "789241",
-          "780a9b",
-          "39c494",
-          "3c670e",
-          "347387",
-          "801612",
-          "39c495"
+          "ad966c"
+        ],
+        "lastSeen" : 1740679748.9
+      },
+      "GLF4" : {
+        "name" : "GIV SP",
+        "aircraft" : [
+          "a5d4aa",
+          "a6630d",
+          "a5df79",
+          "a586aa",
+          "a65ba0",
+          "a33de7",
+          "a466c3"
+        ],
+        "icao" : "GLF4",
+        "lastSeen" : 1740782049.2
+      },
+      "G550" : {
+        "lastSeen" : 1740798803.2,
+        "icao" : "G550",
+        "name" : "G550",
+        "aircraft" : [
+          "a4c85b",
+          "a9c1ab",
+          "ac909f",
+          "a020a1"
         ]
       },
-      "A21N" : {
+      "G200" : {
+        "name" : "G200",
         "aircraft" : [
-          "39b44e",
-          "4a91b2",
-          "4cabd3",
-          "4cabd1",
-          "4ca9cb",
-          "a66576",
-          "c06a7f",
-          "4ca9bc",
-          "a641bf",
-          "a65bbc",
-          "a4c2ad",
-          "c06a75",
-          "4ca9bb",
-          "a4b6b6"
+          "a9ba31"
         ],
-        "name" : "A321 252NXSL",
-        "icao" : "A21N",
-        "lastSeen" : 1740833586.1000001
+        "icao" : "G200",
+        "lastSeen" : 1740776625.2
       },
-      "BCS1" : {
-        "name" : "A220 100",
-        "lastSeen" : 1740846762.8,
+      "GLF5" : {
         "aircraft" : [
-          "a06a5a"
+          "a788c6",
+          "a2cd68",
+          "a8bff1",
+          "a67857",
+          "a99268"
         ],
-        "icao" : "BCS1"
+        "name" : "GV",
+        "icao" : "GLF5",
+        "lastSeen" : 1740817179.7
       },
-      "A319" : {
+      "G280" : {
+        "name" : "G280",
         "aircraft" : [
-          "c04052",
-          "ab0361",
-          "a385da",
-          "44012f",
-          "a3ad47",
-          "aa435b",
-          "aa55ee",
-          "c040c5"
+          "a2012f"
         ],
-        "name" : "A319 114",
-        "lastSeen" : 1740845871.8,
-        "icao" : "A319"
+        "icao" : "G280",
+        "lastSeen" : 1740511788.2
       },
-      "A388" : {
-        "name" : "A380 842",
-        "icao" : "A388",
+      "G450" : {
+        "name" : "G450",
         "aircraft" : [
-          "8964b7",
-          "8964b5",
-          "406ec7",
-          "8963ea"
+          "a5732a",
+          "aba612",
+          "a58cb0",
+          "ab8ee9",
+          "a95db5"
         ],
-        "lastSeen" : 1740848544.5
-      },
-      "A35K" : {
-        "name" : "A350 1041",
-        "lastSeen" : 1740840766.4,
-        "icao" : "A35K",
+        "icao" : "G450",
+        "lastSeen" : 1740849352.4
+      }
+    }
+  },
+  "Dornier" : {
+    "types" : {
+      "D328" : {
+        "name" : "C-146A",
         "aircraft" : [
-          "407af5",
-          "4077d4",
-          "06a128",
-          "4077d3",
-          "407af3",
-          "789231",
-          "789217",
-          "06a124",
-          "78921a",
-          "789219",
-          "06a0f4",
-          "4075b3",
-          "4075b4"
+          "ae68be"
+        ],
+        "icao" : "D328",
+        "lastSeen" : 1740698431.5
+      }
+    },
+    "name" : "Dornier"
+  },
+  "Lockheed" : {
+    "name" : "Lockheed",
+    "types" : {
+      "C5M" : {
+        "name" : "C-5M Galaxy",
+        "aircraft" : [
+          "ae055f"
+        ],
+        "lastSeen" : 1740506803.2,
+        "icao" : "C5M"
+      },
+      "C130" : {
+        "name" : "C-130H Hercules",
+        "icao" : "C130",
+        "aircraft" : [
+          "adfddc",
+          "ae03e7"
+        ],
+        "lastSeen" : 1740764948.3999999
+      },
+      "C30J" : {
+        "icao" : "C30J",
+        "aircraft" : [
+          "ae29da",
+          "ae4e14",
+          "ae6205",
+          "ae1bed",
+          "ae5c99",
+          "ae61fd"
+        ],
+        "name" : "C-130J-30 Hercules",
+        "lastSeen" : 1740692187
+      }
+    }
+  },
+  "Sikorsky" : {
+    "types" : {
+      "H60" : {
+        "aircraft" : [
+          "ae478a"
+        ],
+        "name" : "HH-60M Blackhawk",
+        "lastSeen" : 1740613875.6,
+        "icao" : "H60"
+      }
+    },
+    "name" : "Sikorsky"
+  },
+  "Raytheon Aircraft Company" : {
+    "types" : {
+      "B350" : {
+        "aircraft" : [
+          "a7e8ce"
+        ],
+        "name" : "King Air B350",
+        "lastSeen" : 1740776731.6000001,
+        "icao" : "B350"
+      },
+      "H25B" : {
+        "aircraft" : [
+          "a3732b",
+          "aba930"
+        ],
+        "name" : "125 800XP",
+        "icao" : "H25B",
+        "lastSeen" : 1740784592.8
+      },
+      "BE40" : {
+        "aircraft" : [
+          "a5c8f8"
+        ],
+        "lastSeen" : 1740523035.4,
+        "icao" : "BE40",
+        "name" : "400 XP"
+      }
+    },
+    "name" : "Raytheon Aircraft Company"
+  },
+  "Beechcraft" : {
+    "types" : {
+      "B350" : {
+        "lastSeen" : 1740521999.5,
+        "name" : "300",
+        "icao" : "B350",
+        "aircraft" : [
+          "a08157"
         ]
+      }
+    },
+    "name" : "Beechcraft"
+  },
+  "Cirrus Jet" : {
+    "name" : "Cirrus Jet",
+    "types" : {
+      "SF50" : {
+        "lastSeen" : 1740609460.9,
+        "icao" : "SF50",
+        "aircraft" : [
+          "a18b7e"
+        ],
+        "name" : "Vision SF50 G2"
       }
     }
   },
@@ -727,8 +298,8 @@
     "name" : "Bell",
     "types" : {
       "B06" : {
-        "name" : "206B Jet Ranger III",
         "icao" : "B06",
+        "name" : "206B Jet Ranger III",
         "lastSeen" : 1740729055.3,
         "aircraft" : [
           "aae65e",
@@ -737,546 +308,1100 @@
       }
     }
   },
-  "Embraer" : {
+  "Hawker Beechcraft Corp" : {
+    "name" : "Hawker Beechcraft Corp",
     "types" : {
-      "E75S" : {
-        "name" : "EMB-175 SU",
+      "PRM1" : {
         "aircraft" : [
-          "c00b7c",
-          "c02e91",
-          "c017ed",
-          "c00b93",
-          "a1c57e",
-          "c00ba7",
-          "c00b9e",
-          "a20d0e",
-          "a1fbd9",
-          "a2270f",
-          "a19dff"
+          "a482cb"
         ],
-        "icao" : "E75S",
-        "lastSeen" : 1740848959.1000001
+        "icao" : "PRM1",
+        "lastSeen" : 1740786231.9,
+        "name" : "Premier IA"
       },
-      "E550" : {
-        "icao" : "E550",
+      "H900" : {
+        "name" : "Hawker 900XP",
+        "lastSeen" : 1740576808.8999999,
         "aircraft" : [
-          "a2f46c",
-          "407e6f"
+          "ad4179"
         ],
-        "lastSeen" : 1740765824.7,
-        "name" : "Praetor 600"
-      },
-      "E545" : {
-        "icao" : "E545",
-        "name" : "Legacy 450",
-        "lastSeen" : 1740702091.1,
+        "icao" : "H900"
+      }
+    }
+  },
+  "Textron Aviation" : {
+    "types" : {
+      "C68A" : {
+        "icao" : "C68A",
+        "lastSeen" : 1740836712.3999999,
+        "name" : "Citation Latitude",
         "aircraft" : [
-          "a1530b"
+          "a75746",
+          "ac7452",
+          "a70bff",
+          "a81b63",
+          "ac86e5"
         ]
       },
-      "E75L" : {
-        "icao" : "E75L",
+      "C25B" : {
+        "name" : "Citation CJ3+",
+        "lastSeen" : 1740502564.2,
+        "icao" : "C25B",
         "aircraft" : [
-          "a1c229",
-          "a9c737",
-          "a1c64e",
-          "a9a97f",
-          "a9f4c6",
-          "a9f87d",
-          "a9c380",
-          "a0d6fb",
-          "a9d86c",
-          "a9eeb6",
-          "a9b85b",
-          "a9ad36",
-          "aa43c4",
-          "aa1c45"
-        ],
-        "name" : "EMB-175 LR",
-        "lastSeen" : 1740778425.3000002
+          "c053c8"
+        ]
       },
-      "E35L" : {
+      "C25C" : {
+        "lastSeen" : 1740691209.3999999,
         "aircraft" : [
-          "406b7e"
+          "a05273"
         ],
-        "lastSeen" : 1740579982.8999999,
-        "icao" : "E35L",
-        "name" : "Legacy 650"
+        "name" : "Citation CJ4 Gen2",
+        "icao" : "C25C"
       },
-      "E145" : {
-        "icao" : "E145",
+      "C700" : {
+        "lastSeen" : 1740779003.5,
+        "name" : "Citation Longitude",
         "aircraft" : [
-          "a868f7",
-          "a8aa77",
-          "a948a2",
-          "ac8ce9",
-          "a8fd2c",
-          "ac857b",
-          "ac828f",
-          "a93d4e",
-          "a877d3",
-          "a8a309",
-          "a8e6e2",
-          "a94105",
-          "a8a6c0"
+          "ab3d6f",
+          "aaf228"
         ],
-        "lastSeen" : 1740800055.3,
-        "name" : "ERJ-145 LR"
-      },
-      "E55P" : {
-        "lastSeen" : 1740765429,
-        "aircraft" : [
-          "a39a30",
-          "a042d2",
-          "a41bbb",
-          "a05277",
-          "a5660d",
-          "a40cdf"
-        ],
-        "icao" : "E55P",
-        "name" : "EMB-505"
-      },
-      "E170" : {
-        "icao" : "E170",
-        "aircraft" : [
-          "a85d00",
-          "a880c8",
-          "a860b7",
-          "a8a847",
-          "a8a0d9"
-        ],
-        "name" : "EMB-170 SE",
-        "lastSeen" : 1740778084.8
-      },
-      "E190" : {
-        "lastSeen" : 1740795692.8000002,
-        "aircraft" : [
-          "a3a575",
-          "a2033a"
-        ],
-        "icao" : "E190",
-        "name" : "EMB-190 AR"
+        "icao" : "C700"
       }
     },
-    "name" : "Embraer"
-  },
-  "Boeing Company" : {
-    "types" : {
-      "B763" : {
-        "icao" : "B763",
-        "lastSeen" : 1740734875.3999999,
-        "name" : "767-3JHF",
-        "aircraft" : [
-          "4067a3",
-          "407ea0"
-        ]
-      },
-      "B77L" : {
-        "aircraft" : [
-          "407dbf"
-        ],
-        "icao" : "B77L",
-        "name" : "777F",
-        "lastSeen" : 1740834728.7
-      }
-    },
-    "name" : "Boeing Company"
-  },
-  "Cirrus Jet" : {
-    "name" : "Cirrus Jet",
-    "types" : {
-      "SF50" : {
-        "name" : "Vision SF50 G2",
-        "aircraft" : [
-          "a18b7e"
-        ],
-        "icao" : "SF50",
-        "lastSeen" : 1740609460.9
-      }
-    }
-  },
-  "Gulfstream Aerospace" : {
-    "name" : "Gulfstream Aerospace",
-    "types" : {
-      "G650" : {
-        "aircraft" : [
-          "a88dde",
-          "424b31",
-          "a195f1",
-          "4242f9"
-        ],
-        "lastSeen" : 1740794449.1,
-        "icao" : "G650",
-        "name" : "G650"
-      },
-      "G550" : {
-        "lastSeen" : 1740798803.2,
-        "aircraft" : [
-          "a020a1",
-          "a9c1ab",
-          "a4c85b",
-          "ac909f"
-        ],
-        "name" : "G550",
-        "icao" : "G550"
-      },
-      "GLF5" : {
-        "name" : "GV",
-        "icao" : "GLF5",
-        "lastSeen" : 1740817179.7,
-        "aircraft" : [
-          "a99268",
-          "a2cd68",
-          "a8bff1",
-          "a67857",
-          "a788c6"
-        ]
-      },
-      "GA6C" : {
-        "name" : "GVII-G600",
-        "icao" : "GA6C",
-        "aircraft" : [
-          "a0f57e",
-          "a70853"
-        ],
-        "lastSeen" : 1740684739.8000002
-      },
-      "GA5C" : {
-        "aircraft" : [
-          "ad966c"
-        ],
-        "lastSeen" : 1740679748.9,
-        "icao" : "GA5C",
-        "name" : "GVII-G500"
-      },
-      "G450" : {
-        "icao" : "G450",
-        "name" : "G450",
-        "lastSeen" : 1740849352.4,
-        "aircraft" : [
-          "a5732a",
-          "a58cb0",
-          "aba612",
-          "ab8ee9",
-          "a95db5"
-        ]
-      },
-      "GLF4" : {
-        "name" : "GIV SP",
-        "aircraft" : [
-          "a33de7",
-          "a5d4aa",
-          "a5df79",
-          "a586aa",
-          "a6630d",
-          "a466c3",
-          "a65ba0"
-        ],
-        "icao" : "GLF4",
-        "lastSeen" : 1740782049.2
-      },
-      "G200" : {
-        "icao" : "G200",
-        "name" : "G200",
-        "lastSeen" : 1740776625.2,
-        "aircraft" : [
-          "a9ba31"
-        ]
-      },
-      "G280" : {
-        "icao" : "G280",
-        "lastSeen" : 1740511788.2,
-        "aircraft" : [
-          "a2012f"
-        ],
-        "name" : "G280"
-      }
-    }
-  },
-  "Airbus Canada" : {
-    "name" : "Airbus Canada",
-    "types" : {
-      "BCS3" : {
-        "lastSeen" : 1740786119.3999999,
-        "icao" : "BCS3",
-        "aircraft" : [
-          "a1d3b4",
-          "a1db22"
-        ],
-        "name" : "A220-300"
-      }
-    }
+    "name" : "Textron Aviation"
   },
   "Bombardier" : {
+    "name" : "Bombardier",
     "types" : {
-      "CL30" : {
-        "icao" : "CL30",
-        "name" : "Challenger 300",
-        "lastSeen" : 1740757819.3999999,
+      "GL6T" : {
+        "name" : "Global 6000",
         "aircraft" : [
-          "a6985d",
-          "a33dd7"
-        ]
-      },
-      "CL35" : {
-        "icao" : "CL35",
-        "lastSeen" : 1740776231,
-        "aircraft" : [
-          "a4e34f",
-          "aa0a43",
-          "aa8be5",
-          "a40e30",
-          "a3567a",
-          "aa7d09",
-          "a9f7b0",
-          "c02538"
+          "491d87",
+          "407d6c",
+          "4d211a",
+          "a0da7a",
+          "4d210b",
+          "acf149",
+          "4d20fe",
+          "4d20ec"
         ],
-        "name" : "Challenger 350"
-      },
-      "LJ45" : {
-        "icao" : "LJ45",
-        "aircraft" : [
-          "c0707b",
-          "a57079"
-        ],
-        "lastSeen" : 1740843363.7,
-        "name" : "Learjet 45"
-      },
-      "GL7T" : {
-        "icao" : "GL7T",
-        "lastSeen" : 1740771844.1,
-        "aircraft" : [
-          "a6697e",
-          "ac3077",
-          "4b18e7",
-          "4d2308"
-        ],
-        "name" : "Global 7500"
+        "icao" : "GL6T",
+        "lastSeen" : 1740850367.8
       },
       "CL65" : {
-        "lastSeen" : 1740696335.6000001,
-        "icao" : "CL65",
+        "name" : "Challenger 605",
         "aircraft" : [
           "c072de",
           "a09db5",
           "acbbd0"
         ],
-        "name" : "Challenger 605"
+        "icao" : "CL65",
+        "lastSeen" : 1740696335.6000001
       },
-      "CRJ7" : {
-        "name" : "CRJ 700",
-        "lastSeen" : 1740788155.5,
-        "icao" : "CRJ7",
+      "CL35" : {
+        "lastSeen" : 1740776231,
         "aircraft" : [
-          "a71a0b",
-          "a6b0d2",
-          "a668e2",
-          "a69b86",
-          "a6dc42",
-          "a9a4e2",
-          "a6b840",
-          "a6dfbf",
-          "a77077",
-          "a6503f",
-          "a9739c",
-          "a6d857",
-          "a99b1b",
-          "a68caa",
-          "a6eeb9",
-          "a6451a",
-          "a6c39f",
-          "a6dc08"
-        ]
-      },
-      "GL6T" : {
-        "lastSeen" : 1740849301.3,
-        "name" : "Global 6000",
-        "icao" : "GL6T",
-        "aircraft" : [
-          "acf149",
-          "4d210b",
-          "4d20ec",
-          "491d87",
-          "a0da7a",
-          "4d20fe",
-          "4d211a",
-          "407d6c"
-        ]
-      },
-      "CRJ9" : {
-        "name" : "CRJ 900 LR NG",
-        "icao" : "CRJ9",
-        "aircraft" : [
-          "a6152a",
-          "a21142",
-          "acab54",
-          "a7d725",
-          "a15795",
-          "a39723",
-          "acc7ae",
-          "a130cb",
-          "acba30",
-          "acb679",
-          "a5f162",
-          "accf1c",
-          "a086ce",
-          "a0be05",
-          "a3245d",
-          "acc040",
-          "a5fc87",
-          "aca02f",
-          "a36fa4",
-          "a7cc00",
-          "ace1af",
-          "ad01c0",
-          "a32bcb",
-          "a77d89",
-          "a09961",
-          "a310cf",
-          "a5e3e4",
-          "a34bdc",
-          "ac98c1",
-          "a30d18"
+          "c02538",
+          "a9f7b0",
+          "aa8be5",
+          "a40e30",
+          "aa0a43",
+          "aa7d09",
+          "a4e34f",
+          "a3567a"
         ],
-        "lastSeen" : 1740830337.8000002
+        "icao" : "CL35",
+        "name" : "BD-100-1A10 (CL30)"
+      },
+      "GL7T" : {
+        "icao" : "GL7T",
+        "aircraft" : [
+          "4b18e7",
+          "a6697e",
+          "ac3077",
+          "4d2308"
+        ],
+        "lastSeen" : 1740771844.1,
+        "name" : "Global 7500"
       },
       "GLEX" : {
-        "icao" : "GLEX",
+        "lastSeen" : 1740554686.8,
+        "name" : "Global Express",
         "aircraft" : [
           "acd5c6"
         ],
-        "lastSeen" : 1740554686.8,
-        "name" : "Global Express"
+        "icao" : "GLEX"
+      },
+      "DH8D" : {
+        "icao" : "DH8D",
+        "aircraft" : [
+          "c060b5",
+          "c06357",
+          "c060b1",
+          "c06359",
+          "c060b3",
+          "c060b9",
+          "c06365",
+          "c0636e"
+        ],
+        "lastSeen" : 1740785994.7,
+        "name" : "DHC-8 402 NG"
+      },
+      "CRJ9" : {
+        "icao" : "CRJ9",
+        "lastSeen" : 1740830337.8000002,
+        "name" : "CRJ 900 LR NG",
+        "aircraft" : [
+          "acb679",
+          "a086ce",
+          "a39723",
+          "ac98c1",
+          "a09961",
+          "acc040",
+          "acab54",
+          "a21142",
+          "a15795",
+          "a6152a",
+          "acba30",
+          "ace1af",
+          "ad01c0",
+          "acc7ae",
+          "accf1c",
+          "a5fc87",
+          "a130cb",
+          "aca02f",
+          "a3245d",
+          "a36fa4",
+          "a34bdc",
+          "a7d725",
+          "a0be05",
+          "a77d89",
+          "a5f162",
+          "a7cc00",
+          "a310cf",
+          "a5e3e4",
+          "a30d18",
+          "a32bcb"
+        ]
+      },
+      "GL5T" : {
+        "lastSeen" : 1740757809.8999999,
+        "name" : "Global 5000",
+        "icao" : "GL5T",
+        "aircraft" : [
+          "ad8156",
+          "c04911",
+          "39ce6e"
+        ]
+      },
+      "CRJ7" : {
+        "aircraft" : [
+          "a9739c",
+          "a99b1b",
+          "a6b0d2",
+          "a6503f",
+          "a68caa",
+          "a77077",
+          "a6b840",
+          "a6c39f",
+          "a71a0b",
+          "a668e2",
+          "a69b86",
+          "a6d857",
+          "a6dfbf",
+          "a6eeb9",
+          "a9a4e2",
+          "a6dc08",
+          "a6dc42",
+          "a6451a"
+        ],
+        "icao" : "CRJ7",
+        "lastSeen" : 1740788155.5,
+        "name" : "CRJ 700 701ER"
+      },
+      "LJ45" : {
+        "icao" : "LJ45",
+        "aircraft" : [
+          "a57079",
+          "c0707b"
+        ],
+        "lastSeen" : 1740850268.6,
+        "name" : "Learjet 45 XR"
       },
       "CL64" : {
         "icao" : "CL64",
+        "name" : "Challenger 604",
         "aircraft" : [
-          "46ada1",
-          "a3624a"
+          "a3624a",
+          "46ada1"
         ],
-        "lastSeen" : 1740746228.2,
-        "name" : "Challenger 604"
+        "lastSeen" : 1740746228.2
       },
-      "DH8D" : {
-        "lastSeen" : 1740785994.7,
+      "CL30" : {
+        "lastSeen" : 1740757819.3999999,
+        "name" : "Challenger 300",
         "aircraft" : [
-          "c06359",
-          "c0636e",
-          "c060b5",
-          "c060b1",
-          "c06357",
-          "c060b9",
-          "c060b3",
-          "c06365"
+          "a6985d",
+          "a33dd7"
         ],
-        "name" : "DHC-8 402",
-        "icao" : "DH8D"
-      },
-      "GL5T" : {
-        "icao" : "GL5T",
-        "aircraft" : [
-          "c04911",
-          "39ce6e",
-          "ad8156"
-        ],
-        "lastSeen" : 1740757809.8999999,
-        "name" : "Global 5000"
+        "icao" : "CL30"
       }
-    },
-    "name" : "Bombardier"
+    }
   },
-  "Beechcraft" : {
-    "types" : {
-      "B350" : {
-        "name" : "300",
-        "icao" : "B350",
-        "aircraft" : [
-          "a08157"
-        ],
-        "lastSeen" : 1740521999.5
-      }
-    },
-    "name" : "Beechcraft"
-  },
-  "DAHER-SOCATA" : {
+  "EADS SOCATA" : {
     "types" : {
       "TBM8" : {
-        "icao" : "TBM8",
         "name" : "TBM 850",
+        "lastSeen" : 1740514586.6999998,
+        "icao" : "TBM8",
         "aircraft" : [
-          "aba8dd"
-        ],
-        "lastSeen" : 1740592997.3
+          "aba588"
+        ]
       }
     },
-    "name" : "DAHER-SOCATA"
+    "name" : "EADS SOCATA"
+  },
+  "Boeing" : {
+    "name" : "Boeing",
+    "types" : {
+      "B788" : {
+        "aircraft" : [
+          "740823",
+          "507c4c",
+          "507c59",
+          "040049",
+          "040127",
+          "ac142e",
+          "aae958",
+          "a2a2e3",
+          "40731c",
+          "ac0906"
+        ],
+        "lastSeen" : 1740744612.6,
+        "name" : "787 8",
+        "icao" : "B788"
+      },
+      "B738" : {
+        "icao" : "B738",
+        "lastSeen" : 1740695685.2,
+        "name" : "737-8K5",
+        "aircraft" : [
+          "c01f53"
+        ]
+      },
+      "B744" : {
+        "aircraft" : [
+          "3c4a8b",
+          "448465",
+          "3c4ad5",
+          "a4dca4",
+          "3c4ad9",
+          "a777b8",
+          "acfc26",
+          "3c4ad8"
+        ],
+        "lastSeen" : 1740848054.6000001,
+        "icao" : "B744",
+        "name" : "747 430"
+      },
+      "C17" : {
+        "lastSeen" : 1740709260.8,
+        "icao" : "C17",
+        "aircraft" : [
+          "ae1172",
+          "ae49c6",
+          "ae10b8",
+          "ae4d6a",
+          "ae1472",
+          "ae4f13",
+          "ae10ba",
+          "ae20c5",
+          "ae145b"
+        ],
+        "name" : "C-17A Globemaster III"
+      },
+      "B77L" : {
+        "aircraft" : [
+          "3c4584",
+          "3c70c4",
+          "06a073",
+          "4bb14c",
+          "3c4585",
+          "4bb14f",
+          "ac30e9",
+          "06a066",
+          "7804c6",
+          "896169",
+          "3951c1",
+          "ac498c"
+        ],
+        "icao" : "B77L",
+        "lastSeen" : 1740845159.4,
+        "name" : "777 FZN"
+      },
+      "K35R" : {
+        "icao" : "K35R",
+        "lastSeen" : 1740775596.7,
+        "aircraft" : [
+          "ae038b",
+          "ae068c",
+          "ae07c4",
+          "ae0149",
+          "ae07a7",
+          "ae0148"
+        ],
+        "name" : "KC-135R"
+      },
+      "B722" : {
+        "aircraft" : [
+          "a9bba9"
+        ],
+        "lastSeen" : 1740514130.6999998,
+        "name" : "727 223F",
+        "icao" : "B722"
+      },
+      "B763" : {
+        "aircraft" : [
+          "a895eb",
+          "a8e4e9",
+          "a17ecd",
+          "a875da",
+          "a8bd6a",
+          "a8a87e",
+          "a8ec57",
+          "a8b9b3",
+          "a11380",
+          "a3f579",
+          "a1775f",
+          "a5fef9",
+          "44003f",
+          "a8c3bd",
+          "a3c68c",
+          "a07bb3",
+          "440060",
+          "a91b44",
+          "a8f00e",
+          "a3f930",
+          "a8cc46",
+          "a8f3c5",
+          "a3b90e",
+          "a913d6",
+          "a12c23",
+          "a17b16",
+          "a89d59",
+          "a8cffd",
+          "a13748",
+          "a8e132",
+          "a8c88f",
+          "a899a2",
+          "400b4b",
+          "a8d3b4",
+          "a8ac35",
+          "a8f77c",
+          "a8c4d8"
+        ],
+        "icao" : "B763",
+        "name" : "767 322ER\/W",
+        "lastSeen" : 1740850211.3999999
+      },
+      "B772" : {
+        "name" : "777 222ER",
+        "aircraft" : [
+          "aaa4dc",
+          "aab202",
+          "3949ec",
+          "aaa125",
+          "aa9321",
+          "aa9093",
+          "405bfc",
+          "aa9bb8",
+          "4006c1",
+          "aaa326",
+          "aac136",
+          "aa305f",
+          "aa86cc",
+          "aac4ed",
+          "aa92ff",
+          "4005bb",
+          "4007f0",
+          "a1f557",
+          "a2007c",
+          "4005b9",
+          "4005bd",
+          "a20433",
+          "aac6ee",
+          "4007f7",
+          "aabf80",
+          "aa57df",
+          "aa6ccb",
+          "aa441c",
+          "aace5c",
+          "aa92fa",
+          "4006c0",
+          "aa2ca9",
+          "400683",
+          "a1aa10",
+          "4005bf",
+          "4006c4",
+          "4005be",
+          "aacc5b",
+          "aa6b9f",
+          "4841ad",
+          "4007fa",
+          "aa92fc",
+          "aa7439",
+          "400684",
+          "4005c1",
+          "aa9f6f",
+          "48436c"
+        ],
+        "icao" : "B772",
+        "lastSeen" : 1740809643.4
+      },
+      "B77W" : {
+        "name" : "777 3B5ER",
+        "aircraft" : [
+          "71c041",
+          "406a35",
+          "3965a4",
+          "06a2b3",
+          "71c009",
+          "4ba945",
+          "4b1916",
+          "7100c8",
+          "4ba94f",
+          "710111",
+          "780a16",
+          "06a2c7",
+          "a9e167",
+          "010154",
+          "a999d2",
+          "71c007",
+          "06a1be",
+          "78023d",
+          "780a61",
+          "a9b275",
+          "76cef2",
+          "06a2b6",
+          "71ba05",
+          "4ba946",
+          "a9b9e3",
+          "76ceef",
+          "01013c",
+          "06a2af",
+          "710110",
+          "394a02",
+          "a9a399",
+          "8964a4",
+          "a2b501",
+          "3965a0",
+          "a2b8fe",
+          "06a2c6",
+          "a9b62c",
+          "706058",
+          "394a0b",
+          "a1cb0f",
+          "394a0a",
+          "71c347",
+          "a1c7c1"
+        ],
+        "icao" : "B77W",
+        "lastSeen" : 1740850296.4
+      },
+      "KC46" : {
+        "icao" : "KC46",
+        "lastSeen" : 1740762604.6999998,
+        "name" : "KC-46A Pegasus",
+        "aircraft" : [
+          "ae5bc3",
+          "ae5fa8"
+        ]
+      },
+      "B78X" : {
+        "lastSeen" : 1740764240.2,
+        "name" : "787 10",
+        "icao" : "B78X",
+        "aircraft" : [
+          "a05646",
+          "4078de",
+          "485b44",
+          "a11bc6",
+          "407af1",
+          "a0a54a",
+          "485e2d",
+          "a11bc8"
+        ]
+      },
+      "B38M" : {
+        "name" : "737-8",
+        "icao" : "B38M",
+        "aircraft" : [
+          "c05d7b",
+          "c02fd5",
+          "a143e9",
+          "ac3a60",
+          "4cc577",
+          "4cc53a",
+          "4cc547",
+          "ab120a",
+          "c0307a",
+          "4cc52c",
+          "c03064",
+          "c03068",
+          "c030ef",
+          "c03003",
+          "ab1978",
+          "4cc53b"
+        ],
+        "lastSeen" : 1740844878.1999998
+      },
+      "B739" : {
+        "icao" : "B739",
+        "name" : "737NG 900ER\/W",
+        "aircraft" : [
+          "a46d95",
+          "a81006",
+          "aaf4c8",
+          "aae9a3",
+          "a9dce9",
+          "ab1c47",
+          "aaf111",
+          "a300a9",
+          "a44588"
+        ],
+        "lastSeen" : 1740829744.6000001
+      },
+      "B748" : {
+        "name" : "747 830",
+        "lastSeen" : 1740817311.2,
+        "aircraft" : [
+          "3c4b2a",
+          "3c4b2e",
+          "780a29",
+          "a7e310",
+          "4d0117",
+          "a7f7fc",
+          "4243c4",
+          "a7e6c7",
+          "a82332",
+          "a806d8"
+        ],
+        "icao" : "B748"
+      },
+      "B39M" : {
+        "name" : "737MAX 9",
+        "lastSeen" : 1740796388.8,
+        "icao" : "B39M",
+        "aircraft" : [
+          "4cc52b",
+          "4cc52e",
+          "4cc548"
+        ]
+      },
+      "B789" : {
+        "name" : "787 9",
+        "lastSeen" : 1740836691.8999999,
+        "aircraft" : [
+          "4bb194",
+          "0101db",
+          "34558f",
+          "86e474",
+          "78158f",
+          "48ae20",
+          "86eb14",
+          "4073ce",
+          "407131",
+          "8965f3",
+          "86e4b8",
+          "4bb183",
+          "ab6380",
+          "48ae26",
+          "406c3b",
+          "7380c8",
+          "c02ed9",
+          "40749b",
+          "7380c5",
+          "a13de2",
+          "406d7b",
+          "896409",
+          "ab6737",
+          "406b49",
+          "0101df",
+          "c01074",
+          "4bb182",
+          "c01049",
+          "39c429",
+          "ab5c12",
+          "7380c3",
+          "4851b1",
+          "89640a",
+          "ab7613",
+          "7380cb",
+          "406b4a",
+          "7380c4",
+          "86e496"
+        ],
+        "icao" : "B789"
+      },
+      "B737" : {
+        "name" : "737NG 7H4\/W",
+        "aircraft" : [
+          "acba1b",
+          "a582f9",
+          "acab3f",
+          "a20a81",
+          "a2e28f",
+          "a3117c",
+          "a56e0d",
+          "a4d621",
+          "ad61de",
+          "a2e646"
+        ],
+        "lastSeen" : 1740781987.6,
+        "icao" : "B737"
+      },
+      "B764" : {
+        "icao" : "B764",
+        "aircraft" : [
+          "ab5975",
+          "ab8862",
+          "aa44cd",
+          "aa44ad",
+          "aa44ac",
+          "ab4bf7",
+          "ab772d",
+          "ab5365",
+          "aa6c50",
+          "aa93c9",
+          "ab80f4",
+          "ab9387",
+          "a8b75a",
+          "ab6c08",
+          "ab649a",
+          "aa44d0",
+          "a92ddf",
+          "a92dfc",
+          "ab84ab",
+          "ab4840",
+          "aa44cf",
+          "ab60e3",
+          "ab5d2c",
+          "ab8fd0"
+        ],
+        "lastSeen" : 1740850052.2,
+        "name" : "767 432ER"
+      },
+      "B752" : {
+        "name" : "757 224\/W",
+        "lastSeen" : 1740828333,
+        "aircraft" : [
+          "a11f9d",
+          "a4cfe0",
+          "a0a903",
+          "c01d16",
+          "4cc2a7",
+          "ad27aa",
+          "a5ce0f",
+          "add6db",
+          "aa7864",
+          "a50c4b",
+          "a14700",
+          "adc5a6",
+          "a0a8de",
+          "ad23f3"
+        ],
+        "icao" : "B752"
+      }
+    }
+  },
+  "Airbus" : {
+    "name" : "Airbus",
+    "types" : {
+      "A388" : {
+        "name" : "A380 841",
+        "lastSeen" : 1740848544.5,
+        "icao" : "A388",
+        "aircraft" : [
+          "406ec7",
+          "8964b7",
+          "8963ea",
+          "8964b5"
+        ]
+      },
+      "A339" : {
+        "name" : "A330 941N",
+        "lastSeen" : 1740844094.6999998,
+        "icao" : "A339",
+        "aircraft" : [
+          "a4c703",
+          "a4dbef",
+          "a4caba",
+          "a4bbde",
+          "a4e714",
+          "a4eacb",
+          "a4f239",
+          "a4ee82"
+        ]
+      },
+      "A319" : {
+        "icao" : "A319",
+        "aircraft" : [
+          "44012f",
+          "c04052",
+          "c040c5",
+          "aa55ee",
+          "a385da",
+          "ab0361",
+          "aa435b",
+          "a3ad47"
+        ],
+        "name" : "A319 112",
+        "lastSeen" : 1740845871.8
+      },
+      "A346" : {
+        "lastSeen" : 1740507471.6999998,
+        "icao" : "A346",
+        "name" : "A340 642",
+        "aircraft" : [
+          "3c6509"
+        ]
+      },
+      "A320" : {
+        "aircraft" : [
+          "a1f11d",
+          "a17fb5",
+          "a2de17",
+          "a1a21f",
+          "a2d2f2",
+          "a17847",
+          "4cc569",
+          "4cc564",
+          "4cc561",
+          "a26f08",
+          "4cc56e",
+          "a7bbe9",
+          "a854d0",
+          "a26b51",
+          "4d2332",
+          "a2e93c",
+          "a1dc31"
+        ],
+        "lastSeen" : 1740850117.8999999,
+        "name" : "A320 214",
+        "icao" : "A320"
+      },
+      "A20N" : {
+        "aircraft" : [
+          "a3ccb7",
+          "4cc553",
+          "a46345",
+          "a47221"
+        ],
+        "name" : "A320 251NSL",
+        "icao" : "A20N",
+        "lastSeen" : 1740844349.4
+      },
+      "A35K" : {
+        "name" : "A350 1041",
+        "icao" : "A35K",
+        "lastSeen" : 1740840766.4,
+        "aircraft" : [
+          "407af5",
+          "789231",
+          "06a0f4",
+          "06a128",
+          "789217",
+          "4075b3",
+          "4077d4",
+          "789219",
+          "4077d3",
+          "407af3",
+          "06a124",
+          "78921a",
+          "4075b4"
+        ]
+      },
+      "A359" : {
+        "icao" : "A359",
+        "lastSeen" : 1740813965.9,
+        "name" : "A350 941",
+        "aircraft" : [
+          "06a0e6",
+          "347387",
+          "06a0eb",
+          "39cf06",
+          "780a9b",
+          "3c6701",
+          "789241",
+          "76cce7",
+          "39d2a4",
+          "39c498",
+          "76cdb3",
+          "780ac8",
+          "75855b",
+          "3475c7",
+          "39c494",
+          "801612",
+          "39cf0d",
+          "34604e",
+          "3c670e",
+          "a74ecc",
+          "a6456d",
+          "39c495"
+        ]
+      },
+      "A21N" : {
+        "name" : "A321 253NXSL",
+        "icao" : "A21N",
+        "lastSeen" : 1740833586.1000001,
+        "aircraft" : [
+          "4ca9cb",
+          "4ca9bb",
+          "4ca9bc",
+          "4a91b2",
+          "4cabd3",
+          "a65bbc",
+          "4cabd1",
+          "c06a75",
+          "c06a7f",
+          "a4c2ad",
+          "a66576",
+          "a4b6b6",
+          "39b44e",
+          "a641bf"
+        ]
+      },
+      "A332" : {
+        "icao" : "A332",
+        "aircraft" : [
+          "39644a",
+          "abbee3",
+          "abd3cf",
+          "c07996",
+          "484443",
+          "abbb2c",
+          "484445",
+          "abb3be",
+          "abac50",
+          "7102f9"
+        ],
+        "lastSeen" : 1740774171.5,
+        "name" : "A330 203"
+      },
+      "BCS3" : {
+        "name" : "A220 300",
+        "aircraft" : [
+          "a34d2f",
+          "a19d59",
+          "c05ec7",
+          "c05ed9"
+        ],
+        "icao" : "BCS3",
+        "lastSeen" : 1740787850.6999998
+      },
+      "A333" : {
+        "icao" : "A333",
+        "lastSeen" : 1740844667.7,
+        "aircraft" : [
+          "ab249e",
+          "ab398a",
+          "4ca74e",
+          "4b187b",
+          "4b1880",
+          "461f07",
+          "4b1883",
+          "4b1884",
+          "ab2855",
+          "3c5b32",
+          "ab20e7",
+          "4b187f",
+          "484fff",
+          "3c656b",
+          "ab00d6",
+          "ab0e54",
+          "ab4fd4",
+          "4b187d",
+          "478d42",
+          "aaf968",
+          "aaf5b1",
+          "4063e6",
+          "ab538b",
+          "3c6573",
+          "ab15c2",
+          "407be6",
+          "478f47",
+          "47c1c2",
+          "4b1885",
+          "406814",
+          "3c68cb",
+          "4caaf1",
+          "4ca5c7",
+          "aaea8c",
+          "478854",
+          "406832",
+          "461f09",
+          "40655d",
+          "4ac8a8",
+          "ab35d3",
+          "3c4ec7",
+          "4ba9ce",
+          "478f43"
+        ],
+        "name" : "A330 323E"
+      },
+      "BCS1" : {
+        "icao" : "BCS1",
+        "lastSeen" : 1740846762.8,
+        "name" : "A220 100",
+        "aircraft" : [
+          "a06a5a"
+        ]
+      },
+      "A321" : {
+        "lastSeen" : 1740831785.8999999,
+        "aircraft" : [
+          "ad1927",
+          "a7fe27",
+          "c010f6",
+          "a6ce7d",
+          "a6dbf3",
+          "c005c5",
+          "c051da",
+          "c03493",
+          "a6b833",
+          "4cc56d",
+          "c051c6",
+          "c051d1"
+        ],
+        "name" : "A321 231SL",
+        "icao" : "A321"
+      },
+      "A343" : {
+        "aircraft" : [
+          "3c64f6",
+          "4b18ff",
+          "3c64ee"
+        ],
+        "lastSeen" : 1740777297.5,
+        "icao" : "A343",
+        "name" : "A340 313X"
+      }
+    }
+  },
+  "Beech" : {
+    "types" : {
+      "BE99" : {
+        "aircraft" : [
+          "a395e3",
+          "a6609b"
+        ],
+        "lastSeen" : 1740746030.7,
+        "icao" : "BE99",
+        "name" : "99 C"
+      }
+    },
+    "name" : "Beech"
+  },
+  "Airbus Canada" : {
+    "types" : {
+      "BCS3" : {
+        "icao" : "BCS3",
+        "name" : "A220-300",
+        "aircraft" : [
+          "a1d3b4",
+          "a1d76b",
+          "a1db22"
+        ],
+        "lastSeen" : 1740850378.8
+      }
+    },
+    "name" : "Airbus Canada"
   },
   "Cessna" : {
     "name" : "Cessna",
     "types" : {
-      "C56X" : {
-        "lastSeen" : 1740849298.4,
-        "name" : "Citation XLS",
-        "aircraft" : [
-          "a798c6",
-          "a97a66",
-          "ab8f8e",
-          "a65d2f",
-          "a76622",
-          "c06c5b",
-          "ab5933",
-          "a7950f"
-        ],
-        "icao" : "C56X"
-      },
-      "C550" : {
-        "lastSeen" : 1740759496.5,
-        "icao" : "C550",
-        "aircraft" : [
-          "a05f5a"
-        ],
-        "name" : "Citation S\/II"
-      },
-      "C700" : {
-        "aircraft" : [
-          "abd7b4"
-        ],
-        "name" : "700 Citation Longitude",
-        "icao" : "C700",
-        "lastSeen" : 1740691368.3
-      },
-      "C650" : {
-        "name" : "Citation III",
-        "lastSeen" : 1740601644.8000002,
-        "aircraft" : [
-          "a5b7c8"
-        ],
-        "icao" : "C650"
-      },
       "C25A" : {
         "aircraft" : [
           "a1ad23",
           "a69ccc"
         ],
-        "name" : "Citation CJ2",
         "icao" : "C25A",
-        "lastSeen" : 1740772665.8
+        "lastSeen" : 1740772665.8,
+        "name" : "Citation CJ2"
       },
-      "C06T" : {
-        "lastSeen" : 1740601473.5,
-        "name" : "T206H",
+      "C525" : {
+        "lastSeen" : 1740771011.3999999,
         "aircraft" : [
-          "a03798"
+          "440251",
+          "a92664"
         ],
-        "icao" : "C06T"
+        "icao" : "C525",
+        "name" : "Citation CJ1"
+      },
+      "C56X" : {
+        "icao" : "C56X",
+        "lastSeen" : 1740850424.4,
+        "aircraft" : [
+          "ab8f8e",
+          "c06c5b",
+          "a798c6",
+          "a7950f",
+          "a97a66",
+          "ab5933",
+          "a76622",
+          "a65d2f"
+        ],
+        "name" : "Citation Excel"
+      },
+      "C750" : {
+        "lastSeen" : 1740772754.3,
+        "icao" : "C750",
+        "aircraft" : [
+          "ac83aa",
+          "a00e0d"
+        ],
+        "name" : "Citation X"
+      },
+      "C510" : {
+        "name" : "Citation Mustang",
+        "aircraft" : [
+          "a0018a"
+        ],
+        "lastSeen" : 1740757679,
+        "icao" : "C510"
       },
       "C208" : {
+        "name" : "208 B",
         "aircraft" : [
           "a1c130"
         ],
-        "lastSeen" : 1740764127,
         "icao" : "C208",
-        "name" : "208 B"
+        "lastSeen" : 1740764127
+      },
+      "C06T" : {
+        "name" : "T206H",
+        "icao" : "C06T",
+        "aircraft" : [
+          "a03798"
+        ],
+        "lastSeen" : 1740601473.5
+      },
+      "C650" : {
+        "aircraft" : [
+          "a5b7c8"
+        ],
+        "icao" : "C650",
+        "name" : "Citation III",
+        "lastSeen" : 1740601644.8000002
+      },
+      "C700" : {
+        "aircraft" : [
+          "abd7b4"
+        ],
+        "lastSeen" : 1740691368.3,
+        "icao" : "C700",
+        "name" : "700 Citation Longitude"
       },
       "C560" : {
         "aircraft" : [
@@ -1286,166 +1411,268 @@
         "icao" : "C560",
         "lastSeen" : 1740596142.8999999
       },
-      "C525" : {
-        "name" : "525C",
-        "lastSeen" : 1740771011.3999999,
+      "C550" : {
+        "icao" : "C550",
         "aircraft" : [
-          "a92664",
-          "440251"
+          "a05f5a"
         ],
-        "icao" : "C525"
-      },
-      "C750" : {
-        "lastSeen" : 1740772754.3,
-        "aircraft" : [
-          "ac83aa",
-          "a00e0d"
-        ],
-        "name" : "Citation X",
-        "icao" : "C750"
-      },
-      "C510" : {
-        "aircraft" : [
-          "a0018a"
-        ],
-        "icao" : "C510",
-        "name" : "Citation Mustang",
-        "lastSeen" : 1740757679
+        "lastSeen" : 1740759496.5,
+        "name" : "Citation S\/II"
       }
     }
   },
-  "Pilatus" : {
-    "name" : "Pilatus",
+  "Dassault" : {
+    "name" : "Dassault",
     "types" : {
-      "PC12" : {
+      "F2EX" : {
         "aircraft" : [
-          "a3e88a",
-          "a05514",
-          "a5d197",
-          "ad4389",
-          "a6d1e2",
-          "a120a1",
-          "aa68ee",
-          "a067a2",
-          "a70885",
-          "a9b053",
-          "c0843a",
-          "c05e2d"
+          "aaf4bd"
         ],
-        "name" : "PC-XII 47E",
-        "lastSeen" : 1740802277.8,
-        "icao" : "PC12"
+        "name" : "Falcon 2000EX EASy",
+        "icao" : "F2EX",
+        "lastSeen" : 1740759250
       },
-      "PC24" : {
-        "name" : "PC-24",
-        "lastSeen" : 1740580955,
-        "icao" : "PC24",
+      "F2LX" : {
+        "name" : "Falcon 2000LX S",
         "aircraft" : [
-          "a06a02"
-        ]
+          "a500e9",
+          "38385a"
+        ],
+        "lastSeen" : 1740673908.8,
+        "icao" : "F2LX"
+      },
+      "F9EX" : {
+        "icao" : "F9EX",
+        "aircraft" : [
+          "a9a4aa"
+        ],
+        "name" : "Falcon 900EX EASy",
+        "lastSeen" : 1740768995.6
+      },
+      "F9LX" : {
+        "name" : "Falcon 900LX",
+        "icao" : "F9LX",
+        "aircraft" : [
+          "ac7159",
+          "a9817c"
+        ],
+        "lastSeen" : 1740767695.1999998
+      },
+      "FA7X" : {
+        "aircraft" : [
+          "a63ef3",
+          "a27743"
+        ],
+        "icao" : "FA7X",
+        "name" : "Falcon 7X",
+        "lastSeen" : 1740777609.3000002
       }
     }
   },
-  "Textron Aviation" : {
+  "DAHER-SOCATA" : {
     "types" : {
-      "C25B" : {
-        "lastSeen" : 1740502564.2,
+      "TBM8" : {
+        "icao" : "TBM8",
         "aircraft" : [
-          "c053c8"
+          "aba8dd"
         ],
-        "name" : "Citation CJ3+",
-        "icao" : "C25B"
-      },
-      "C68A" : {
-        "aircraft" : [
-          "ac7452",
-          "ac86e5",
-          "a70bff",
-          "a81b63",
-          "a75746"
-        ],
-        "icao" : "C68A",
-        "name" : "Citation Latitude",
-        "lastSeen" : 1740836712.3999999
-      },
-      "C25C" : {
-        "icao" : "C25C",
-        "lastSeen" : 1740691209.3999999,
-        "name" : "Citation CJ4 Gen2",
-        "aircraft" : [
-          "a05273"
-        ]
-      },
-      "C700" : {
-        "icao" : "C700",
-        "lastSeen" : 1740779003.5,
-        "aircraft" : [
-          "aaf228",
-          "ab3d6f"
-        ],
-        "name" : "Citation Longitude"
+        "name" : "TBM 850",
+        "lastSeen" : 1740592997.3
       }
     },
-    "name" : "Textron Aviation"
+    "name" : "DAHER-SOCATA"
   },
   "McDonnell Douglas" : {
     "types" : {
       "MD88" : {
-        "icao" : "MD88",
         "name" : "DC-9 88",
         "aircraft" : [
           "ab619b"
         ],
-        "lastSeen" : 1740679665.6
+        "lastSeen" : 1740679665.6,
+        "icao" : "MD88"
       }
     },
     "name" : "McDonnell Douglas"
   },
-  "Raytheon Aircraft Company" : {
+  "Eurocopter" : {
     "types" : {
-      "B350" : {
-        "name" : "King Air B350",
+      "EC30" : {
+        "name" : "EC130 B4",
         "aircraft" : [
-          "a7e8ce"
+          "a07b39"
         ],
-        "lastSeen" : 1740776731.6000001,
-        "icao" : "B350"
+        "icao" : "EC30",
+        "lastSeen" : 1740500909.7
       },
-      "BE40" : {
-        "icao" : "BE40",
-        "lastSeen" : 1740523035.4,
+      "EC45" : {
+        "lastSeen" : 1740598449.1999998,
+        "name" : "UH-72A Lakota",
         "aircraft" : [
-          "a5c8f8"
+          "ae1f95"
         ],
-        "name" : "400 XP"
-      },
-      "H25B" : {
-        "icao" : "H25B",
-        "aircraft" : [
-          "aba930",
-          "a3732b"
-        ],
-        "lastSeen" : 1740784592.8,
-        "name" : "125 800XP"
+        "icao" : "EC45"
       }
     },
-    "name" : "Raytheon Aircraft Company"
+    "name" : "Eurocopter"
   },
-  "Sikorsky" : {
-    "name" : "Sikorsky",
+  "Boeing Company" : {
     "types" : {
-      "H60" : {
-        "name" : "HH-60M Blackhawk",
+      "B77L" : {
+        "icao" : "B77L",
         "aircraft" : [
-          "ae478a"
+          "407dbf"
         ],
-        "icao" : "H60",
-        "lastSeen" : 1740613875.6
+        "lastSeen" : 1740834728.7,
+        "name" : "777F"
+      },
+      "B763" : {
+        "lastSeen" : 1740734875.3999999,
+        "icao" : "B763",
+        "aircraft" : [
+          "4067a3",
+          "407ea0"
+        ],
+        "name" : "767-3JHF"
       }
-    }
+    },
+    "name" : "Boeing Company"
+  },
+  "Embraer" : {
+    "types" : {
+      "E550" : {
+        "aircraft" : [
+          "a2f46c",
+          "407e6f"
+        ],
+        "name" : "Praetor 600",
+        "icao" : "E550",
+        "lastSeen" : 1740765824.7
+      },
+      "E190" : {
+        "icao" : "E190",
+        "aircraft" : [
+          "a3a575",
+          "a2033a"
+        ],
+        "name" : "EMB-190 AR",
+        "lastSeen" : 1740795692.8000002
+      },
+      "E145" : {
+        "lastSeen" : 1740800055.3,
+        "icao" : "E145",
+        "aircraft" : [
+          "a94105",
+          "a8e6e2",
+          "a8a309",
+          "a877d3",
+          "a948a2",
+          "ac828f",
+          "a8a6c0",
+          "a8fd2c",
+          "a8aa77",
+          "a868f7",
+          "ac857b",
+          "a93d4e",
+          "ac8ce9"
+        ],
+        "name" : "ERJ-145 LR"
+      },
+      "E35L" : {
+        "name" : "Legacy 650",
+        "aircraft" : [
+          "406b7e"
+        ],
+        "icao" : "E35L",
+        "lastSeen" : 1740579982.8999999
+      },
+      "E55P" : {
+        "icao" : "E55P",
+        "aircraft" : [
+          "a042d2",
+          "a5660d",
+          "a41bbb",
+          "a05277",
+          "a40cdf",
+          "a39a30"
+        ],
+        "name" : "Phenom 300",
+        "lastSeen" : 1740765429
+      },
+      "E75L" : {
+        "name" : "EMB-175 LR",
+        "icao" : "E75L",
+        "lastSeen" : 1740778425.3000002,
+        "aircraft" : [
+          "a1c64e",
+          "a9ad36",
+          "a1c229",
+          "a9f4c6",
+          "a9c737",
+          "a9a97f",
+          "aa43c4",
+          "aa1c45",
+          "a9b85b",
+          "a9c380",
+          "a9eeb6",
+          "a9f87d",
+          "a9d86c",
+          "a0d6fb"
+        ]
+      },
+      "E170" : {
+        "aircraft" : [
+          "a880c8",
+          "a860b7",
+          "a8a0d9",
+          "a8a847",
+          "a85d00"
+        ],
+        "icao" : "E170",
+        "lastSeen" : 1740778084.8,
+        "name" : "EMB-170 SE"
+      },
+      "E545" : {
+        "name" : "Legacy 450",
+        "lastSeen" : 1740702091.1,
+        "aircraft" : [
+          "a1530b"
+        ],
+        "icao" : "E545"
+      },
+      "E75S" : {
+        "lastSeen" : 1740848959.1000001,
+        "aircraft" : [
+          "a19dff",
+          "c00ba7",
+          "c00b93",
+          "c00b9e",
+          "a1fbd9",
+          "a1c57e",
+          "a2270f",
+          "c02e91",
+          "c017ed",
+          "c00b7c",
+          "a20d0e"
+        ],
+        "name" : "EMB-175 LR",
+        "icao" : "E75S"
+      }
+    },
+    "name" : "Embraer"
   },
   "Airbus Sas" : {
+    "name" : "Airbus Sas",
     "types" : {
+      "A339" : {
+        "name" : "A330-941",
+        "icao" : "A339",
+        "lastSeen" : 1740794989.5,
+        "aircraft" : [
+          "407dc5",
+          "407da5"
+        ]
+      },
       "A35K" : {
         "name" : "A350-1041",
         "icao" : "A35K",
@@ -1453,229 +1680,7 @@
           "407cd2"
         ],
         "lastSeen" : 1740700622
-      },
-      "A339" : {
-        "name" : "A330-941",
-        "icao" : "A339",
-        "aircraft" : [
-          "407dc5",
-          "407da5"
-        ],
-        "lastSeen" : 1740794989.5
-      }
-    },
-    "name" : "Airbus Sas"
-  },
-  "EADS SOCATA" : {
-    "types" : {
-      "TBM8" : {
-        "lastSeen" : 1740514586.6999998,
-        "icao" : "TBM8",
-        "aircraft" : [
-          "aba588"
-        ],
-        "name" : "TBM 850"
-      }
-    },
-    "name" : "EADS SOCATA"
-  },
-  "Honda Aircraft Company" : {
-    "name" : "Honda Aircraft Company",
-    "types" : {
-      "HDJT" : {
-        "aircraft" : [
-          "a1b7e1"
-        ],
-        "lastSeen" : 1740506880.7,
-        "icao" : "HDJT",
-        "name" : "Honda Jet HA-420"
       }
     }
-  },
-  "Lockheed" : {
-    "types" : {
-      "C30J" : {
-        "icao" : "C30J",
-        "name" : "C-130J-30 Hercules",
-        "lastSeen" : 1740692187,
-        "aircraft" : [
-          "ae1bed",
-          "ae61fd",
-          "ae4e14",
-          "ae29da",
-          "ae5c99",
-          "ae6205"
-        ]
-      },
-      "C130" : {
-        "name" : "C-130H Hercules",
-        "lastSeen" : 1740764948.3999999,
-        "aircraft" : [
-          "adfddc",
-          "ae03e7"
-        ],
-        "icao" : "C130"
-      },
-      "C5M" : {
-        "icao" : "C5M",
-        "name" : "C-5M Galaxy",
-        "lastSeen" : 1740506803.2,
-        "aircraft" : [
-          "ae055f"
-        ]
-      }
-    },
-    "name" : "Lockheed"
-  },
-  "Eurocopter" : {
-    "name" : "Eurocopter",
-    "types" : {
-      "EC30" : {
-        "name" : "EC130 B4",
-        "lastSeen" : 1740500909.7,
-        "icao" : "EC30",
-        "aircraft" : [
-          "a07b39"
-        ]
-      },
-      "EC45" : {
-        "aircraft" : [
-          "ae1f95"
-        ],
-        "icao" : "EC45",
-        "name" : "UH-72A Lakota",
-        "lastSeen" : 1740598449.1999998
-      }
-    }
-  },
-  "Dassault" : {
-    "types" : {
-      "F2EX" : {
-        "icao" : "F2EX",
-        "name" : "Falcon 2000EX EASy",
-        "aircraft" : [
-          "aaf4bd"
-        ],
-        "lastSeen" : 1740759250
-      },
-      "F9EX" : {
-        "aircraft" : [
-          "a9a4aa"
-        ],
-        "lastSeen" : 1740768995.6,
-        "icao" : "F9EX",
-        "name" : "Falcon 900EX EASy"
-      },
-      "F2LX" : {
-        "lastSeen" : 1740673908.8,
-        "aircraft" : [
-          "a500e9",
-          "38385a"
-        ],
-        "name" : "Falcon 2000LX S",
-        "icao" : "F2LX"
-      },
-      "FA7X" : {
-        "icao" : "FA7X",
-        "lastSeen" : 1740777609.3000002,
-        "aircraft" : [
-          "a63ef3",
-          "a27743"
-        ],
-        "name" : "Falcon 7X"
-      },
-      "F9LX" : {
-        "aircraft" : [
-          "ac7159",
-          "a9817c"
-        ],
-        "icao" : "F9LX",
-        "name" : "Falcon 900LX",
-        "lastSeen" : 1740767695.1999998
-      }
-    },
-    "name" : "Dassault"
-  },
-  "Hawker Beechcraft Corp" : {
-    "types" : {
-      "PRM1" : {
-        "icao" : "PRM1",
-        "name" : "Premier IA",
-        "aircraft" : [
-          "a482cb"
-        ],
-        "lastSeen" : 1740786231.9
-      },
-      "H900" : {
-        "lastSeen" : 1740576808.8999999,
-        "name" : "Hawker 900XP",
-        "aircraft" : [
-          "ad4179"
-        ],
-        "icao" : "H900"
-      }
-    },
-    "name" : "Hawker Beechcraft Corp"
-  },
-  "Cirrus" : {
-    "name" : "Cirrus",
-    "types" : {
-      "SR22" : {
-        "aircraft" : [
-          "a36c00"
-        ],
-        "name" : "SR22",
-        "lastSeen" : 1740849388,
-        "icao" : "SR22"
-      },
-      "SF50" : {
-        "name" : "SF50",
-        "lastSeen" : 1740516342.5,
-        "icao" : "SF50",
-        "aircraft" : [
-          "a73ac5"
-        ]
-      }
-    }
-  },
-  "Dornier" : {
-    "name" : "Dornier",
-    "types" : {
-      "D328" : {
-        "icao" : "D328",
-        "aircraft" : [
-          "ae68be"
-        ],
-        "lastSeen" : 1740698431.5,
-        "name" : "C-146A"
-      }
-    }
-  },
-  "Beech" : {
-    "name" : "Beech",
-    "types" : {
-      "BE99" : {
-        "aircraft" : [
-          "a395e3",
-          "a6609b"
-        ],
-        "icao" : "BE99",
-        "name" : "99 C",
-        "lastSeen" : 1740746030.7
-      }
-    }
-  },
-  "The Boeing Company" : {
-    "types" : {
-      "B78X" : {
-        "aircraft" : [
-          "486072"
-        ],
-        "icao" : "B78X",
-        "name" : "787-10",
-        "lastSeen" : 1740786559.3999999
-      }
-    },
-    "name" : "The Boeing Company"
   }
 }
