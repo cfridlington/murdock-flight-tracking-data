@@ -1,209 +1,199 @@
 [
   {
+    "lastSeen" : 1740851362.8,
     "timesSeen" : [
-      1740849076.5
+      1740847379.5,
+      1740851002.3999999
     ],
+    "hex" : "a36c00",
     "properties" : {
-      "icao_type" : "C56X",
-      "registered_owner_operator_flag_code" : "C56X",
-      "manufacturer" : "Cessna",
-      "type" : "Citation Excel",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "registered_owner" : "flyExclusive",
-      "registration" : "N830JS",
-      "registered_owner_country_iso_name" : "US"
+      "manufacturer" : "Cirrus",
+      "registration" : "N32AJ",
+      "registered_owner" : "Delaware Aircraft Trust LLC Trustee",
+      "registered_owner_operator_flag_code" : "EC20",
+      "type" : "SR22",
+      "icao_type" : "SR22"
     },
     "flights" : {
-      "JRE830  " : 1
-    },
-    "lastSeen" : 1740850424.4,
-    "hex" : "ab5933"
-  },
-  {
-    "hex" : "a1d76b",
-    "flights" : {
-      "MXY139  " : 1
-    },
-    "lastSeen" : 1740850378.8,
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "type" : "A220-300",
-      "registered_owner_operator_flag_code" : "MXY",
-      "registered_owner" : "Breeze Airways",
-      "icao_type" : "BCS3",
-      "registration" : "N218BZ",
-      "manufacturer" : "Airbus Canada",
-      "registered_owner_country_iso_name" : "US"
-    },
-    "timesSeen" : [
-      1740849931.6000001
-    ]
-  },
-  {
-    "lastSeen" : 1740850367.8,
-    "hex" : "407d6c",
-    "flights" : {
-      "GEMLG   " : 1
-    },
-    "timesSeen" : [
-      1740849271
-    ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "GB",
-      "registration" : "G-EMLG",
-      "registered_owner" : "Concierge U Ltd",
-      "type" : "Global 6000",
-      "registered_owner_operator_flag_code" : "JCO",
-      "registered_owner_country_name" : "United Kingdom",
-      "manufacturer" : "Bombardier",
-      "icao_type" : "GL6T"
+      "N32AJ   " : 1
     }
   },
   {
-    "flights" : {
-      "SVA022  " : 1
+    "properties" : {
+      "registered_owner" : "Simpson Air",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "DHC2",
+      "icao_type" : "SR22",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Cirrus",
+      "registration" : "N395CD",
+      "type" : "SR22"
     },
     "timesSeen" : [
-      1740849936
+      1740850146.2
     ],
-    "hex" : "710110",
+    "flights" : {
+      "N395CD  " : 1
+    },
+    "hex" : "a49592",
+    "lastSeen" : 1740851234.7
+  },
+  {
+    "hex" : "a50e93",
+    "lastSeen" : 1740851226.8,
+    "flights" : {
+      "DAL97   " : 1
+    },
+    "timesSeen" : [
+      1740850381.6
+    ]
+  },
+  {
+    "flights" : {
+
+    },
+    "hex" : "a0f428",
     "properties" : {
-      "type" : "777 300ER",
-      "registered_owner_country_iso_name" : "SA",
-      "icao_type" : "B77W",
-      "registered_owner_operator_flag_code" : "SVA",
+      "registered_owner_operator_flag_code" : "UAL",
+      "registered_owner_country_name" : "United States",
+      "type" : "787 10",
+      "registered_owner" : "United Airlines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/625\/001625402.jpg",
       "manufacturer" : "Boeing",
-      "registered_owner" : "Saudi Arabian Airlines",
-      "registration" : "HZ-AK38",
-      "registered_owner_country_name" : "Saudi Arabia",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/424\/001424946.jpg"
+      "icao_type" : "B78X",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N16009"
     },
-    "lastSeen" : 1740850296.4
+    "lastSeen" : 1740851134.1,
+    "timesSeen" : [
+      1740850413.9
+    ]
+  },
+  {
+    "lastSeen" : 1740851112.5,
+    "flights" : {
+      "UZB102  " : 1
+    },
+    "properties" : {
+      "registered_owner" : "Uzbekistan Airways",
+      "registered_owner_country_iso_name" : "UZ",
+      "type" : "787 8",
+      "manufacturer" : "Boeing",
+      "registration" : "UK78706",
+      "icao_type" : "B788",
+      "registered_owner_country_name" : "Uzbekistan",
+      "registered_owner_operator_flag_code" : "UZB"
+    },
+    "hex" : "507c59",
+    "timesSeen" : [
+      1740683425.1999998,
+      1740851007
+    ]
   },
   {
     "properties" : {
-      "registered_owner_country_iso_name" : "CA",
-      "registered_owner" : "Aviation CMP Inc",
-      "manufacturer" : "Bombardier",
-      "icao_type" : "LJ45",
-      "registered_owner_country_name" : "Canada",
-      "registration" : "C-GQPM",
-      "type" : "Learjet 45",
-      "registered_owner_operator_flag_code" : "LJ45"
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Boeing",
+      "registration" : "N66051",
+      "type" : "767 424ER",
+      "registered_owner_operator_flag_code" : "UAL",
+      "registered_owner" : "United Airlines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645200.jpg",
+      "icao_type" : "B764"
     },
-    "lastSeen" : 1740850268.6,
+    "lastSeen" : 1740850950.8,
     "flights" : {
-      "CGQPM   " : 1
+      "UAL962  " : 1
     },
+    "hex" : "a8b75a",
     "timesSeen" : [
-      1740757335.6999998,
-      1740779173.3999999,
-      1740849968.2
-    ],
-    "hex" : "c0707b"
+      1740502914.3,
+      1740701406.5,
+      1740850410.2
+    ]
   },
   {
-    "lastSeen" : 1740850211.3999999,
+    "lastSeen" : 1740850786.1,
+    "hex" : "a17ecd",
     "timesSeen" : [
       1740850148.9
     ],
     "flights" : {
 
     },
-    "hex" : "a17ecd",
     "properties" : {
-      "type" : "767 332ER\/W",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "B763",
+      "manufacturer" : "Boeing",
       "registered_owner_operator_flag_code" : "DAL",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "type" : "767 332ER\/W",
       "registration" : "N196DN",
-      "registered_owner_country_iso_name" : "US",
       "registered_owner" : "Delta Air Lines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/673\/001673829.jpg",
-      "icao_type" : "B763"
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/673\/001673829.jpg"
     }
   },
   {
-    "hex" : "a49592",
-    "lastSeen" : 1740850201.8999999,
+    "timesSeen" : [
+      1740849931.6000001
+    ],
+    "hex" : "a1d76b",
     "flights" : {
-      "N395CD  " : 1
+      "MXY139  " : 1
     },
     "properties" : {
-      "registered_owner" : "Simpson Air",
-      "icao_type" : "SR22",
-      "registration" : "N395CD",
       "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Cirrus",
+      "type" : "A220-300",
+      "registered_owner_operator_flag_code" : "MXY",
       "registered_owner_country_name" : "United States",
-      "type" : "SR22",
-      "registered_owner_operator_flag_code" : "DHC2"
+      "registered_owner" : "Breeze Airways",
+      "registration" : "N218BZ",
+      "icao_type" : "BCS3",
+      "manufacturer" : "Airbus Canada"
     },
-    "timesSeen" : [
-      1740850146.2
-    ]
+    "lastSeen" : 1740850619.1000001
   },
   {
     "timesSeen" : [
-      1740847379.5
+      1740849271
     ],
-    "lastSeen" : 1740850199.3999999,
-    "flights" : {
-      "N32AJ   " : 1
-    },
-    "hex" : "a36c00",
     "properties" : {
-      "icao_type" : "SR22",
-      "type" : "SR22",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Cirrus",
-      "registration" : "N32AJ",
-      "registered_owner_operator_flag_code" : "EC20",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Delaware Aircraft Trust LLC Trustee"
-    }
+      "type" : "Global 6000",
+      "registered_owner_country_iso_name" : "GB",
+      "registered_owner_country_name" : "United Kingdom",
+      "manufacturer" : "Bombardier",
+      "registration" : "G-EMLG",
+      "registered_owner_operator_flag_code" : "JCO",
+      "icao_type" : "GL6T",
+      "registered_owner" : "Concierge U Ltd"
+    },
+    "flights" : {
+      "GEMLG   " : 1
+    },
+    "lastSeen" : 1740850608,
+    "hex" : "407d6c"
   },
   {
-    "properties" : {
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N224NV",
-      "type" : "A320 214",
-      "icao_type" : "A320",
-      "registered_owner_operator_flag_code" : "AAY",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Allegiant Air"
-    },
     "timesSeen" : [
-      1740850117.8999999
-    ],
-    "hex" : "a1f11d",
-    "lastSeen" : 1740850117.8999999,
-    "flights" : {
-
-    }
-  },
-  {
-    "flights" : {
-      "UAL885  " : 1
-    },
-    "lastSeen" : 1740850052.2,
-    "timesSeen" : [
-      1740505288.4,
-      1740768129.8,
-      1740849370.7
+      1740849076.5
     ],
     "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645223.jpg",
-      "registration" : "N76065",
-      "registered_owner" : "United Airlines",
       "registered_owner_country_iso_name" : "US",
-      "type" : "767 424ER",
-      "registered_owner_operator_flag_code" : "UAL",
-      "icao_type" : "B764",
-      "manufacturer" : "Boeing",
+      "icao_type" : "C56X",
+      "registered_owner" : "flyExclusive",
+      "registered_owner_operator_flag_code" : "C56X",
+      "registration" : "N830JS",
+      "type" : "Citation Excel",
+      "manufacturer" : "Cessna",
       "registered_owner_country_name" : "United States"
     },
-    "hex" : "aa44d0"
+    "lastSeen" : 1740850424.4,
+    "flights" : {
+      "JRE830  " : 1
+    },
+    "hex" : "ab5933"
   }
 ]
