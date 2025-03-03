@@ -1,195 +1,202 @@
 [
   {
-    "hex" : "a6ce58",
+    "hex" : "c084a3",
+    "timesSeen" : [
+      1740976847.6000001
+    ],
+    "flights" : {
+
+    },
+    "lastSeen" : 1740977333.1
+  },
+  {
+    "lastSeen" : 1740977332.6999998,
+    "hex" : "48ae01",
+    "flights" : {
+      "LOT16M  " : 1
+    },
+    "timesSeen" : [
+      1740976243.8
+    ],
     "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/631\/001631764.jpg",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "CRJ 900 ER NG",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "Poland",
+      "registration" : "SP-LRB",
+      "icao_type" : "B788",
+      "type" : "787 8",
+      "registered_owner_operator_flag_code" : "LOT",
+      "registered_owner" : "LOT Polish Airlines",
+      "registered_owner_country_iso_name" : "PL",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/749\/001749599.jpg"
+    }
+  },
+  {
+    "properties" : {
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/747\/001747539.jpg",
+      "registration" : "OH-LTP",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A333",
+      "registered_owner" : "Finnair",
+      "registered_owner_country_name" : "Finland",
+      "registered_owner_country_iso_name" : "FI",
+      "registered_owner_operator_flag_code" : "FIN",
+      "type" : "A330 302E"
+    },
+    "flights" : {
+      "FIN16   " : 1
+    },
+    "lastSeen" : 1740977244.5,
+    "hex" : "461f09",
+    "timesSeen" : [
+      1740630704.3,
+      1740976141.2
+    ]
+  },
+  {
+    "flights" : {
+      "VJT801  " : 1
+    },
+    "lastSeen" : 1740977161.7,
+    "hex" : "4d20f9",
+    "timesSeen" : [
+      1740976921.4
+    ],
+    "properties" : {
       "manufacturer" : "Bombardier",
+      "registered_owner_country_iso_name" : "MT",
+      "registered_owner_country_name" : "Malta",
+      "registered_owner" : "VistaJet",
+      "icao_type" : "GL6T",
+      "registration" : "9H-VJQ",
+      "type" : "Global 6000",
+      "registered_owner_operator_flag_code" : "VJT"
+    }
+  },
+  {
+    "properties" : {
+      "type" : "CRJ 900 LR NG",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/570\/001570078.jpg",
       "registered_owner" : "Delta Connection",
       "icao_type" : "CRJ9",
-      "registration" : "N538CA",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "EDV"
+      "manufacturer" : "Bombardier",
+      "registration" : "N905XJ",
+      "registered_owner_operator_flag_code" : "EDV",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States"
     },
-    "lastSeen" : 1740890959.1,
+    "hex" : "ac83d5",
+    "lastSeen" : 1740976995.1999998,
     "flights" : {
-      "EDV5399 " : 1
+      "EDV5411 " : 1
     },
     "timesSeen" : [
-      1740854112.4,
-      1740859947.5,
-      1740890360.7
+      1740976079.7
     ]
   },
   {
-    "lastSeen" : 1740890623.1000001,
+    "properties" : {
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/553\/001553357.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "JIA",
+      "manufacturer" : "Bombardier",
+      "registration" : "N558NN",
+      "type" : "CRJ 900 LR NG",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "CRJ9",
+      "registered_owner" : "American Eagle"
+    },
+    "lastSeen" : 1740976588.5,
+    "hex" : "a71e5c",
     "timesSeen" : [
-      1740889861.6999998
+      1740975472.1
     ],
-    "hex" : "c08497",
     "flights" : {
-
+      "JIA5669 " : 1
     }
   },
   {
-    "lastSeen" : 1740890260.7,
-    "hex" : "461f0e",
+    "properties" : {
+      "registration" : "C-FYNS",
+      "registered_owner_operator_flag_code" : "ROU",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_iso_name" : "CA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/497\/001497301.jpg",
+      "type" : "A319 114",
+      "registered_owner" : "Air Canada Rouge",
+      "icao_type" : "A319",
+      "registered_owner_country_name" : "Canada"
+    },
+    "hex" : "c040c5",
+    "lastSeen" : 1740976089.5,
     "flights" : {
-
+      "ACA620  " : 1
     },
     "timesSeen" : [
-      1740889513.9
-    ],
-    "properties" : {
-      "manufacturer" : "Airbus",
-      "registration" : "OH-LTU",
-      "registered_owner" : "Finnair",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/745\/001745563.jpg",
-      "registered_owner_country_name" : "Finland",
-      "registered_owner_operator_flag_code" : "FIN",
-      "type" : "A330 302E",
-      "registered_owner_country_iso_name" : "FI",
-      "icao_type" : "A333"
-    }
+      1740800989,
+      1740948545,
+      1740975316.3000002
+    ]
   },
   {
-    "hex" : "ab5fc9",
     "timesSeen" : [
-      1740888435.7
+      1740565014.7,
+      1740972877.6
     ],
+    "hex" : "7380c8",
     "properties" : {
-      "registration" : "N832AA",
-      "type" : "787 9",
-      "registered_owner_operator_flag_code" : "AAL",
       "icao_type" : "B789",
-      "registered_owner" : "American Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/460\/001460978.jpg",
-      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "ELY",
       "manufacturer" : "Boeing",
-      "registered_owner_country_iso_name" : "US"
+      "registered_owner" : "EL AL",
+      "type" : "787 9",
+      "registration" : "4X-EDJ",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/752\/001752621.jpg",
+      "registered_owner_country_iso_name" : "IL",
+      "registered_owner_country_name" : "Israel"
     },
+    "lastSeen" : 1740973580.9,
     "flights" : {
 
-    },
-    "lastSeen" : 1740889072.8999999
-  },
-  {
-    "flights" : {
-
-    },
-    "hex" : "4b1882",
-    "timesSeen" : [
-      1740887689.8
-    ],
-    "properties" : {
-      "manufacturer" : "Airbus",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/699\/001699466.jpg",
-      "icao_type" : "A333",
-      "registered_owner_operator_flag_code" : "SWR",
-      "registration" : "HB-JHI",
-      "registered_owner_country_iso_name" : "CH",
-      "registered_owner_country_name" : "Switzerland",
-      "type" : "A330 343E",
-      "registered_owner" : "Swiss International Air Lines"
-    },
-    "lastSeen" : 1740888244.2
-  },
-  {
-    "timesSeen" : [
-      1740714913.4,
-      1740887573.5
-    ],
-    "flights" : {
-
-    },
-    "lastSeen" : 1740888114.1,
-    "hex" : "a4ccba"
-  },
-  {
-    "flights" : {
-      "UAL1082 " : 1
-    },
-    "hex" : "a76028",
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N57439",
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/646\/001646109.jpg",
-      "icao_type" : "B739",
-      "type" : "737NG 924ER\/W",
-      "registered_owner" : "United Airlines",
-      "manufacturer" : "Boeing"
-    },
-    "lastSeen" : 1740887898.3,
-    "timesSeen" : [
-      1740887037.3999999
-    ]
-  },
-  {
-    "hex" : "8963a1",
-    "flights" : {
-      "UAE9915 " : 1
-    },
-    "lastSeen" : 1740886709.3,
-    "timesSeen" : [
-      1740885627.3
-    ],
-    "properties" : {
-      "type" : "777 F1H",
-      "registration" : "A6-EFN",
-      "registered_owner_country_iso_name" : "AE",
-      "registered_owner_country_name" : "United Arab Emirates",
-      "icao_type" : "B77L",
-      "registered_owner_operator_flag_code" : "UAE",
-      "registered_owner" : "Emirates Airline",
-      "manufacturer" : "Boeing",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/692\/001692796.jpg"
     }
   },
   {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "AFR",
-      "registered_owner" : "Air France",
-      "registered_owner_country_iso_name" : "FR",
-      "icao_type" : "B772",
-      "type" : "777 228ER",
-      "registered_owner_country_name" : "France",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/697\/001697629.jpg",
-      "registration" : "F-GSPM",
-      "manufacturer" : "Boeing"
-    },
-    "hex" : "3949ec",
-    "lastSeen" : 1740886624.7,
     "timesSeen" : [
-      1740514879.2,
-      1740774314.8999999,
-      1740799575,
-      1740885794
+      1740872540.2,
+      1740918037.5,
+      1740972299
     ],
+    "lastSeen" : 1740973275.3,
+    "hex" : "a2af3e",
     "flights" : {
-      "AFR032  " : 1,
-      "AFR33X  " : 1
+      "EDV4945 " : 1
+    },
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Delta Connection",
+      "registration" : "N272PQ",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "CRJ9",
+      "type" : "CRJ 900 LR NG",
+      "registered_owner_operator_flag_code" : "EDV",
+      "manufacturer" : "Bombardier"
     }
   },
   {
+    "hex" : "406f73",
     "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_operator_flag_code" : "ENY",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/620\/001620319.jpg",
-      "type" : "ERJ-145 LR",
-      "manufacturer" : "Embraer",
-      "registered_owner" : "American Eagle",
-      "icao_type" : "E145",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N935AE"
+      "manufacturer" : "Boeing",
+      "registration" : "G-ZBKG",
+      "registered_owner" : "British Airways",
+      "registered_owner_country_iso_name" : "GB",
+      "registered_owner_operator_flag_code" : "BAW",
+      "registered_owner_country_name" : "United Kingdom",
+      "type" : "787 9",
+      "icao_type" : "B789"
     },
-    "lastSeen" : 1740886527.7,
     "timesSeen" : [
-      1740885924.1
+      1740972478.4
     ],
-    "hex" : "acf841",
+    "lastSeen" : 1740973095,
     "flights" : {
 
     }
