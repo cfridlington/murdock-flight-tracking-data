@@ -1,7 +1,10 @@
 [
   {
+    "lastSeen" : 1741205794.5,
+    "flights" : {
+      "N38549  " : 10
+    },
     "hex" : "a470e3",
-    "lastSeen" : 1741126274.1,
     "timesSeen" : [
       1740576784,
       1740580402.3,
@@ -20,14 +23,12 @@
       1741111342,
       1741114950.9,
       1741121583.8,
-      1741125199
-    ],
-    "flights" : {
-      "N38549  " : 10
-    }
+      1741125199,
+      1741205129.5
+    ]
   },
   {
-    "lastSeen" : 1741112962.7,
+    "hex" : "ad86ca",
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -46,17 +47,13 @@
       1741107797,
       1741111912
     ],
-    "hex" : "ad86ca",
+    "lastSeen" : 1741112962.7,
     "flights" : {
       "N97055  " : 8
     }
   },
   {
-    "lastSeen" : 1741127489.9,
-    "flights" : {
-      "TSC613  " : 1,
-      "TSC639  " : 1
-    },
+    "lastSeen" : 1741158854.3,
     "timesSeen" : [
       1740552107.8999999,
       1740695314,
@@ -69,34 +66,193 @@
       1740988943,
       1741040093.2,
       1741071215.5,
-      1741126510.9
+      1741126510.9,
+      1741157607
     ],
+    "flights" : {
+      "TSC613  " : 1,
+      "TSC639  " : 1
+    },
+    "hex" : "c03493",
     "properties" : {
-      "manufacturer" : "Airbus",
       "type" : "A321 211SL",
       "registration" : "C-FTXQ",
-      "registered_owner_country_iso_name" : "CA",
-      "registered_owner_operator_flag_code" : "TSC",
-      "registered_owner" : "Air Transat",
       "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/400\/400028.jpg",
+      "registered_owner" : "Air Transat",
+      "registered_owner_country_iso_name" : "CA",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A321",
       "registered_owner_country_name" : "Canada",
-      "icao_type" : "A321"
-    },
-    "hex" : "c03493"
+      "registered_owner_operator_flag_code" : "TSC"
+    }
   },
   {
-    "lastSeen" : 1740872941.8000002,
-    "properties" : {
-      "registered_owner_country_iso_name" : "CA",
-      "icao_type" : "A321",
-      "registered_owner" : "Air Transat",
-      "registered_owner_operator_flag_code" : "TSC",
-      "manufacturer" : "Airbus",
-      "type" : "A321 211",
-      "registered_owner_country_name" : "Canada",
-      "registration" : "C-GEZD"
+    "timesSeen" : [
+      1741100764.4,
+      1741105666.6,
+      1741109268.6,
+      1741112873,
+      1741130994.9,
+      1741134638.3999999,
+      1741188412.8,
+      1741192067.1,
+      1741218557.1999998,
+      1741222188.3000002
+    ],
+    "flights" : {
+      "PACK22  " : 1
     },
+    "hex" : "ae5f9a",
+    "lastSeen" : 1741223889.1999998,
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "KC46",
+      "icao_type" : "KC46",
+      "manufacturer" : "Boeing",
+      "registered_owner" : "United States Air Force",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/685\/001685167.jpg",
+      "registered_owner_country_name" : "United States",
+      "type" : "KC-46A Pegasus",
+      "registration" : "18-46047"
+    }
+  },
+  {
+    "hex" : "ae5bc3",
+    "lastSeen" : 1741223889,
+    "timesSeen" : [
+      1740583705.1000001,
+      1740755242.1999998,
+      1740758847.3000002,
+      1740762484.5,
+      1741100739.4,
+      1741104342.8999999,
+      1741107997.1999998,
+      1741111630.4,
+      1741218522.3999999,
+      1741222127.1000001
+    ],
+    "properties" : {
+      "type" : "KC-46A Pegasus",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United States Air Force",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "16-46018",
+      "icao_type" : "KC46",
+      "registered_owner_operator_flag_code" : "KC46",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/706\/001706612.jpg"
+    },
+    "flights" : {
+      "PACK21  " : 1,
+      "PACK51  " : 1
+    }
+  },
+  {
+    "timesSeen" : [
+      1740530665.2,
+      1740573219.5,
+      1740615860,
+      1740703243.7,
+      1740745374.2,
+      1740851674.2,
+      1741036675.5,
+      1741048719.9,
+      1741135730.3,
+      1741222727.5
+    ],
+    "properties" : {
+      "manufacturer" : "Beech",
+      "registered_owner" : "Ameriflight",
+      "registration" : "N51RP",
+      "registered_owner_country_name" : "United States",
+      "type" : "99 C",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "BE99",
+      "registered_owner_operator_flag_code" : "AMF"
+    },
+    "lastSeen" : 1741223370.1,
+    "flights" : {
+      "AMF1546 " : 1
+    },
+    "hex" : "a6609b"
+  },
+  {
+    "flights" : {
+
+    },
+    "hex" : "a5d197",
+    "lastSeen" : 1741198710.8,
+    "properties" : {
+      "registered_owner" : "Boutique Air",
+      "manufacturer" : "Pilatus",
+      "icao_type" : "PC12",
+      "registered_owner_operator_flag_code" : "BTQ",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "type" : "PC-XII 47",
+      "registration" : "N474SS"
+    },
+    "timesSeen" : [
+      1740506523,
+      1740521163.3999999,
+      1740528031.5,
+      1740580828.9,
+      1740937731.1,
+      1740956875.1999998,
+      1741019105.1999998,
+      1741045785.1000001,
+      1741096662.6,
+      1741198131.8
+    ]
+  },
+  {
+    "flights" : {
+      "ACA955  " : 1,
+      "ACA954  " : 1,
+      "ACA949  " : 1
+    },
+    "lastSeen" : 1741188210.3999999,
+    "properties" : {
+      "registered_owner" : "Air Canada",
+      "type" : "737MAX 8",
+      "registered_owner_country_name" : "Canada",
+      "registration" : "C-FSCY",
+      "icao_type" : "B38M",
+      "registered_owner_operator_flag_code" : "ACA",
+      "registered_owner_country_iso_name" : "CA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/786\/001786846.jpg",
+      "manufacturer" : "Boeing"
+    },
+    "hex" : "c02fd5",
+    "timesSeen" : [
+      1740530922.6000001,
+      1740668682.5,
+      1740706600.8999999,
+      1740796961.8999999,
+      1740840502.8,
+      1740880284.4,
+      1740928306.6,
+      1740965215.6,
+      1741052725.6000001,
+      1741187109
+    ]
+  },
+  {
     "hex" : "c051c6",
+    "properties" : {
+      "type" : "A321 211",
+      "registered_owner_operator_flag_code" : "TSC",
+      "icao_type" : "A321",
+      "manufacturer" : "Airbus",
+      "registration" : "C-GEZD",
+      "registered_owner_country_iso_name" : "CA",
+      "registered_owner" : "Air Transat",
+      "registered_owner_country_name" : "Canada"
+    },
+    "lastSeen" : 1740872941.8000002,
+    "flights" : {
+      "TSC647  " : 1
+    },
     "timesSeen" : [
       1740513523.5,
       1740641092.6000001,
@@ -108,163 +264,34 @@
       1740815139.6,
       1740830965.4,
       1740872053.8
-    ],
-    "flights" : {
-      "TSC647  " : 1
-    }
-  },
-  {
-    "hex" : "a6609b",
-    "lastSeen" : 1741136470.3,
-    "properties" : {
-      "registration" : "N51RP",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "AMF",
-      "icao_type" : "BE99",
-      "registered_owner" : "Ameriflight",
-      "manufacturer" : "Beech",
-      "type" : "99 C",
-      "registered_owner_country_iso_name" : "US"
-    },
-    "flights" : {
-      "AMF1546 " : 1
-    },
-    "timesSeen" : [
-      1740530665.2,
-      1740573219.5,
-      1740615860,
-      1740703243.7,
-      1740745374.2,
-      1740851674.2,
-      1741036675.5,
-      1741048719.9,
-      1741135730.3
     ]
   },
   {
+    "hex" : "a82dbc",
     "timesSeen" : [
-      1740576634.8,
-      1740582791.8,
-      1740613552.3000002,
-      1740617181.3,
-      1741034058.1000001,
-      1741037683,
-      1741101165.5,
-      1741106956,
-      1741124440
+      1741022120.7,
+      1741028594.1000001,
+      1741095333.5,
+      1741103841.8,
+      1741107466.6,
+      1741111117.6000001,
+      1741115085.7,
+      1741118735.1999998,
+      1741180076.4
     ],
-    "hex" : "a5cc82",
-    "lastSeen" : 1741127249.1000001,
+    "lastSeen" : 1741183287.1000001,
     "flights" : {
-      "N473CS  " : 3
-    }
-  },
-  {
-    "timesSeen" : [
-      1740506523,
-      1740521163.3999999,
-      1740528031.5,
-      1740580828.9,
-      1740937731.1,
-      1740956875.1999998,
-      1741019105.1999998,
-      1741045785.1000001,
-      1741096662.6
-    ],
+      "N626NJ  " : 4
+    },
     "properties" : {
-      "registered_owner" : "Boutique Air",
-      "icao_type" : "PC12",
-      "type" : "PC-XII 47",
+      "registered_owner_operator_flag_code" : "BE20",
+      "manufacturer" : "Piper",
+      "type" : "PA-28-151",
       "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_operator_flag_code" : "BTQ",
-      "manufacturer" : "Pilatus",
-      "registration" : "N474SS"
-    },
-    "hex" : "a5d197",
-    "lastSeen" : 1741097254.8,
-    "flights" : {
-
+      "registration" : "N626NJ",
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "icao_type" : "P28A",
+      "registered_owner_country_iso_name" : "US"
     }
-  },
-  {
-    "timesSeen" : [
-      1740530922.6000001,
-      1740668682.5,
-      1740706600.8999999,
-      1740796961.8999999,
-      1740840502.8,
-      1740880284.4,
-      1740928306.6,
-      1740965215.6,
-      1741052725.6000001
-    ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "CA",
-      "registered_owner_operator_flag_code" : "ACA",
-      "registered_owner" : "Air Canada",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/786\/001786846.jpg",
-      "registration" : "C-FSCY",
-      "registered_owner_country_name" : "Canada",
-      "icao_type" : "B38M",
-      "type" : "737MAX 8",
-      "manufacturer" : "Boeing"
-    },
-    "flights" : {
-      "ACA955  " : 1,
-      "ACA954  " : 1,
-      "ACA949  " : 1
-    },
-    "hex" : "c02fd5",
-    "lastSeen" : 1741053796.8
-  },
-  {
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/541\/001541653.jpg",
-      "registered_owner_operator_flag_code" : "JZA",
-      "icao_type" : "E75S",
-      "registered_owner" : "Air Canada Express",
-      "registered_owner_country_name" : "Canada",
-      "registered_owner_country_iso_name" : "CA",
-      "registration" : "C-FEKJ",
-      "type" : "EMB-175 SU",
-      "manufacturer" : "Embraer"
-    },
-    "flights" : {
-      "JZA612  " : 1,
-      "JZA607  " : 1,
-      "JZA610  " : 1
-    },
-    "timesSeen" : [
-      1740705015.8000002,
-      1740746305.8000002,
-      1740789065.2,
-      1740952958.8000002,
-      1740960174.4,
-      1741011700.8999999,
-      1741018999.5,
-      1741029189.1,
-      1741036430.9
-    ],
-    "hex" : "c00b9e",
-    "lastSeen" : 1741036911.4
-  },
-  {
-    "timesSeen" : [
-      1740609645.2,
-      1740782938.3999999,
-      1740788742.8,
-      1740846354.7,
-      1740852542.4,
-      1741016193.6999998,
-      1741022569.5,
-      1741128281.3999999
-    ],
-    "lastSeen" : 1741129146.4,
-    "flights" : {
-      "RPA3563 " : 2,
-      "RPA3716 " : 1
-    },
-    "hex" : "aa7a1f"
   }
 ]
