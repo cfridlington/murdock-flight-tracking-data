@@ -1,10 +1,5 @@
 [
   {
-    "flights" : {
-      "N38549  " : 28
-    },
-    "hex" : "a470e3",
-    "lastSeen" : 1741980830.1000001,
     "timesSeen" : [
       1740576784,
       1740580402.3,
@@ -52,15 +47,19 @@
       1741966071,
       1741969680.1,
       1741976377.8,
-      1741980033.1
-    ]
+      1741980033.1,
+      1742061233.3999999,
+      1742064858.9
+    ],
+    "lastSeen" : 1742066542.3,
+    "flights" : {
+      "N38549  " : 29
+    },
+    "hex" : "a470e3"
   },
   {
-    "flights" : {
-      "N97055  " : 12
-    },
+    "lastSeen" : 1742066692.6,
     "hex" : "ad86ca",
-    "lastSeen" : 1741989727,
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -90,23 +89,17 @@
       1741968379.2,
       1741971983.7,
       1741977653.3,
-      1741988051.1999998
-    ]
+      1741988051.1999998,
+      1742061796.5,
+      1742065399.1999998
+    ],
+    "flights" : {
+      "N97055  " : 14
+    }
   },
   {
     "flights" : {
-      "N626NJ  " : 9
-    },
-    "lastSeen" : 1741983371.9,
-    "properties" : {
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "registered_owner_operator_flag_code" : "BE20",
-      "registration" : "N626NJ",
-      "icao_type" : "P28A",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Piper",
-      "registered_owner_country_name" : "United States",
-      "type" : "PA-28-151"
+      "N626NJ  " : 10
     },
     "hex" : "a82dbc",
     "timesSeen" : [
@@ -136,10 +129,25 @@
       1741886036.8999999,
       1741891112.9,
       1741978469,
-      1741982072.6
-    ]
+      1741982072.6,
+      1742044020.8999999,
+      1742049662.3000002
+    ],
+    "lastSeen" : 1742050879.7,
+    "properties" : {
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "registered_owner_country_name" : "United States",
+      "type" : "PA-28-151",
+      "registration" : "N626NJ",
+      "manufacturer" : "Piper",
+      "icao_type" : "P28A",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "BE20"
+    }
   },
   {
+    "lastSeen" : 1742063256.8,
+    "hex" : "a4c0c6",
     "timesSeen" : [
       1740504236.6,
       1740510052,
@@ -163,33 +171,103 @@
       1741961965.1,
       1741965582.8999999,
       1741987209.8999999,
-      1741990827.7
+      1741990827.7,
+      1742049614.6,
+      1742053236.6,
+      1742057530.1000001,
+      1742061134
     ],
     "flights" : {
-      "N405SB  " : 14
-    },
-    "hex" : "a4c0c6",
-    "lastSeen" : 1741991639.2
+      "N405SB  " : 17
+    }
   },
   {
-    "hex" : "c02fd5",
+    "lastSeen" : 1742067818.6999998,
+    "timesSeen" : [
+      1740500282.8000002,
+      1740594809.6999998,
+      1740598411.8999999,
+      1741011203.8,
+      1741014820.2,
+      1741028396.5,
+      1741032002.1,
+      1741706764.7,
+      1741710368.5,
+      1741795068.8,
+      1741800293.8999999,
+      1741804495.6999998,
+      1741808109.3,
+      1741882102.6000001,
+      1741885710.8,
+      1741889315.3,
+      1741957082.7,
+      1741961948.7,
+      1742054717.9,
+      1742058345.6000001,
+      1742061998.7,
+      1742067202.3
+    ],
+    "hex" : "a03798",
+    "properties" : {
+      "icao_type" : "C06T",
+      "registered_owner" : "Civil Air Patrol",
+      "registration" : "N113CP",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Cessna",
+      "registered_owner_country_name" : "United States",
+      "type" : "T206H",
+      "registered_owner_operator_flag_code" : "DHC2"
+    },
+    "flights" : {
+      "CAP2813 " : 13
+    }
+  },
+  {
+    "hex" : "a6609b",
+    "flights" : {
+      "AMF1546 " : 2,
+      "AMF1545 " : 1
+    },
+    "lastSeen" : 1742057611.7,
+    "timesSeen" : [
+      1740530665.2,
+      1740573219.5,
+      1740615860,
+      1740703243.7,
+      1740745374.2,
+      1740851674.2,
+      1741036675.5,
+      1741048719.9,
+      1741135730.3,
+      1741222727.5,
+      1741307897.4,
+      1741636457.3999999,
+      1741650086.5,
+      1741737070.1,
+      1741822624.6,
+      1741865631.2,
+      1741909327.3,
+      1741952130.7,
+      1742056672.3
+    ],
+    "properties" : {
+      "registered_owner" : "Ameriflight",
+      "registration" : "N51RP",
+      "manufacturer" : "Beech",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "BE99",
+      "registered_owner_operator_flag_code" : "AMF",
+      "type" : "99 C"
+    }
+  },
+  {
+    "lastSeen" : 1741997212.4,
     "flights" : {
       "ACA949  " : 1,
-      "ACA954  " : 2,
-      "ACA955  " : 1
+      "ACA955  " : 1,
+      "ACA954  " : 2
     },
-    "properties" : {
-      "manufacturer" : "Boeing",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/786\/001786846.jpg",
-      "registered_owner_country_name" : "Canada",
-      "registered_owner" : "Air Canada",
-      "registered_owner_operator_flag_code" : "ACA",
-      "type" : "737MAX 8",
-      "registered_owner_country_iso_name" : "CA",
-      "registration" : "C-FSCY",
-      "icao_type" : "B38M"
-    },
-    "lastSeen" : 1741997212.4,
     "timesSeen" : [
       1740530922.6000001,
       1740668682.5,
@@ -209,95 +287,58 @@
       1741874563.1000001,
       1741912381.8999999,
       1741996251
-    ]
-  },
-  {
-    "properties" : {
-      "registered_owner" : "Civil Air Patrol",
-      "registration" : "N113CP",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Cessna",
-      "icao_type" : "C06T",
-      "type" : "T206H",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "DHC2"
-    },
-    "lastSeen" : 1741963541.1999998,
-    "flights" : {
-      "CAP2813 " : 12
-    },
-    "hex" : "a03798",
-    "timesSeen" : [
-      1740500282.8000002,
-      1740594809.6999998,
-      1740598411.8999999,
-      1741011203.8,
-      1741014820.2,
-      1741028396.5,
-      1741032002.1,
-      1741706764.7,
-      1741710368.5,
-      1741795068.8,
-      1741800293.8999999,
-      1741804495.6999998,
-      1741808109.3,
-      1741882102.6000001,
-      1741885710.8,
-      1741889315.3,
-      1741957082.7,
-      1741961948.7
-    ]
-  },
-  {
-    "lastSeen" : 1741953026,
-    "timesSeen" : [
-      1740530665.2,
-      1740573219.5,
-      1740615860,
-      1740703243.7,
-      1740745374.2,
-      1740851674.2,
-      1741036675.5,
-      1741048719.9,
-      1741135730.3,
-      1741222727.5,
-      1741307897.4,
-      1741636457.3999999,
-      1741650086.5,
-      1741737070.1,
-      1741822624.6,
-      1741865631.2,
-      1741909327.3,
-      1741952130.7
     ],
+    "hex" : "c02fd5",
     "properties" : {
-      "registered_owner" : "Ameriflight",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "99 C",
-      "registration" : "N51RP",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "AMF",
-      "icao_type" : "BE99",
-      "manufacturer" : "Beech"
-    },
-    "hex" : "a6609b",
-    "flights" : {
-      "AMF1546 " : 2,
-      "AMF1545 " : 1
+      "registered_owner_operator_flag_code" : "ACA",
+      "type" : "737MAX 8",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/786\/001786846.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "Canada",
+      "registered_owner_country_iso_name" : "CA",
+      "registered_owner" : "Air Canada",
+      "registration" : "C-FSCY",
+      "icao_type" : "B38M"
     }
   },
   {
+    "timesSeen" : [
+      1740574961.3,
+      1740585198.5,
+      1740595286,
+      1740605312,
+      1741005875.3,
+      1741009526.7,
+      1741648800.6,
+      1741815792.6,
+      1741819441.3,
+      1741895047.8,
+      1741904118.1999998,
+      1741982013.5,
+      1741989131.4,
+      1742057789.4,
+      1742061405.2,
+      1742070554.4
+    ],
+    "hex" : "a6c1bc",
+    "flights" : {
+      "N53402  " : 4
+    },
+    "lastSeen" : 1742071537.6999998
+  },
+  {
     "properties" : {
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States",
       "registered_owner_operator_flag_code" : "KC46",
-      "icao_type" : "KC46",
-      "registered_owner_country_iso_name" : "US",
       "type" : "KC-46A Pegasus",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "icao_type" : "KC46",
+      "registered_owner" : "United States Air Force",
       "registration" : "18-46047",
       "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/685\/001685167.jpg",
-      "registered_owner" : "United States Air Force"
+      "registered_owner_country_iso_name" : "US"
     },
+    "hex" : "ae5f9a",
     "lastSeen" : 1741799492.1,
     "flights" : {
       "PACK22  " : 1
@@ -319,64 +360,39 @@
       1741741512.1,
       1741789205.5,
       1741798668.6999998
-    ],
-    "hex" : "ae5f9a"
-  },
-  {
-    "properties" : {
-      "icao_type" : "A321",
-      "registered_owner_country_iso_name" : "CA",
-      "registered_owner" : "Air Transat",
-      "type" : "A321 211SL",
-      "registered_owner_operator_flag_code" : "TSC",
-      "registration" : "C-FTXQ",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "Canada",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/400\/400028.jpg"
-    },
-    "lastSeen" : 1741300457.9,
-    "hex" : "c03493",
-    "timesSeen" : [
-      1740552107.8999999,
-      1740695314,
-      1740723502.8,
-      1740768605.9,
-      1740779181.6999998,
-      1740807332.1999998,
-      1740862572.7,
-      1740946511.6000001,
-      1740988943,
-      1741040093.2,
-      1741071215.5,
-      1741126510.9,
-      1741157607,
-      1741299046.1
-    ],
-    "flights" : {
-      "TSC639  " : 1,
-      "TSC613  " : 1
-    }
-  },
-  {
-    "hex" : "a6c1bc",
-    "flights" : {
-      "N53402  " : 3
-    },
-    "lastSeen" : 1741989826.3000002,
-    "timesSeen" : [
-      1740574961.3,
-      1740585198.5,
-      1740595286,
-      1740605312,
-      1741005875.3,
-      1741009526.7,
-      1741648800.6,
-      1741815792.6,
-      1741819441.3,
-      1741895047.8,
-      1741904118.1999998,
-      1741982013.5,
-      1741989131.4
     ]
+  },
+  {
+    "flights" : {
+      "FPY409  " : 3
+    },
+    "timesSeen" : [
+      1740862147.2,
+      1740875061.3,
+      1741052162.3,
+      1741061648.2,
+      1741206481.8,
+      1741220054,
+      1741295987.8,
+      1741308717.7,
+      1741724284.6,
+      1741737439.5,
+      1741985125.5,
+      1741999045.2,
+      1742070535.4,
+      1742083184.3
+    ],
+    "properties" : {
+      "registered_owner_operator_flag_code" : "FPY",
+      "registered_owner" : "Play",
+      "type" : "A321 251NSL",
+      "icao_type" : "A21N",
+      "manufacturer" : "Airbus",
+      "registration" : "TF-AEW",
+      "registered_owner_country_iso_name" : "IS",
+      "registered_owner_country_name" : "Iceland"
+    },
+    "hex" : "4cc528",
+    "lastSeen" : 1742084175.8999999
   }
 ]
