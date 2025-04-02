@@ -1,252 +1,219 @@
 [
   {
     "flights" : {
-      "DAL15   " : 1
+      "FIN7    " : 1,
+      "FIN16   " : 1
     },
-    "hex" : "abb775",
-    "properties" : {
-      "registered_owner_operator_flag_code" : "DAL",
-      "registration" : "N854NW",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/528\/001528517.jpg",
-      "registered_owner" : "Delta Air Lines",
-      "type" : "A330 223",
-      "icao_type" : "A332",
-      "registered_owner_country_name" : "United States"
-    },
-    "lastSeen" : 1743479392.6,
+    "hex" : "461f0d",
     "timesSeen" : [
-      1741653063.7,
-      1743351840.1000001,
-      1743478347.7
-    ]
-  },
-  {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "JIA",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N538EG",
-      "icao_type" : "CRJ7",
-      "type" : "CRJ 700 702ER NG",
-      "registered_owner" : "American Eagle",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Bombardier",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/490\/001490256.jpg"
-    },
-    "timesSeen" : [
-      1740954241,
-      1743024316.3,
-      1743460145,
-      1743478229.9
+      1741716896.1,
+      1741922837.5,
+      1743565093.1
     ],
-    "hex" : "a6ce90",
-    "flights" : {
-      "JIA5626 " : 1
-    },
-    "lastSeen" : 1743479340.6
-  },
-  {
     "properties" : {
-      "manufacturer" : "Boeing",
-      "registration" : "N26910",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/673\/001673986.jpg",
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States",
-      "type" : "787 8",
-      "registered_owner_operator_flag_code" : "UAL",
-      "icao_type" : "B788"
-    },
-    "flights" : {
-      "UAL932  " : 1,
-      "UAL983  " : 1
-    },
-    "timesSeen" : [
-      1742187416,
-      1743357457.1000001,
-      1743478257.6
-    ],
-    "lastSeen" : 1743479204.1,
-    "hex" : "a2a300"
-  },
-  {
-    "properties" : {
-      "type" : "737NG 900ER\/W",
-      "registered_owner" : "Delta Air Lines",
-      "registered_owner_operator_flag_code" : "DAL",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "B739",
-      "registration" : "N917DU"
-    },
-    "hex" : "acb10a",
-    "lastSeen" : 1743479051.2,
-    "flights" : {
-      "DAL1017 " : 1,
-      "DAL2138 " : 1
-    },
-    "timesSeen" : [
-      1743069315.1,
-      1743477993.3
-    ]
-  },
-  {
-    "hex" : "aa44d0",
-    "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "registration" : "N76065",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "B764",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645223.jpg",
-      "manufacturer" : "Boeing",
-      "type" : "767 424ER",
-      "registered_owner" : "United Airlines"
-    },
-    "lastSeen" : 1743478979.6,
-    "flights" : {
-      "UAL885  " : 1,
-      "UAL260  " : 1,
-      "UAL943  " : 1
-    },
-    "timesSeen" : [
-      1740505288.4,
-      1740768129.8,
-      1740849370.7,
-      1740936325.8,
-      1741023171,
-      1741631858.4,
-      1741718230.2,
-      1742067134.3999999,
-      1742155774.9,
-      1742254280,
-      1742336879.5,
-      1742585038.1000001,
-      1742752009.8999999,
-      1742837641.9,
-      1743478439
-    ]
-  },
-  {
-    "flights" : {
-      "SAS926  " : 1
-    },
-    "hex" : "4a91b3",
-    "lastSeen" : 1743478794.7,
-    "properties" : {
-      "registered_owner_country_name" : "Sweden",
-      "registered_owner" : "Scandinavian Airlines System",
-      "registered_owner_operator_flag_code" : "SAS",
-      "registration" : "SE-DMS",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/723\/001723482.jpg",
       "manufacturer" : "Airbus",
-      "icao_type" : "A21N",
-      "registered_owner_country_iso_name" : "SE",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/723\/001723249.jpg",
-      "type" : "A321 253NXSL"
-    },
-    "timesSeen" : [
-      1741302574.1000001,
-      1741648272.1000001,
-      1741908058.1,
-      1742517427.8,
-      1742663494.8,
-      1742688814.9,
-      1742749431.8,
-      1743365746,
-      1743380375.4,
-      1743478254.1
-    ]
-  },
-  {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "DAL",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_iso_name" : "US",
+      "registration" : "OH-LTT",
+      "type" : "A330 302E",
       "icao_type" : "A333",
-      "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_name" : "United States",
-      "type" : "A330 302",
-      "registration" : "N827NW"
+      "registered_owner_country_iso_name" : "FI",
+      "registered_owner_country_name" : "Finland",
+      "registered_owner_operator_flag_code" : "FIN",
+      "registered_owner" : "Finnair"
     },
-    "hex" : "ab4c1d",
-    "timesSeen" : [
-      1741059785.8999999,
-      1741623986,
-      1741798777.8,
-      1743476400.3999999
-    ],
-    "flights" : {
-      "DAL236  " : 1
-    },
-    "lastSeen" : 1743477598.7
+    "lastSeen" : 1743565517.2
   },
   {
+    "lastSeen" : 1743565378.9,
     "timesSeen" : [
-      1742440538.5,
-      1742958073,
-      1742963125.2,
-      1743475859.4
+      1741747533.5,
+      1741772013.8,
+      1742576110,
+      1742582139.6000001,
+      1742664246.5,
+      1742672782,
+      1743564585.7
     ],
-    "hex" : "a3b4e9",
-    "properties" : {
-      "manufacturer" : "Pilatus",
-      "registered_owner_operator_flag_code" : "LBQ",
-      "registered_owner" : "Quest Diagnostics Clinical Laboratories Inc",
-      "type" : "PC-XII 45",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "PC12",
-      "registration" : "N338QD"
-    },
-    "lastSeen" : 1743477236,
     "flights" : {
-      "LBQ790  " : 2
+      "EDV5137 " : 1
+    },
+    "hex" : "a15027",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "EDV",
+      "registered_owner" : "Delta Connection",
+      "manufacturer" : "Bombardier",
+      "registration" : "N184GJ",
+      "type" : "CRJ 900 LR NG",
+      "icao_type" : "CRJ9",
+      "registered_owner_country_name" : "United States"
     }
   },
   {
-    "hex" : "a9067b",
     "timesSeen" : [
-      1741105606.1,
-      1741278533.8,
-      1741887176.6,
-      1741985230.8,
-      1743476052.6000001
+      1743564524.7
     ],
-    "flights" : {
-      "UAL31   " : 1
-    },
     "properties" : {
-      "registered_owner" : "United Airlines",
-      "registered_owner_operator_flag_code" : "UAL",
-      "type" : "767 424ER",
-      "manufacturer" : "Boeing",
-      "icao_type" : "B764",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N68061",
-      "registered_owner_country_iso_name" : "US"
+      "icao_type" : "B38M",
+      "registration" : "C-GZSG",
+      "registered_owner_operator_flag_code" : "WJA",
+      "registered_owner_country_name" : "Canada",
+      "registered_owner" : "WestJet",
+      "type" : "737MAX 8",
+      "registered_owner_country_iso_name" : "CA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/690\/001690963.jpg",
+      "manufacturer" : "Boeing"
     },
-    "lastSeen" : 1743476772.8
+    "lastSeen" : 1743565328.7,
+    "flights" : {
+      "WJA254  " : 1
+    },
+    "hex" : "c08887"
   },
   {
-    "lastSeen" : 1743476337,
     "properties" : {
-      "type" : "A321 231",
-      "registered_owner_operator_flag_code" : "AAL",
-      "registered_owner_country_name" : "United States",
+      "registration" : "N827DN",
+      "registered_owner" : "Delta Air Lines",
+      "type" : "737NG 932ER\/W",
       "registered_owner_country_iso_name" : "US",
-      "registration" : "N919US",
-      "registered_owner" : "American Airlines",
-      "icao_type" : "A321",
-      "manufacturer" : "Airbus"
+      "icao_type" : "B739",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "DAL"
     },
-    "hex" : "acb9ed",
+    "hex" : "ab4b34",
+    "timesSeen" : [
+      1741064404.6,
+      1741085771.1,
+      1743564320
+    ],
     "flights" : {
-      "AAL2330 " : 1
+      "DAL2138 " : 1,
+      "DAL1017 " : 1
+    },
+    "lastSeen" : 1743565318.7
+  },
+  {
+    "lastSeen" : 1743564889.2,
+    "flights" : {
+      "AAL705  " : 1,
+      "AAL36   " : 1
+    },
+    "properties" : {
+      "type" : "777 223ER",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/597\/001597247.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner" : "American Airlines",
+      "registration" : "N755AN",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "B772",
+      "registered_owner_operator_flag_code" : "AAL",
+      "registered_owner_country_name" : "United States"
+    },
+    "hex" : "aa2ca9",
+    "timesSeen" : [
+      1740784565.6,
+      1741237839,
+      1741796422.6000001,
+      1743272854.6999998,
+      1743564062.7
+    ]
+  },
+  {
+    "timesSeen" : [
+      1743563445.1
+    ],
+    "lastSeen" : 1743564294.3,
+    "hex" : "c02eca",
+    "flights" : {
+      "ACA96   " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Boeing",
+      "type" : "787 9",
+      "registered_owner_country_iso_name" : "CA",
+      "icao_type" : "B789",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/595\/001595559.jpg",
+      "registered_owner" : "Air Canada",
+      "registered_owner_country_name" : "Canada",
+      "registration" : "C-FRSR",
+      "registered_owner_operator_flag_code" : "ACA"
+    }
+  },
+  {
+    "lastSeen" : 1743563416.3,
+    "hex" : "a1094c",
+    "flights" : {
+      "EDV5254 " : 1,
+      "EDV5517 " : 1
+    },
+    "properties" : {
+      "type" : "CRJ 900 LR NG",
+      "registered_owner_country_name" : "United States",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/668\/001668266.jpg",
+      "registration" : "N166PQ",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Delta Connection",
+      "manufacturer" : "Bombardier",
+      "registered_owner_operator_flag_code" : "EDV",
+      "icao_type" : "CRJ9"
     },
     "timesSeen" : [
-      1743475258.9
+      1743267049.8999999,
+      1743562570.4
     ]
+  },
+  {
+    "timesSeen" : [
+      1740629347,
+      1740714551.3,
+      1743562246.6999998
+    ],
+    "flights" : {
+      "LBQ799  " : 1
+    },
+    "lastSeen" : 1743563371.8999999,
+    "hex" : "a04f04"
+  },
+  {
+    "hex" : "a3556f",
+    "lastSeen" : 1743562940.5,
+    "timesSeen" : [
+      1743562030.1000001
+    ],
+    "properties" : {
+      "icao_type" : "BCS3",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "JBU",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N3138J",
+      "registered_owner" : "JetBlue Airways",
+      "manufacturer" : "Airbus",
+      "type" : "A220-300"
+    },
+    "flights" : {
+      "JBU308  " : 1
+    }
+  },
+  {
+    "flights" : {
+      "UAL1232 " : 1
+    },
+    "timesSeen" : [
+      1743561699.8
+    ],
+    "lastSeen" : 1743562557.2,
+    "hex" : "a44940",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "UAL",
+      "manufacturer" : "Boeing",
+      "type" : "737-9",
+      "registration" : "N37538",
+      "icao_type" : "B39M",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/790\/001790504.jpg",
+      "registered_owner" : "United Airlines"
+    }
   }
 ]
