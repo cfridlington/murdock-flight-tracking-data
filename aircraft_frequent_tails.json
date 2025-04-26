@@ -1,6 +1,10 @@
 [
   {
+    "flights" : {
+      "N38549  " : 54
+    },
     "hex" : "a470e3",
+    "lastSeen" : 1745608246.1000001,
     "timesSeen" : [
       1740576784,
       1740580402.3,
@@ -112,19 +116,11 @@
       1745263031.7,
       1745266639.9,
       1745351414.1,
-      1745355052.6
-    ],
-    "lastSeen" : 1745355112.7,
-    "flights" : {
-      "N38549  " : 53
-    }
+      1745355052.6,
+      1745607542.8
+    ]
   },
   {
-    "flights" : {
-      "N97055  " : 50
-    },
-    "lastSeen" : 1745514608,
-    "hex" : "ad86ca",
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -228,14 +224,18 @@
       1745495568.2,
       1745499320.6,
       1745510193.1999998,
-      1745513829
-    ]
+      1745513829,
+      1745606107.9
+    ],
+    "flights" : {
+      "N97055  " : 51
+    },
+    "hex" : "ad86ca",
+    "lastSeen" : 1745609325
   },
   {
-    "hex" : "a4c0c6",
-    "lastSeen" : 1745533900,
     "flights" : {
-      "N405SB  " : 44
+      "N405SB  " : 48
     },
     "timesSeen" : [
       1740504236.6,
@@ -329,11 +329,21 @@
       1745509323.6,
       1745515269.1999998,
       1745530138.8,
-      1745533779.8000002
-    ]
+      1745533779.8000002,
+      1745585409,
+      1745589010.6999998,
+      1745594898.1,
+      1745600814.9,
+      1745606103.5
+    ],
+    "hex" : "a4c0c6",
+    "lastSeen" : 1745609005.1
   },
   {
-    "hex" : "a82dbc",
+    "lastSeen" : 1745615623.1,
+    "flights" : {
+      "N626NJ  " : 41
+    },
     "timesSeen" : [
       1741022120.7,
       1741028594.1000001,
@@ -420,40 +430,28 @@
       1745498539.3,
       1745502716.7,
       1745511728.9,
-      1745517101.8
+      1745517101.8,
+      1745585356.7,
+      1745588980.6999998,
+      1745593419.8,
+      1745597033.8,
+      1745605981.3,
+      1745609845.3,
+      1745613460.1000001
     ],
-    "lastSeen" : 1745518440.6,
+    "hex" : "a82dbc",
     "properties" : {
+      "registered_owner" : "Blue Sky Aviation LLC",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "BE20",
-      "manufacturer" : "Piper",
-      "icao_type" : "P28A",
       "registration" : "N626NJ",
       "type" : "PA-28-151",
-      "registered_owner" : "Blue Sky Aviation LLC"
-    },
-    "flights" : {
-      "N626NJ  " : 36
+      "manufacturer" : "Piper",
+      "icao_type" : "P28A",
+      "registered_owner_operator_flag_code" : "BE20"
     }
   },
   {
-    "properties" : {
-      "registration" : "N474SS",
-      "registered_owner" : "Boutique Air",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "PC12",
-      "registered_owner_operator_flag_code" : "BTQ",
-      "type" : "PC-XII 47",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Pilatus"
-    },
-    "hex" : "a5d197",
-    "flights" : {
-      "BTQ861  " : 3,
-      "BTQ863  " : 1,
-      "BTQ866  " : 1
-    },
     "timesSeen" : [
       1740506523,
       1740521163.3999999,
@@ -504,11 +502,43 @@
       1745513834.8000002,
       1745520827,
       1745531399.3999999,
-      1745539027.5
+      1745539027.5,
+      1745601627.6999998
     ],
-    "lastSeen" : 1745539747.3000002
+    "flights" : {
+      "BTQ861  " : 3,
+      "BTQ863  " : 1,
+      "BTQ866  " : 1
+    },
+    "lastSeen" : 1745602287.8,
+    "hex" : "a5d197",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "BTQ",
+      "icao_type" : "PC12",
+      "manufacturer" : "Pilatus",
+      "type" : "PC-XII 47",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "Boutique Air",
+      "registration" : "N474SS"
+    }
   },
   {
+    "hex" : "a03798",
+    "properties" : {
+      "registration" : "N113CP",
+      "type" : "T206H",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Cessna",
+      "registered_owner_operator_flag_code" : "DHC2",
+      "icao_type" : "C06T",
+      "registered_owner" : "Civil Air Patrol"
+    },
+    "lastSeen" : 1745594074.3999999,
+    "flights" : {
+      "CAP2813 " : 28
+    },
     "timesSeen" : [
       1740500282.8000002,
       1740594809.6999998,
@@ -557,33 +587,23 @@
       1745429820.2,
       1745433454.8,
       1745515540.8,
-      1745519151.1
-    ],
-    "lastSeen" : 1745522403.3,
-    "flights" : {
-      "CAP2813 " : 27
-    },
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "C06T",
-      "registered_owner" : "Civil Air Patrol",
-      "type" : "T206H",
-      "manufacturer" : "Cessna",
-      "registration" : "N113CP",
-      "registered_owner_operator_flag_code" : "DHC2",
-      "registered_owner_country_name" : "United States"
-    },
-    "hex" : "a03798"
+      1745519151.1,
+      1745588831.1000001,
+      1745592899.2
+    ]
   },
   {
-    "flights" : {
-      "PACK23  " : 2,
-      "PACK43  " : 1,
-      "PACK34  " : 2,
-      "PACK32  " : 1
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "KC46",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/678\/001678461.jpg",
+      "registration" : "18-46054",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "KC46",
+      "registered_owner" : "United States Air Force",
+      "manufacturer" : "Boeing",
+      "type" : "KC-46A Pegasus"
     },
-    "lastSeen" : 1744913765.2,
-    "hex" : "ae5fa1",
     "timesSeen" : [
       1741874716.1999998,
       1741902561.7,
@@ -628,35 +648,135 @@
       1744844123.2,
       1744912827.5
     ],
-    "properties" : {
-      "icao_type" : "KC46",
-      "manufacturer" : "Boeing",
-      "registered_owner" : "United States Air Force",
-      "registration" : "18-46054",
-      "type" : "KC-46A Pegasus",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/678\/001678461.jpg",
-      "registered_owner_operator_flag_code" : "KC46",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US"
+    "hex" : "ae5fa1",
+    "lastSeen" : 1744913765.2,
+    "flights" : {
+      "PACK32  " : 1,
+      "PACK34  " : 2,
+      "PACK43  " : 1,
+      "PACK23  " : 2
     }
   },
   {
-    "lastSeen" : 1745520551.3,
-    "hex" : "4cabd1",
+    "lastSeen" : 1745625864,
+    "flights" : {
+      "FPY845  " : 3,
+      "FPY846  " : 1,
+      "FPY409  " : 2,
+      "FPY410  " : 1
+    },
+    "timesSeen" : [
+      1740778942.8999999,
+      1740788434,
+      1740958909,
+      1741126667.9,
+      1741139460.6,
+      1742081830.6,
+      1742255758.9,
+      1742418174,
+      1742427721.7,
+      1742603128.5,
+      1742678783,
+      1742688579.6000001,
+      1742850827.1999998,
+      1742859116.8,
+      1743034174.2,
+      1743452765.2,
+      1743638258.8,
+      1743713185,
+      1743725728.3000002,
+      1743796040,
+      1743885066.1,
+      1743897798.3,
+      1743971972.1,
+      1743984647.6000001,
+      1744241815.3,
+      1744492390.6,
+      1744503112.6999998,
+      1744660868.1,
+      1744675684.2,
+      1744749212,
+      1744763275.3,
+      1744919957.2,
+      1745006690.9,
+      1745019762.2,
+      1745538115.3999999,
+      1745610287,
+      1745624800.3999999
+    ],
     "properties" : {
+      "icao_type" : "A320",
+      "registered_owner_country_name" : "Iceland",
+      "registration" : "TF-PPE",
       "manufacturer" : "Airbus",
-      "icao_type" : "A21N",
-      "registered_owner" : "Aer Lingus",
+      "registered_owner_country_iso_name" : "IS",
+      "registered_owner" : "Play",
+      "type" : "A320-251N",
+      "registered_owner_operator_flag_code" : "FPY",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/795\/001795399.jpg"
+    },
+    "hex" : "4cc569"
+  },
+  {
+    "hex" : "a18135",
+    "flights" : {
+      "N19629  " : 12
+    },
+    "timesSeen" : [
+      1740513816.1,
+      1741099448.2,
+      1741953126.2,
+      1741981714.3,
+      1742061108.2,
+      1742071408.4,
+      1742075029.7,
+      1742327621.2,
+      1742331222.1000001,
+      1742668726.2,
+      1743111761.6,
+      1743116146.3,
+      1743191916.7,
+      1743197536.7,
+      1743201316.5,
+      1743635859,
+      1743798021.9,
+      1744216002.9,
+      1744224082.9,
+      1744231933.6000001,
+      1744235555.5,
+      1744653995.8000002,
+      1744660516.5,
+      1744725100.7,
+      1744733951,
+      1744745847.4,
+      1744749448.8,
+      1744759361.6999998,
+      1744913548.8999999,
+      1744990922.1999998,
+      1745006240,
+      1745252748.7,
+      1745272662.1000001,
+      1745502921.8000002,
+      1745588866.7,
+      1745592860.6000001
+    ],
+    "lastSeen" : 1745593401.2
+  },
+  {
+    "flights" : {
+      "EIN13X  " : 1,
+      "EIN119  " : 2,
+      "EIN10M  " : 2
+    },
+    "properties" : {
       "registered_owner_country_name" : "Ireland",
-      "type" : "A321 253NXSL",
       "registered_owner_country_iso_name" : "IE",
       "registered_owner_operator_flag_code" : "EIN",
-      "registration" : "EI-LRE"
-    },
-    "flights" : {
-      "EIN10M  " : 2,
-      "EIN119  " : 2,
-      "EIN13X  " : 1
+      "type" : "A321 253NXSL",
+      "registered_owner" : "Aer Lingus",
+      "registration" : "EI-LRE",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A21N"
     },
     "timesSeen" : [
       1740689045.8,
@@ -695,122 +815,8 @@
       1745352211.6,
       1745434464.3,
       1745519973.1000001
-    ]
-  },
-  {
-    "flights" : {
-      "SAS908  " : 2,
-      "SAS926  " : 1,
-      "SAS925  " : 1
-    },
-    "lastSeen" : 1745274450.8,
-    "hex" : "4a91b2",
-    "timesSeen" : [
-      1740698641.8999999,
-      1740784078.2,
-      1740874557.1,
-      1741195644.5,
-      1741222820.1000001,
-      1741283667.5,
-      1741307277.8,
-      1741979971.3,
-      1741994456.6000001,
-      1742064975.8999999,
-      1742081397.1,
-      1742151395.1000001,
-      1742166950.9,
-      1742254046.3,
-      1742411574.3,
-      1742426771.3999999,
-      1742498941.5,
-      1742518689.9,
-      1742584410.6,
-      1742670617.5,
-      1742686235.8,
-      1743353787.2,
-      1743464651.8999999,
-      1743547046.1000001,
-      1743637090.6000001,
-      1743696517.7,
-      1743722832.3,
-      1743869128.5,
-      1743897170.2,
-      1743979876,
-      1744051908.7,
-      1744999851.2,
-      1745086989.2,
-      1745100196.9,
-      1745259477.4,
-      1745273259.3000002
     ],
-    "properties" : {
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "Sweden",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/723\/001723155.jpg",
-      "registered_owner" : "Scandinavian Airlines System",
-      "registered_owner_country_iso_name" : "SE",
-      "icao_type" : "A21N",
-      "registered_owner_operator_flag_code" : "SAS",
-      "type" : "A321 253NXSL",
-      "registration" : "SE-DMR"
-    }
-  },
-  {
-    "lastSeen" : 1745538656.1000001,
-    "hex" : "4cc569",
-    "properties" : {
-      "icao_type" : "A320",
-      "manufacturer" : "Airbus",
-      "registration" : "TF-PPE",
-      "registered_owner_country_name" : "Iceland",
-      "registered_owner" : "Play",
-      "registered_owner_operator_flag_code" : "FPY",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/795\/001795399.jpg",
-      "type" : "A320-251N",
-      "registered_owner_country_iso_name" : "IS"
-    },
-    "flights" : {
-      "FPY410  " : 1,
-      "FPY846  " : 1,
-      "FPY845  " : 3,
-      "FPY409  " : 2
-    },
-    "timesSeen" : [
-      1740778942.8999999,
-      1740788434,
-      1740958909,
-      1741126667.9,
-      1741139460.6,
-      1742081830.6,
-      1742255758.9,
-      1742418174,
-      1742427721.7,
-      1742603128.5,
-      1742678783,
-      1742688579.6000001,
-      1742850827.1999998,
-      1742859116.8,
-      1743034174.2,
-      1743452765.2,
-      1743638258.8,
-      1743713185,
-      1743725728.3000002,
-      1743796040,
-      1743885066.1,
-      1743897798.3,
-      1743971972.1,
-      1743984647.6000001,
-      1744241815.3,
-      1744492390.6,
-      1744503112.6999998,
-      1744660868.1,
-      1744675684.2,
-      1744749212,
-      1744763275.3,
-      1744919957.2,
-      1745006690.9,
-      1745019762.2,
-      1745538115.3999999
-    ]
+    "lastSeen" : 1745520551.3,
+    "hex" : "4cabd1"
   }
 ]
