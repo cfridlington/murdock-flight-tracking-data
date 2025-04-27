@@ -1,256 +1,252 @@
 [
   {
-    "lastSeen" : 1745639201.3000002,
-    "properties" : {
-      "registered_owner_country_name" : "Iceland",
-      "icao_type" : "B38M",
-      "registered_owner_operator_flag_code" : "ICE",
-      "type" : "737-8 MAX",
-      "registered_owner" : "Icelandair",
-      "registration" : "TF-ICF",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_iso_name" : "IS"
-    },
-    "flights" : {
-      "ICE634  " : 1
-    },
+    "hex" : "ac9975",
+    "lastSeen" : 1745725789.1,
     "timesSeen" : [
-      1741729572.1,
-      1742149080.7,
-      1742420191,
-      1742766417.8,
-      1744681902,
-      1744754454.2,
-      1744767250.7,
-      1744937006.7,
-      1745627880.8000002,
-      1745638640
+      1740969894.6000001,
+      1745050731.1000001,
+      1745724971.5
     ],
-    "hex" : "4cc573"
-  },
-  {
-    "hex" : "461f09",
     "properties" : {
-      "icao_type" : "A333",
-      "registered_owner_country_name" : "Finland",
-      "manufacturer" : "Airbus",
-      "registration" : "OH-LTP",
-      "registered_owner_country_iso_name" : "FI",
-      "registered_owner" : "Finnair",
-      "type" : "A330 302E",
-      "registered_owner_operator_flag_code" : "FIN",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/747\/001747539.jpg"
+      "type" : "Global Express",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N9103J",
+      "icao_type" : "GLEX",
+      "manufacturer" : "Bombardier",
+      "registered_owner_operator_flag_code" : "PVA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/712\/001712668.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Planet Nine Private Air"
     },
-    "lastSeen" : 1745639091.5,
     "flights" : {
-      "FIN16   " : 3
-    },
-    "timesSeen" : [
-      1740630704.3,
-      1740976141.2,
-      1741062174.8999999,
-      1741129294.2,
-      1741148923.3,
-      1741318050.5,
-      1742010159.8,
-      1742080060.6,
-      1742095799.3,
-      1743272498.4,
-      1743460250,
-      1744754592.6,
-      1745100995.6,
-      1745121354,
-      1745274198.2,
-      1745292956.3000002,
-      1745622772,
-      1745638909.7
-    ]
-  },
-  {
-    "timesSeen" : [
-      1740895713.4,
-      1741944026.9,
-      1745637713.9
-    ],
-    "flights" : {
-      "ACA96   " : 1
-    },
-    "lastSeen" : 1745638527.2,
-    "hex" : "c02ee9",
-    "properties" : {
-      "registered_owner_country_name" : "Canada",
-      "registered_owner_operator_flag_code" : "ACA",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/337\/001337083.jpg",
-      "registration" : "C-FRTW",
-      "registered_owner_country_iso_name" : "CA",
-      "icao_type" : "B789",
-      "registered_owner" : "Air Canada",
-      "manufacturer" : "Boeing",
-      "type" : "787 9"
+      "PVA1092 " : 1
     }
   },
   {
-    "lastSeen" : 1745637736,
-    "flights" : {
-      "LOT5N   " : 2
-    },
-    "timesSeen" : [
-      1744155271.3000002,
-      1744240810.2,
-      1744329657.1,
-      1744413036.5,
-      1744500949.1,
-      1744588749.5,
-      1744603095,
-      1744757749.6000001,
-      1744845773.6000001,
-      1744860819.3000002,
-      1744933118,
-      1745017175.9,
-      1745363476,
-      1745449965.8000002,
-      1745535423.1,
-      1745621833.4,
-      1745637195.3000002
-    ],
-    "hex" : "495278"
-  },
-  {
-    "flights" : {
-      "QTR12B  " : 1
-    },
     "properties" : {
-      "registration" : "A7-BFW",
-      "type" : "777 F",
-      "registered_owner_country_iso_name" : "QA",
-      "registered_owner_country_name" : "Qatar",
+      "icao_type" : "B763",
+      "type" : "767 322ER\/W",
+      "registration" : "N669UA",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "UAL",
       "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "QTR",
-      "icao_type" : "B77L",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/672\/001672786.jpg",
-      "registered_owner" : "Qatar Airways"
+      "registered_owner" : "United Airlines",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/641\/001641484.jpg"
+    },
+    "lastSeen" : 1745725541.3999999,
+    "hex" : "a8d76b",
+    "flights" : {
+      "UAL74   " : 1
     },
     "timesSeen" : [
-      1745637475.4
-    ],
-    "hex" : "06a30a",
-    "lastSeen" : 1745637475.4
+      1744396344.8,
+      1744495243.9,
+      1744821746,
+      1744988192.6000001,
+      1745115977.1000001,
+      1745208190.3999999,
+      1745708357.8,
+      1745725495.3
+    ]
   },
   {
+    "lastSeen" : 1745725534.5,
     "timesSeen" : [
-      1745117179.8999999,
-      1745147663,
-      1745636412.7
+      1745724591.5
     ],
-    "flights" : {
-      "DAL1404 " : 1
-    },
-    "hex" : "ad7639",
-    "lastSeen" : 1745637366.6,
     "properties" : {
-      "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "DAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/616\/001616618.jpg",
-      "icao_type" : "B712",
-      "manufacturer" : "Boeing",
-      "type" : "717 2BD",
-      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N807DN",
       "registered_owner" : "Delta Air Lines",
-      "registration" : "N967AT"
+      "type" : "737NG 932ER\/W",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B739",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/599\/001599370.jpg"
+    },
+    "hex" : "aafc36",
+    "flights" : {
+      "DAL2138 " : 1
     }
   },
   {
-    "flights" : {
-      "JBU407  " : 1,
-      "JBU508  " : 1
-    },
+    "lastSeen" : 1745725184.6000001,
     "properties" : {
-      "registered_owner" : "JetBlue Airways",
-      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "registration" : "N3118J",
-      "type" : "A220-300",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N4048J",
+      "icao_type" : "A21N",
       "manufacturer" : "Airbus",
-      "icao_type" : "BCS3",
-      "registered_owner_operator_flag_code" : "JBU"
+      "registered_owner" : "JetBlue Airways",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/744\/001744001.jpg",
+      "registered_owner_operator_flag_code" : "JBU",
+      "type" : "A321 271NXSL"
     },
-    "hex" : "a34e01",
-    "lastSeen" : 1745636922,
+    "hex" : "a4bef6",
+    "flights" : {
+      "JBU1408 " : 1
+    },
     "timesSeen" : [
-      1743883724.9,
-      1744084975.6,
-      1744108509.2,
-      1745636209.6
+      1740938867.6999998,
+      1741033087.5,
+      1741271984.8,
+      1742926260.6,
+      1743620600.8,
+      1744054385.7,
+      1744311204.7,
+      1744916471.3,
+      1745243409.5,
+      1745433179.8000002,
+      1745516685,
+      1745724643.8999999
     ]
   },
   {
     "timesSeen" : [
-      1743647817.7,
-      1743821044.1,
-      1744165525.5,
-      1744339711.6,
-      1744425779.7,
-      1744431087.9,
-      1744685588.8,
-      1744772397.6,
-      1744945875.6,
-      1745030629.2,
-      1745035938.2,
-      1745289622.4,
-      1745295138.8999999,
-      1745376393.2,
-      1745462564.2,
-      1745550373.6,
-      1745635785.3
+      1743804089.3999999,
+      1744150800.8999999,
+      1744236494.2,
+      1744322850.3,
+      1744495571.8,
+      1744507947,
+      1744840991.5,
+      1745370768.6,
+      1745531399.6,
+      1745545488,
+      1745705669.9,
+      1745724509.3000002
     ],
-    "hex" : "aa3923",
-    "lastSeen" : 1745636807.2,
     "flights" : {
-      "LBQ790  " : 5
+      "ICE615  " : 1,
+      "ICE614  " : 1
+    },
+    "hex" : "4cc279",
+    "lastSeen" : 1745724989.9,
+    "properties" : {
+      "manufacturer" : "Boeing",
+      "type" : "767 319ER\/W",
+      "registration" : "TF-ISO",
+      "registered_owner_operator_flag_code" : "ICE",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/701\/001701612.jpg",
+      "registered_owner_country_name" : "Iceland",
+      "registered_owner_country_iso_name" : "IS",
+      "registered_owner" : "Icelandair",
+      "icao_type" : "B763"
     }
   },
   {
-    "lastSeen" : 1745636500.3999999,
+    "flights" : {
+      "P4BTR   " : 1
+    },
+    "timesSeen" : [
+      1745723514.9
+    ],
+    "hex" : "484127",
+    "lastSeen" : 1745724777.6000001,
     "properties" : {
-      "registered_owner" : "Turkish Airlines",
-      "registered_owner_country_iso_name" : "TR",
-      "registration" : "TC-LJF",
-      "registered_owner_operator_flag_code" : "THY",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/646\/001646350.jpg",
-      "type" : "777 3F2ER",
-      "registered_owner_country_name" : "Turkey",
-      "icao_type" : "B77W",
+      "type" : "G450",
+      "registered_owner_operator_flag_code" : "G450",
+      "registered_owner" : "Falcon Wings",
+      "registered_owner_country_iso_name" : "AW",
+      "registration" : "P4-BTR",
+      "registered_owner_country_name" : "Aruba",
+      "icao_type" : "G450",
+      "manufacturer" : "Gulfstream Aerospace"
+    }
+  },
+  {
+    "flights" : {
+      "SWA1105 " : 1
+    },
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "registration" : "N8625A",
+      "icao_type" : "B738",
+      "registered_owner_operator_flag_code" : "SWA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/614\/001614851.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "type" : "737NG 8H4\/W",
+      "registered_owner" : "Southwest Airlines",
       "manufacturer" : "Boeing"
     },
-    "flights" : {
-      "THY8    " : 1
-    },
+    "lastSeen" : 1745724703.5,
     "timesSeen" : [
-      1745417033.5,
-      1745635780
+      1741774633.7,
+      1745723747.4
     ],
-    "hex" : "4bb146"
+    "hex" : "abd94d"
   },
   {
-    "properties" : {
-      "registered_owner" : "Delta Connection",
-      "icao_type" : "E75S",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "RPA",
-      "type" : "EMB-175 LR",
-      "registration" : "N245JQ",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_iso_name" : "US"
-    },
-    "lastSeen" : 1745636047.4,
+    "lastSeen" : 1745724547.6999998,
     "timesSeen" : [
-      1743991914.5,
-      1744021843.3,
-      1745635241.3
+      1741848242.8999999,
+      1742078346.7,
+      1743487036.7,
+      1745087298,
+      1745181688.2,
+      1745723629.4
+    ],
+    "properties" : {
+      "registered_owner_country_name" : "Luxembourg",
+      "registered_owner" : "Cargolux Airlines International",
+      "manufacturer" : "Boeing",
+      "type" : "747 4HAERF",
+      "icao_type" : "B744",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676702.jpg",
+      "registered_owner_country_iso_name" : "LU",
+      "registration" : "LX-LCL",
+      "registered_owner_operator_flag_code" : "CLX"
+    },
+    "flights" : {
+      "CLX48C  " : 1
+    },
+    "hex" : "4d012e"
+  },
+  {
+    "lastSeen" : 1745724116.8,
+    "timesSeen" : [
+      1741883273.3999999,
+      1744848020.4,
+      1745723266.7
+    ],
+    "properties" : {
+      "registered_owner_country_name" : "Canada",
+      "manufacturer" : "Airbus",
+      "type" : "A320 214",
+      "registered_owner_country_iso_name" : "CA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/496\/001496924.jpg",
+      "registration" : "C-FGJI",
+      "icao_type" : "A320",
+      "registered_owner_operator_flag_code" : "ACA",
+      "registered_owner" : "Air Canada"
+    },
+    "flights" : {
+      "ACA609  " : 1
+    },
+    "hex" : "c010cb"
+  },
+  {
+    "timesSeen" : [
+      1745341609.5,
+      1745723070.9
     ],
     "flights" : {
-      "RPA5839 " : 1
+
     },
-    "hex" : "a24369"
+    "lastSeen" : 1745723685.6,
+    "properties" : {
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "A21N",
+      "registered_owner_country_iso_name" : "US",
+      "type" : "A321 271NXSL",
+      "registered_owner_operator_flag_code" : "JBU",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/054\/054218.jpg",
+      "registered_owner" : "JetBlue Airways",
+      "registration" : "N2105J"
+    },
+    "hex" : "a1bc92"
   }
 ]
