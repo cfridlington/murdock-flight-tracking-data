@@ -3,6 +3,7 @@
     "flights" : {
       "N38549  " : 59
     },
+    "hex" : "a470e3",
     "lastSeen" : 1746125616.8999999,
     "timesSeen" : [
       1740576784,
@@ -129,11 +130,13 @@
       1746112766.6000001,
       1746118595.3999999,
       1746122227.7
-    ],
-    "hex" : "a470e3"
+    ]
   },
   {
-    "lastSeen" : 1746131973.6000001,
+    "flights" : {
+      "N97055  " : 57
+    },
+    "hex" : "ad86ca",
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -250,14 +253,18 @@
       1746111356.1,
       1746116994.5,
       1746128293.1000001,
-      1746131913.6000001
+      1746131913.6000001,
+      1746277090.5,
+      1746282075.3999999
     ],
-    "hex" : "ad86ca",
-    "flights" : {
-      "N97055  " : 56
-    }
+    "lastSeen" : 1746283714.1
   },
   {
+    "hex" : "a4c0c6",
+    "flights" : {
+      "N405SB  " : 54
+    },
+    "lastSeen" : 1746284742.6,
     "timesSeen" : [
       1740504236.6,
       1740510052,
@@ -368,15 +375,15 @@
       1746128861.8,
       1746135620,
       1746139220.5,
-      1746144248.1
-    ],
-    "flights" : {
-      "N405SB  " : 53
-    },
-    "lastSeen" : 1746144908.6,
-    "hex" : "a4c0c6"
+      1746144248.1,
+      1746278558.7,
+      1746282162.8999999
+    ]
   },
   {
+    "flights" : {
+      "N626NJ  " : 43
+    },
     "timesSeen" : [
       1741022120.7,
       1741028594.1000001,
@@ -477,23 +484,34 @@
       1746140555.8
     ],
     "lastSeen" : 1746141589,
-    "flights" : {
-      "N626NJ  " : 43
-    },
     "hex" : "a82dbc",
     "properties" : {
-      "icao_type" : "P28A",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "BE20",
-      "registered_owner" : "Blue Sky Aviation LLC",
       "type" : "PA-28-151",
       "registration" : "N626NJ",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Piper",
-      "registered_owner_country_name" : "United States"
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "icao_type" : "P28A",
+      "manufacturer" : "Piper"
     }
   },
   {
     "lastSeen" : 1746133267.4,
+    "properties" : {
+      "registration" : "N113CP",
+      "registered_owner_operator_flag_code" : "DHC2",
+      "icao_type" : "C06T",
+      "registered_owner_country_iso_name" : "US",
+      "type" : "T206H",
+      "registered_owner" : "Civil Air Patrol",
+      "manufacturer" : "Cessna",
+      "registered_owner_country_name" : "United States"
+    },
+    "hex" : "a03798",
+    "flights" : {
+      "CAP2813 " : 30
+    },
     "timesSeen" : [
       1740500282.8000002,
       1740594809.6999998,
@@ -550,23 +568,16 @@
       1746124899.8999999,
       1746128551,
       1746132649.1
-    ],
-    "flights" : {
-      "CAP2813 " : 30
-    },
-    "properties" : {
-      "manufacturer" : "Cessna",
-      "registered_owner" : "Civil Air Patrol",
-      "registration" : "N113CP",
-      "type" : "T206H",
-      "icao_type" : "C06T",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_operator_flag_code" : "DHC2"
-    },
-    "hex" : "a03798"
+    ]
   },
   {
+    "flights" : {
+      "BTQ866  " : 2,
+      "BTQ863  " : 1,
+      "BTQ861  " : 3
+    },
+    "hex" : "a5d197",
+    "lastSeen" : 1746055116.5,
     "timesSeen" : [
       1740506523,
       1740521163.3999999,
@@ -623,30 +634,23 @@
       1745766448,
       1746054575.8999999
     ],
-    "lastSeen" : 1746055116.5,
-    "flights" : {
-      "BTQ866  " : 2,
-      "BTQ863  " : 1,
-      "BTQ861  " : 3
-    },
-    "hex" : "a5d197",
     "properties" : {
-      "registered_owner_country_name" : "United States",
-      "registered_owner_operator_flag_code" : "BTQ",
-      "icao_type" : "PC12",
+      "manufacturer" : "Pilatus",
       "registration" : "N474SS",
       "type" : "PC-XII 47",
+      "registered_owner_country_name" : "United States",
       "registered_owner" : "Boutique Air",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Pilatus"
+      "registered_owner_operator_flag_code" : "BTQ",
+      "icao_type" : "PC12",
+      "registered_owner_country_iso_name" : "US"
     }
   },
   {
-    "flights" : {
-      "N37050  " : 23
-    },
-    "lastSeen" : 1746137826.5,
+    "lastSeen" : 1746284684.4,
     "hex" : "a436eb",
+    "flights" : {
+      "N37050  " : 24
+    },
     "timesSeen" : [
       1740520276,
       1740746270,
@@ -693,7 +697,10 @@
       1746121137,
       1746127090.1000001,
       1746131479.6,
-      1746135087.1
+      1746135087.1,
+      1746272944.5,
+      1746278137,
+      1746282441.5
     ]
   },
   {
@@ -751,10 +758,11 @@
     }
   },
   {
+    "lastSeen" : 1746325537.5,
+    "hex" : "000000",
     "flights" : {
 
     },
-    "lastSeen" : 1746216977.3000002,
     "timesSeen" : [
       1740846345.6,
       1741031261,
@@ -797,73 +805,72 @@
       1746130871.3,
       1746157088.3,
       1746204133.4,
-      1746216436.6999998
-    ],
-    "hex" : "000000"
+      1746216436.6999998,
+      1746324996.8
+    ]
   },
   {
     "timesSeen" : [
-      1740689045.8,
-      1740700625.9,
-      1740774496.5,
-      1740870044.3999999,
-      1741041615.4,
-      1741203145.8,
-      1741820740.6000001,
-      1741835662.5,
-      1741894247.7,
-      1742079848,
-      1742164360.3999999,
-      1742340264,
-      1742425388.3,
-      1742511782.3000002,
-      1742600045.6,
-      1742682127,
-      1742857945,
-      1742929530.5,
-      1743030550,
-      1743107239.3,
-      1743288495.8999999,
-      1743543077.6000001,
-      1743878889.8,
-      1744075726.6000001,
-      1744140525,
-      1744228887.3999999,
-      1744407801.2,
-      1744571888.7,
-      1744841447.1,
-      1744913886.5,
-      1745099250.5,
-      1745171700.6999998,
-      1745261704.5,
-      1745352211.6,
-      1745434464.3,
-      1745519973.1000001,
-      1745695748,
-      1745714828.9,
-      1745790946.1,
-      1745865269.3999999,
-      1745955712.2,
-      1745969035.1
+      1740698641.8999999,
+      1740784078.2,
+      1740874557.1,
+      1741195644.5,
+      1741222820.1000001,
+      1741283667.5,
+      1741307277.8,
+      1741979971.3,
+      1741994456.6000001,
+      1742064975.8999999,
+      1742081397.1,
+      1742151395.1000001,
+      1742166950.9,
+      1742254046.3,
+      1742411574.3,
+      1742426771.3999999,
+      1742498941.5,
+      1742518689.9,
+      1742584410.6,
+      1742670617.5,
+      1742686235.8,
+      1743353787.2,
+      1743464651.8999999,
+      1743547046.1000001,
+      1743637090.6000001,
+      1743696517.7,
+      1743722832.3,
+      1743869128.5,
+      1743897170.2,
+      1743979876,
+      1744051908.7,
+      1744999851.2,
+      1745086989.2,
+      1745100196.9,
+      1745259477.4,
+      1745273259.3000002,
+      1745963864,
+      1746142708,
+      1746203368,
+      1746230625.8,
+      1746288977.7,
+      1746321092.3
     ],
     "properties" : {
       "icao_type" : "A21N",
-      "registered_owner_country_iso_name" : "IE",
-      "type" : "A321 253NXSL",
-      "registered_owner_operator_flag_code" : "EIN",
+      "registered_owner_country_name" : "Sweden",
+      "registered_owner_operator_flag_code" : "SAS",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/723\/001723155.jpg",
       "manufacturer" : "Airbus",
-      "registration" : "EI-LRE",
-      "registered_owner_country_name" : "Ireland",
-      "registered_owner" : "Aer Lingus"
+      "registration" : "SE-DMR",
+      "registered_owner" : "Scandinavian Airlines System",
+      "registered_owner_country_iso_name" : "SE",
+      "type" : "A321 253NXSL"
     },
+    "lastSeen" : 1746321272.6,
+    "hex" : "4a91b2",
     "flights" : {
-      "EIN13X  " : 1,
-      "EIN119  " : 2,
-      "EIN1EA  " : 1,
-      "EIN10M  " : 2,
-      "EIN11T  " : 1
-    },
-    "lastSeen" : 1745970079.8,
-    "hex" : "4cabd1"
+      "SAS926  " : 1,
+      "SAS908  " : 2,
+      "SAS925  " : 1
+    }
   }
 ]
