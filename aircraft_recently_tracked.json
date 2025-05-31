@@ -1,199 +1,253 @@
 [
   {
-    "hex" : "48ae03",
     "timesSeen" : [
-      1741581805.3,
-      1741737215.6999998,
-      1741752653.9,
-      1741925546.6000001,
-      1742516833.2,
-      1742532652.1,
-      1748112012.6999998,
-      1748299203.5,
-      1748576298.9
+      1740629859.5,
+      1747279190.5,
+      1748662734.8999999
     ],
+    "hex" : "c01049",
     "flights" : {
-      "LOT16M  " : 1
+      "ACA96   " : 1
     },
-    "lastSeen" : 1748576835.1000001,
     "properties" : {
-      "registered_owner_operator_flag_code" : "LOT",
-      "type" : "787 8",
+      "registered_owner_country_iso_name" : "CA",
+      "type" : "787 9",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/431\/001431381.jpg",
+      "icao_type" : "B789",
+      "registered_owner" : "Air Canada",
+      "registered_owner_country_name" : "Canada",
       "manufacturer" : "Boeing",
-      "registered_owner" : "LOT Polish Airlines",
-      "registration" : "SP-LRD",
-      "registered_owner_country_iso_name" : "PL",
-      "registered_owner_country_name" : "Poland",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/684\/001684033.jpg",
-      "icao_type" : "B788"
-    }
+      "registered_owner_operator_flag_code" : "ACA",
+      "registration" : "C-FGEI"
+    },
+    "lastSeen" : 1748663134.3
   },
   {
-    "hex" : "a70f80",
     "timesSeen" : [
-      1747967170.6,
-      1748462047.7,
-      1748468454.8999999,
-      1748576212.2
+      1741108364.3,
+      1741119480.8,
+      1743036352.5,
+      1743070700.3,
+      1744580905,
+      1744631773.3,
+      1745667890,
+      1746223254.1000001,
+      1748662891.7
     ],
+    "hex" : "aa617c",
     "flights" : {
-      "JIA5182 " : 1
+      "RPA3551 " : 1,
+      "RPA3681 " : 1
     },
-    "lastSeen" : 1748576823.9,
     "properties" : {
-      "registered_owner_operator_flag_code" : "JIA",
-      "type" : "CRJ 900 LR NG",
+      "type" : "ERJ 170-200 LR",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "E75L",
+      "registered_owner" : "Republic Airways",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Embraer",
+      "registered_owner_operator_flag_code" : "RPA",
+      "registration" : "N768YX"
+    },
+    "lastSeen" : 1748663125.8
+  },
+  {
+    "timesSeen" : [
+      1742497361.6,
+      1743025786.1,
+      1743147358.2,
+      1744671417.7,
+      1746147695.1,
+      1748421528.8,
+      1748514611.6999998,
+      1748661484.8999999
+    ],
+    "hex" : "a5b769",
+    "flights" : {
+      "CMB520  " : 1
+    },
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "type" : "767 36NER",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/584\/001584538.jpg",
+      "icao_type" : "B763",
+      "registered_owner" : "Omni Air International",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "OAE",
+      "registration" : "N468AX"
+    },
+    "lastSeen" : 1748662478.8
+  },
+  {
+    "timesSeen" : [
+      1748661184.5
+    ],
+    "hex" : "aafcd9",
+    "flights" : {
+      "VJA807  " : 1
+    },
+    "properties" : {
+      "type" : "Global 7500",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/729\/001729676.jpg",
+      "icao_type" : "GL7T",
+      "registered_owner" : "XO",
+      "registered_owner_country_name" : "United States",
       "manufacturer" : "Bombardier",
-      "registered_owner" : "American Eagle",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N554NN",
-      "icao_type" : "CRJ9"
-    }
+      "registered_owner_operator_flag_code" : "XOJ",
+      "registration" : "N807LA"
+    },
+    "lastSeen" : 1748662407.7
   },
   {
-    "hex" : "a0fcd4",
     "timesSeen" : [
-      1748575880.6000001
+      1742039866.7,
+      1744156543.5,
+      1744396262.3,
+      1744658057,
+      1745410892.2,
+      1745864127.2,
+      1747396321,
+      1747654729.1000001,
+      1748630567.3,
+      1748661406.7
     ],
+    "hex" : "7103d8",
     "flights" : {
-      "AAL504  " : 1
+      "SVA023  " : 1
     },
-    "lastSeen" : 1748576661.4,
     "properties" : {
-      "registered_owner_operator_flag_code" : "AAL",
-      "type" : "A321 231SL",
-      "manufacturer" : "Airbus",
-      "registered_owner" : "American Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N163AA",
-      "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/560\/001560393.jpg",
-      "icao_type" : "A321"
-    }
+      "type" : "777 300ER",
+      "registered_owner_country_iso_name" : "SA",
+      "icao_type" : "B77W",
+      "registered_owner" : "Saudi Arabian Airlines",
+      "registered_owner_country_name" : "Saudi Arabia",
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "SVA",
+      "registration" : "HZ-AK42"
+    },
+    "lastSeen" : 1748661947.3
   },
   {
-    "hex" : "461f07",
     "timesSeen" : [
-      1740699513.1000001,
-      1740717181.1,
-      1741322550.9,
-      1741890495.1000001,
-      1742268230.6,
-      1742426388.1000001,
-      1742441172.1000001,
-      1742702569.5,
-      1743719502.8,
-      1743737703.5,
-      1743826080.3,
-      1744343407.2,
-      1744861771.1,
-      1745726096.7,
-      1745813064.4,
-      1746157146.4,
-      1747799208.3000002,
-      1747972529.8,
-      1748296301,
-      1748316852.2,
-      1748576037.4
+      1740524312.3,
+      1741897690.8,
+      1741907612.3999999,
+      1742253409.7,
+      1742354837.6,
+      1742512259.4,
+      1742583534.3,
+      1742599541.4,
+      1743030495.7,
+      1743104797.3,
+      1743117008.7,
+      1743634872.9,
+      1743789753.4,
+      1743976230.8,
+      1743990136.3999999,
+      1744149699.2,
+      1744580527.2,
+      1744662914.8999999,
+      1744747496.6,
+      1744833025.8,
+      1744843275.2,
+      1744920041.3,
+      1745005673.9,
+      1745437015.4,
+      1745528792.1000001,
+      1745606444.2,
+      1745784314.1000001,
+      1745975700.1,
+      1746123074.5,
+      1746571080.8,
+      1747163767.9,
+      1747250745.6,
+      1747338199.3,
+      1747516221,
+      1747618144.6999998,
+      1748032323,
+      1748042434.8,
+      1748382832.7,
+      1748558126.8,
+      1748641274.3999999,
+      1748660947.7
     ],
+    "hex" : "4ca9bb",
     "flights" : {
-      "FIN16   " : 4
+      "EIN13X  " : 3,
+      "EIN1PR  " : 1,
+      "EIN119  " : 1
     },
-    "lastSeen" : 1748576578.1000001,
     "properties" : {
-      "registered_owner_operator_flag_code" : "FIN",
-      "type" : "A330 302E",
-      "manufacturer" : "Airbus",
-      "registered_owner" : "Finnair",
-      "registered_owner_country_iso_name" : "FI",
-      "registered_owner_country_name" : "Finland",
-      "registration" : "OH-LTN",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/742\/001742503.jpg",
-      "icao_type" : "A333"
-    }
-  },
-  {
-    "hex" : "ac878c",
-    "timesSeen" : [
-      1741293006.8999999,
-      1742662595,
-      1744081707.3,
-      1744104842.3000002,
-      1744797895.3,
-      1744912744.6999998,
-      1744918664.4,
-      1747925973.6000001,
-      1747932754,
-      1748110899,
-      1748118587.6000001,
-      1748575097.4
-    ],
-    "flights" : {
-      "EDV5295 " : 1,
-      "EDV5151 " : 1,
-      "EDV5254 " : 1,
-      "EDV5411 " : 1
-    },
-    "lastSeen" : 1748575892.4,
-    "properties" : {
-      "registered_owner_operator_flag_code" : "EDV",
-      "type" : "CRJ 900 LR NG",
-      "manufacturer" : "Bombardier",
-      "registered_owner" : "Delta Connection",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N906XJ",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/670\/001670569.jpg",
-      "icao_type" : "CRJ9"
-    }
-  },
-  {
-    "hex" : "ab050f",
-    "timesSeen" : [
-      1748574685
-    ],
-    "flights" : {
-      "UAL1232 " : 1
-    },
-    "lastSeen" : 1748575436.7,
-    "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "type" : "A319 131",
-      "manufacturer" : "Airbus",
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N809UA",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/656\/001656667.jpg",
-      "icao_type" : "A319"
-    }
-  },
-  {
-    "hex" : "49526a",
-    "timesSeen" : [
-      1741145332.6,
-      1743217733.3,
-      1743823234,
-      1748573844.4
-    ],
-    "flights" : {
-      "RZO360  " : 1
-    },
-    "lastSeen" : 1748574906.1000001,
-    "properties" : {
-      "registered_owner_operator_flag_code" : "RZO",
       "type" : "A321 253NXSL",
+      "registered_owner_country_iso_name" : "IE",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/595\/001595633.jpg",
+      "icao_type" : "A21N",
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_country_name" : "Ireland",
       "manufacturer" : "Airbus",
-      "registered_owner" : "Azores Airlines",
-      "registration" : "CS-TSJ",
-      "registered_owner_country_iso_name" : "PT",
-      "registered_owner_country_name" : "Portugal",
-      "icao_type" : "A21N"
-    }
+      "registered_owner_operator_flag_code" : "EIN",
+      "registration" : "EI-LRB"
+    },
+    "lastSeen" : 1748661608.9
   },
   {
-    "hex" : "aa3923",
+    "timesSeen" : [
+      1748645111.8000002,
+      1748659987.3999999
+    ],
+    "hex" : "a2a618",
+    "flights" : {
+      "N27WA   " : 1
+    },
+    "properties" : {
+      "type" : "Squirrel AS.350 BA",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/000\/737\/737690.jpg",
+      "icao_type" : "AS50",
+      "registered_owner" : "Wings Air Helicopters",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Eurocopter",
+      "registered_owner_operator_flag_code" : "AS50",
+      "registration" : "N27WA"
+    },
+    "lastSeen" : 1748661120.5
+  },
+  {
+    "timesSeen" : [
+      1740782813,
+      1742069759.1,
+      1742748313.9,
+      1743792649.4,
+      1744587507.2,
+      1744672908,
+      1744824282.8,
+      1745077726.1999998,
+      1745169800.6,
+      1745961612.1000001,
+      1747155414.1999998,
+      1748112681.9,
+      1748660203.6
+    ],
+    "hex" : "4b1885",
+    "flights" : {
+      "SWR72   " : 1
+    },
+    "properties" : {
+      "registered_owner_country_iso_name" : "CH",
+      "type" : "A330 343E",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/753\/001753624.jpg",
+      "icao_type" : "A333",
+      "registered_owner" : "Swiss International Air Lines",
+      "registered_owner_country_name" : "Switzerland",
+      "manufacturer" : "Airbus",
+      "registered_owner_operator_flag_code" : "SWR",
+      "registration" : "HB-JHL"
+    },
+    "lastSeen" : 1748660904.3999999
+  },
+  {
     "timesSeen" : [
       1743647817.7,
       1743821044.1,
@@ -222,62 +276,43 @@
       1747371348.1,
       1748401195.2,
       1748406760.7,
-      1748573775.5
+      1748573775.5,
+      1748579174.3999999,
+      1748659952.8999999
     ],
+    "hex" : "aa3923",
     "flights" : {
-      "LBQ790  " : 5
+      "LBQ790  " : 6
     },
-    "lastSeen" : 1748574601.1
+    "lastSeen" : 1748660840.5
   },
   {
-    "hex" : "a3534a",
     "timesSeen" : [
-      1741033923.1,
-      1741040003.5,
-      1741120442.7,
-      1741125512.1,
-      1743099793.1,
-      1745029585.7,
-      1745058335.2,
-      1747709938.8,
-      1748573595.1
+      1741108440.3999999,
+      1741114048.3,
+      1743524185,
+      1743529938.8,
+      1746627947.6000001,
+      1748208280.7,
+      1748252310.8,
+      1748459986.1999998,
+      1748467892.6000001,
+      1748660043.7
     ],
+    "hex" : "a5e9f4",
     "flights" : {
-      "EDV5295 " : 1,
-      "EDV5396 " : 1,
-      "EDV4965 " : 1
+      "EDV5361 " : 1
     },
-    "lastSeen" : 1748574389.8999999,
     "properties" : {
-      "registered_owner_operator_flag_code" : "EDV",
+      "registered_owner_country_iso_name" : "US",
       "type" : "CRJ 900 LR NG",
-      "manufacturer" : "Bombardier",
+      "icao_type" : "CRJ9",
       "registered_owner" : "Delta Connection",
-      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "registration" : "N313PQ",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/669\/001669415.jpg",
-      "icao_type" : "CRJ9"
-    }
-  },
-  {
-    "hex" : "ab6cc0",
-    "timesSeen" : [
-      1748572908.8999999
-    ],
-    "flights" : {
-
+      "manufacturer" : "Bombardier",
+      "registered_owner_operator_flag_code" : "EDV",
+      "registration" : "N480PX"
     },
-    "lastSeen" : 1748573493.9,
-    "properties" : {
-      "registered_owner_operator_flag_code" : "JUS",
-      "type" : "MD-88",
-      "manufacturer" : "McDonnell Douglas",
-      "registered_owner" : "USA Jet Airlines",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N835US",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "MD88"
-    }
+    "lastSeen" : 1748660697.3999999
   }
 ]
