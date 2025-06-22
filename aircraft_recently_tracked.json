@@ -1,239 +1,244 @@
 [
   {
-    "flights" : {
-      "HER348  " : 1
-    },
     "timesSeen" : [
-      1742493708.5,
-      1742497345.3,
-      1746204156.7,
-      1746278708.6,
-      1749564977.2
+      1746320922.4,
+      1748966287.3,
+      1748973382.6000001,
+      1749420030.1,
+      1749426246.8,
+      1750547284.7
     ],
+    "flights" : {
+      "DAL2591 " : 1,
+      "DAL488  " : 1
+    },
     "properties" : {
-      "registration" : "N348CF",
-      "registered_owner" : "Hera Flight",
-      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "icao_type" : "C750",
-      "type" : "Citation X",
-      "manufacturer" : "Cessna",
-      "registered_owner_operator_flag_code" : "HER"
-    },
-    "hex" : "a3db3e",
-    "lastSeen" : 1749565217.6999998
-  },
-  {
-    "flights" : {
-      "VJA02   " : 2
-    },
-    "timesSeen" : [
-      1745349527.3999999,
-      1749559586.3,
-      1749564912.6
-    ],
-    "properties" : {
-      "registration" : "N302PE",
-      "registered_owner" : "Trident Aircraft Inc",
+      "icao_type" : "A320",
+      "type" : "A320 212",
       "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/567\/001567372.jpg",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "CL30",
-      "manufacturer" : "Bombardier",
-      "type" : "Challenger 300",
-      "registered_owner_operator_flag_code" : "WMN"
-    },
-    "hex" : "a3280a",
-    "lastSeen" : 1749565213
-  },
-  {
-    "flights" : {
-      "DAL1766 " : 1
-    },
-    "timesSeen" : [
-      1749565042.3999999
-    ],
-    "properties" : {
-      "registration" : "N900DU",
       "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676459.jpg",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "B739",
-      "manufacturer" : "Boeing",
-      "type" : "737NG 900ER\/W",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/672\/001672192.jpg",
+      "manufacturer" : "Airbus",
+      "registration" : "N357NW",
       "registered_owner_operator_flag_code" : "DAL"
     },
-    "hex" : "ac6f8a",
-    "lastSeen" : 1749565162.6000001
+    "hex" : "a4000f",
+    "lastSeen" : 1750548265.8
   },
   {
-    "flights" : {
-      "N420TJ  " : 1
-    },
     "timesSeen" : [
-      1749564847.3
+      1750547880.8
     ],
-    "properties" : {
-      "registration" : "N420TJ",
-      "registered_owner" : "TP Aviation LLC",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "E55P",
-      "type" : "Phenom 300",
-      "manufacturer" : "Embraer",
-      "registered_owner_operator_flag_code" : "E55P"
-    },
-    "hex" : "a4fd51",
-    "lastSeen" : 1749565147.7
-  },
-  {
     "flights" : {
 
     },
-    "timesSeen" : [
-      1749564845.1
-    ],
     "properties" : {
-      "registration" : "N686BE",
-      "registered_owner" : "Target Corp",
-      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "icao_type" : "G280",
-      "manufacturer" : "Gulfstream Aerospace",
-      "type" : "G280",
-      "registered_owner_operator_flag_code" : "G280"
+      "icao_type" : "LJ45",
+      "type" : "Learjet 45 XR",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Dynamic Aviation LLC",
+      "manufacturer" : "Bombardier",
+      "registration" : "N452SD",
+      "registered_owner_operator_flag_code" : "LJ45"
     },
-    "hex" : "a9199f",
-    "lastSeen" : 1749565145.5
+    "hex" : "a57b1e",
+    "lastSeen" : 1750548246.1
   },
   {
+    "timesSeen" : [
+      1741622971.6999998,
+      1745190886.6000001,
+      1745363642.7,
+      1746039825,
+      1746125766.3,
+      1746328219.1000001,
+      1748026386.2,
+      1748367003.2,
+      1748971657.5,
+      1749268265.1999998,
+      1750547824.2
+    ],
+    "flights" : {
+      "SWR18P  " : 1
+    },
+    "properties" : {
+      "registered_owner_country_name" : "Switzerland",
+      "icao_type" : "A333",
+      "type" : "A330 343E",
+      "registered_owner_country_iso_name" : "CH",
+      "registered_owner" : "Swiss International Air Lines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/699\/001699474.jpg",
+      "manufacturer" : "Airbus",
+      "registration" : "HB-JHM",
+      "registered_owner_operator_flag_code" : "SWR"
+    },
+    "hex" : "4b1886",
+    "lastSeen" : 1750548210.3
+  },
+  {
+    "timesSeen" : [
+      1740533339.5,
+      1741973851.5,
+      1742062070.5,
+      1749267763.6999998,
+      1750547235.1
+    ],
+    "flights" : {
+      "DLH439  " : 1
+    },
+    "properties" : {
+      "registered_owner_country_name" : "Germany",
+      "icao_type" : "A343",
+      "type" : "A340 313X",
+      "registered_owner_country_iso_name" : "DE",
+      "registered_owner" : "Lufthansa",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/675\/001675258.jpg",
+      "manufacturer" : "Airbus",
+      "registration" : "D-AIGN",
+      "registered_owner_operator_flag_code" : "DLH"
+    },
+    "hex" : "3c64ee",
+    "lastSeen" : 1750548158.6
+  },
+  {
+    "timesSeen" : [
+      1743383315.5,
+      1744756982.7,
+      1745275658.7,
+      1745361628.1000001,
+      1747668846.7,
+      1750547078
+    ],
+    "flights" : {
+      "BAW293  " : 1
+    },
+    "properties" : {
+      "registered_owner_country_name" : "United Kingdom",
+      "icao_type" : "A388",
+      "type" : "A380 841",
+      "registered_owner_country_iso_name" : "GB",
+      "registered_owner" : "British Airways",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/680\/001680236.jpg",
+      "manufacturer" : "Airbus",
+      "registration" : "G-XLEG",
+      "registered_owner_operator_flag_code" : "BAW"
+    },
+    "hex" : "406b20",
+    "lastSeen" : 1750548142.3
+  },
+  {
+    "timesSeen" : [
+      1744155271.3000002,
+      1744240810.2,
+      1744329657.1,
+      1744413036.5,
+      1744500949.1,
+      1744588749.5,
+      1744603095,
+      1744757749.6000001,
+      1744845773.6000001,
+      1744860819.3000002,
+      1744933118,
+      1745017175.9,
+      1745363476,
+      1745449965.8000002,
+      1745535423.1,
+      1745621833.4,
+      1745637195.3000002,
+      1745710592,
+      1745726400.1000001,
+      1745797462.9,
+      1745813832.8000002,
+      1745969125.8,
+      1745984690.1,
+      1746055672.2,
+      1746313901,
+      1746401224.5,
+      1746573668.5,
+      1746589972,
+      1747176675,
+      1747262273.2,
+      1747280523.5,
+      1747351295.8,
+      1747366973.6,
+      1747436454.2,
+      1747522636.8000002,
+      1747610046.5,
+      1747781178.2,
+      1747869244.5,
+      1747955971,
+      1748041676.2,
+      1748127257.8,
+      1748215121.1000001,
+      1748390429.7,
+      1748405787.3999999,
+      1748476465.3,
+      1748563148.7,
+      1748647067.6000001,
+      1748734546.3,
+      1748835049.6000001,
+      1748991991.8000002,
+      1749006320.9,
+      1749079567.5,
+      1749267920.3999999,
+      1749341409.3,
+      1749356057.2,
+      1749424389.3,
+      1749440033.4,
+      1750547616.3999999
+    ],
+    "flights" : {
+      "LOT5N   " : 4
+    },
+    "hex" : "495278",
+    "lastSeen" : 1750548141.1
+  },
+  {
+    "timesSeen" : [
+      1741812661.5,
+      1742314597.4,
+      1744891849.2,
+      1744977858.3999999,
+      1750546592.8
+    ],
+    "flights" : {
+      "N922CA  " : 1
+    },
+    "hex" : "acc5cb",
+    "lastSeen" : 1750548088.5
+  },
+  {
+    "timesSeen" : [
+      1744984824.2,
+      1750548074.8999999
+    ],
+    "flights" : {
+      "EJA128  " : 1
+    },
+    "hex" : "a072d9",
+    "lastSeen" : 1750548074.8999999
+  },
+  {
+    "timesSeen" : [
+      1748388417.8,
+      1750546263
+    ],
+    "flights" : {
+      "1592M   " : 2
+    },
+    "hex" : "a0ee48",
+    "lastSeen" : 1750548064.8
+  },
+  {
+    "timesSeen" : [
+      1750547323.2
+    ],
     "flights" : {
 
     },
-    "timesSeen" : [
-      1749565077.3
-    ],
-    "properties" : {
-      "registration" : "N327SK",
-      "registered_owner" : "American Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/765\/001765574.jpg",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "B38M",
-      "manufacturer" : "Boeing",
-      "type" : "737MAX 8",
-      "registered_owner_operator_flag_code" : "AAL"
-    },
-    "hex" : "a389eb",
-    "lastSeen" : 1749565137.4
-  },
-  {
-    "flights" : {
-      "UAL16   " : 2
-    },
-    "timesSeen" : [
-      1740625531.6000001,
-      1740705340.7,
-      1740928643.5,
-      1741572228.2,
-      1742441205.2,
-      1744077022.3000002,
-      1744249613.4,
-      1744983725.8999999,
-      1745535522.6,
-      1745705995.9,
-      1746060124.8,
-      1746319204.9,
-      1747851484,
-      1747954876,
-      1748532776.8,
-      1749183110.7,
-      1749319841.6,
-      1749428750.3999999,
-      1749565063
-    ],
-    "properties" : {
-      "registration" : "N677UA",
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/666\/001666899.jpg",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "B763",
-      "manufacturer" : "Boeing",
-      "type" : "767 322ER\/W",
-      "registered_owner_operator_flag_code" : "UAL"
-    },
-    "hex" : "a8f77c",
-    "lastSeen" : 1749565123.2
-  },
-  {
-    "flights" : {
-      "N512HA  " : 1
-    },
-    "timesSeen" : [
-      1743467001.5,
-      1743566560.3,
-      1749564168.5
-    ],
-    "properties" : {
-      "registration" : "N512HA",
-      "registered_owner" : "HA X288 LLC",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "C750",
-      "type" : "Citation X",
-      "manufacturer" : "Cessna",
-      "registered_owner_operator_flag_code" : "C750"
-    },
-    "hex" : "a6698d",
-    "lastSeen" : 1749565036.5
-  },
-  {
-    "flights" : {
-      "EJM557  " : 1
-    },
-    "timesSeen" : [
-      1749564833.5
-    ],
-    "properties" : {
-      "registration" : "N55AL",
-      "registered_owner" : "Executive Jet Management",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "G280",
-      "type" : "G280",
-      "manufacturer" : "Gulfstream Aerospace",
-      "registered_owner_operator_flag_code" : "EJM"
-    },
-    "hex" : "a6fd1d",
-    "lastSeen" : 1749564990.5
-  },
-  {
-    "flights" : {
-      "UAL36   " : 1
-    },
-    "timesSeen" : [
-      1742346633.4,
-      1742518864.9,
-      1744912711.8999999,
-      1745072873.2,
-      1745119257.7,
-      1745170077.4,
-      1749564813.1
-    ],
-    "properties" : {
-      "registration" : "N14107",
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/655\/001655923.jpg",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "B752",
-      "manufacturer" : "Boeing",
-      "type" : "757 224\/W",
-      "registered_owner_operator_flag_code" : "UAL"
-    },
-    "hex" : "a0a8df",
-    "lastSeen" : 1749564978.6
+    "hex" : "a55c76",
+    "lastSeen" : 1750547915.8999999
   }
 ]
