@@ -1,285 +1,304 @@
 [
   {
-    "flights" : {
-      "DLH415  " : 1
-    },
     "timesSeen" : [
-      1746138084.8999999,
-      1746159459.3,
-      1751237127.2,
-      1751255344.8
+      1743719973.1999998,
+      1743892991.2,
+      1743908440.3,
+      1745274196.3,
+      1745292899.9,
+      1745447678.1000001,
+      1747349073.8999999,
+      1747365387.8999999,
+      1747421347.2,
+      1747446394,
+      1748385025.5,
+      1751341164.5
     ],
-    "lastSeen" : 1751255344.8,
-    "hex" : "3c65a8",
-    "properties" : {
-      "registered_owner" : "Lufthansa",
-      "registered_owner_country_name" : "Germany",
-      "registered_owner_country_iso_name" : "DE",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "DLH",
-      "type" : "A380 841",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/742\/001742425.jpg",
-      "icao_type" : "A388",
-      "registration" : "D-AIMH"
-    }
-  },
-  {
     "flights" : {
-      "AMX025  " : 1
-    },
-    "timesSeen" : [
-      1745041149.5,
-      1745143658.3999999,
-      1745741831.5,
-      1747645333.6999998,
-      1747711136.8,
-      1748150768.1999998,
-      1748318287,
-      1748420441.5,
-      1749066139,
-      1751254386.8000002
-    ],
-    "lastSeen" : 1751255310.6,
-    "hex" : "ad7633",
-    "properties" : {
-      "registered_owner" : "AeroMexico",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "AMX",
-      "type" : "787 8",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/508\/001508114.jpg",
-      "icao_type" : "B788",
-      "registration" : "N967AM"
-    }
-  },
-  {
-    "flights" : {
-      "FIN16   " : 3
-    },
-    "timesSeen" : [
-      1740889513.9,
-      1741216697.9,
-      1741235745,
-      1742669116.6000001,
-      1743651300.3,
-      1744256502.8,
-      1745533350.9,
-      1745553906.9,
-      1745879327.6,
-      1745898698.4,
-      1745965846.8,
-      1745985070.5,
-      1747367940.8000002,
-      1747519587.5,
-      1747540777.6,
-      1747886817.2,
-      1748144919.8,
-      1749181819.8,
-      1749441718.1000001,
-      1751234888.2,
-      1751255239.2
-    ],
-    "lastSeen" : 1751255299.3,
-    "hex" : "461f0e",
-    "properties" : {
-      "registered_owner" : "Finnair",
-      "registered_owner_country_name" : "Finland",
-      "registered_owner_country_iso_name" : "FI",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "FIN",
-      "type" : "A330 302E",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/745\/001745563.jpg",
-      "icao_type" : "A333",
-      "registration" : "OH-LTU"
-    }
-  },
-  {
-    "flights" : {
-      "AAL758  " : 1
-    },
-    "timesSeen" : [
-      1744472256,
-      1745718376.8,
-      1745978706.3999999,
-      1749323685.3,
-      1749342922.7,
-      1751255155.2
-    ],
-    "lastSeen" : 1751255215.2,
-    "hex" : "ac0196",
-    "properties" : {
-      "registered_owner" : "American Airlines",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "AAL",
-      "type" : "787 8",
-      "icao_type" : "B788",
-      "registration" : "N873BB"
-    }
-  },
-  {
-    "flights" : {
-      "ICE56K  " : 1,
-      "ICE42P  " : 1,
-      "ICE688  " : 1
-    },
-    "timesSeen" : [
-      1740954580.6000001,
-      1741743422.7,
-      1742003097.6999998,
-      1742076369.6,
-      1742507962,
-      1742938878.1000001,
-      1744419699.3,
-      1744430033.3000002,
-      1745541185.1,
-      1745553617.4,
-      1749073978,
-      1749184474.5,
-      1751129637.3,
-      1751255122.4
-    ],
-    "lastSeen" : 1751255182.5,
-    "hex" : "4cc582"
-  },
-  {
-    "flights" : {
-      "UAL932  " : 1,
-      "UAL983  " : 1
-    },
-    "timesSeen" : [
-      1742187416,
-      1743357457.1000001,
-      1743478257.6,
-      1744309044.5,
-      1744583178.6,
-      1744670824.9,
-      1745775213.4,
-      1747503999.9,
-      1747592719.1000001,
-      1748537014.6,
-      1751219683.5,
-      1751254349.2
-    ],
-    "lastSeen" : 1751255057,
-    "hex" : "a2a300",
-    "properties" : {
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "UAL",
-      "type" : "787 8",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/673\/001673986.jpg",
-      "icao_type" : "B788",
-      "registration" : "N26910"
-    }
-  },
-  {
-    "flights" : {
-      "N575BG  " : 1
-    },
-    "timesSeen" : [
-      1751253955.6000001
-    ],
-    "lastSeen" : 1751254675.8000002,
-    "hex" : "a7611c"
-  },
-  {
-    "flights" : {
-      "ACA96   " : 1
-    },
-    "timesSeen" : [
-      1751253657.7
-    ],
-    "lastSeen" : 1751254518.9,
-    "hex" : "c08509",
-    "properties" : {
-      "registered_owner" : "Air Canada",
-      "registered_owner_country_name" : "Canada",
-      "registered_owner_country_iso_name" : "CA",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "ACA",
-      "type" : "787-9",
-      "icao_type" : "B789",
-      "registration" : "CA-GYJW"
-    }
-  },
-  {
-    "flights" : {
-      "DAL208  " : 1,
-      "DAL93   " : 1,
-      "DAL99   " : 1
-    },
-    "timesSeen" : [
-      1741624387.2,
-      1743190888.1,
-      1745090950.3000002,
-      1745172504.1,
-      1745809009.9,
-      1747160406.3,
-      1747888566,
-      1747930084.8999999,
-      1748275485.2,
-      1748534864,
-      1748621437.4,
-      1748745764.4,
-      1748890029.8000002,
-      1749176635.1000001,
-      1749270204,
-      1749521540.5,
-      1751122581,
-      1751209659.1,
-      1751253719.3999999
-    ],
-    "lastSeen" : 1751254375.2,
-    "hex" : "a173a8",
-    "properties" : {
-      "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "DAL",
-      "type" : "767 332ER\/W",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/549\/001549307.jpg",
-      "icao_type" : "B763",
-      "registration" : "N193DN"
-    }
-  },
-  {
-    "flights" : {
+      "SAS926  " : 1,
       "SAS925  " : 1
     },
-    "timesSeen" : [
-      1743806027.2,
-      1745897136.5,
-      1746053784.8,
-      1746226411.8,
-      1746241960.8999999,
-      1747451910.1999998,
-      1748989318.7,
-      1749006499.1000001,
-      1749163947.4,
-      1749178671.2,
-      1749352094,
-      1751080678.1,
-      1751237134.6,
-      1751253766.3999999
-    ],
-    "lastSeen" : 1751254325.9,
-    "hex" : "4aca63",
+    "hex" : "4aca64",
+    "lastSeen" : 1751341724.7,
     "properties" : {
-      "registered_owner" : "Scandinavian Airlines System",
-      "registered_owner_country_name" : "Sweden",
-      "registered_owner_country_iso_name" : "SE",
-      "manufacturer" : "Airbus",
       "registered_owner_operator_flag_code" : "SAS",
-      "type" : "A350 941",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/736\/001736987.jpg",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/758\/001758550.jpg",
       "icao_type" : "A359",
-      "registration" : "SE-RSC"
+      "registered_owner" : "Scandinavian Airlines System",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_iso_name" : "SE",
+      "type" : "A350 941",
+      "registration" : "SE-RSD",
+      "registered_owner_country_name" : "Sweden"
     }
+  },
+  {
+    "timesSeen" : [
+      1751318757,
+      1751341373.7
+    ],
+    "flights" : {
+      "UAE9989 " : 1
+    },
+    "hex" : "89631d",
+    "lastSeen" : 1751341492.3,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "UAE",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/560\/001560482.jpg",
+      "icao_type" : "B77L",
+      "registered_owner" : "Emirates Airline",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_iso_name" : "AE",
+      "type" : "777 F1H",
+      "registered_owner_country_name" : "United Arab Emirates",
+      "registration" : "A6-EFM"
+    }
+  },
+  {
+    "timesSeen" : [
+      1743747988,
+      1751340877.5
+    ],
+    "flights" : {
+
+    },
+    "hex" : "ad1267",
+    "lastSeen" : 1751341450.9,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "G450",
+      "icao_type" : "G450",
+      "registered_owner" : "Caxton Alternate Management LP",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Gulfstream Aerospace",
+      "type" : "G450",
+      "registration" : "N941RS",
+      "registered_owner_country_name" : "United States"
+    }
+  },
+  {
+    "timesSeen" : [
+      1741289078.3999999,
+      1741720432.3,
+      1743104618.8,
+      1743790033.9,
+      1744398534.1000001,
+      1745088883.7,
+      1745981825.3,
+      1746214486.7,
+      1747507623.6,
+      1747852553.4,
+      1748545623.8,
+      1749352517.4,
+      1751080831.4,
+      1751308037.8,
+      1751340887.8999999
+    ],
+    "flights" : {
+      "ETD6HZ  " : 1,
+      "ETD19G  " : 1
+    },
+    "hex" : "8965f4",
+    "lastSeen" : 1751341428.5,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "ETD",
+      "icao_type" : "B789",
+      "registered_owner" : "Etihad Airways",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_iso_name" : "AE",
+      "type" : "787-9 Dreamliner",
+      "registration" : "A6-BNF",
+      "registered_owner_country_name" : "United Arab Emirates"
+    }
+  },
+  {
+    "timesSeen" : [
+      1746138744.8999999,
+      1751340711.6000001
+    ],
+    "flights" : {
+      "KLM642  " : 1,
+      "KLM618  " : 1
+    },
+    "hex" : "484368",
+    "lastSeen" : 1751341316.1,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "KLM",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/636\/001636788.jpg",
+      "icao_type" : "B772",
+      "registered_owner" : "KLM Royal Dutch Airlines",
+      "registered_owner_country_iso_name" : "NL",
+      "manufacturer" : "Boeing",
+      "type" : "777 206ER",
+      "registered_owner_country_name" : "Netherlands",
+      "registration" : "PH-BQA"
+    }
+  },
+  {
+    "timesSeen" : [
+      1751340571.7
+    ],
+    "flights" : {
+
+    },
+    "hex" : "adabfe",
+    "lastSeen" : 1751341158.8,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "JBU",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/646\/001646341.jpg",
+      "icao_type" : "A321",
+      "registered_owner" : "JetBlue Airways",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Airbus",
+      "type" : "A321 231SL",
+      "registration" : "N980JT",
+      "registered_owner_country_name" : "United States"
+    }
+  },
+  {
+    "timesSeen" : [
+      1740701691,
+      1743634274.5,
+      1743979841.7,
+      1744842193.7,
+      1745879686.4,
+      1746052648.8,
+      1747606443.8,
+      1748383917.2,
+      1748644552.5,
+      1748667513.3999999,
+      1751322900.2,
+      1751340475.1999998
+    ],
+    "flights" : {
+      "BAW22B  " : 3,
+      "BAW2LJ  " : 1
+    },
+    "hex" : "405bfc",
+    "lastSeen" : 1751341113,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "BAW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/741\/001741214.jpg",
+      "icao_type" : "B772",
+      "registered_owner" : "British Airways",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_iso_name" : "GB",
+      "type" : "777 236ER",
+      "registration" : "G-YMMS",
+      "registered_owner_country_name" : "United Kingdom"
+    }
+  },
+  {
+    "timesSeen" : [
+      1741115822.5,
+      1741202827.8,
+      1741292798.8,
+      1741315782.6000001,
+      1741641286.1000001,
+      1741896314.2,
+      1741980484.3999999,
+      1742271294.3,
+      1742935199.2,
+      1743359610.5,
+      1743970012.7,
+      1744476130.7,
+      1744663725.6,
+      1744828859.5,
+      1745086869.8,
+      1745161725.8,
+      1745334679,
+      1745603876.8,
+      1745872477.1999998,
+      1746400924.2,
+      1746459334.8999999,
+      1747243934,
+      1747264450.5,
+      1747412790.6,
+      1748032453.7,
+      1748203558.9,
+      1748290056.5,
+      1748968812.2,
+      1749178666.6,
+      1751328172.3000002,
+      1751340214.7
+    ],
+    "flights" : {
+      "VIR10H  " : 1,
+      "VIR129R " : 1,
+      "VIR46K  " : 1,
+      "VIR21K  " : 2
+    },
+    "hex" : "407e21",
+    "lastSeen" : 1751340874.6000001,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "VIR",
+      "icao_type" : "A339",
+      "registered_owner" : "Virgin Atlantic Airways",
+      "registered_owner_country_iso_name" : "GB",
+      "manufacturer" : "Airbus Sas",
+      "type" : "A330-941",
+      "registration" : "G-VLDY",
+      "registered_owner_country_name" : "United Kingdom"
+    }
+  },
+  {
+    "timesSeen" : [
+      1740508832.1999998,
+      1742145042.8999999,
+      1744066607.3,
+      1744562837.1,
+      1744918144.4,
+      1747175325.6,
+      1748276851.5,
+      1751340142.5
+    ],
+    "flights" : {
+      "DLH444  " : 1,
+      "DLH400  " : 1
+    },
+    "hex" : "3c64f6",
+    "lastSeen" : 1751340751.1,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "DLH",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/616\/001616177.jpg",
+      "icao_type" : "A343",
+      "registered_owner" : "Lufthansa",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_iso_name" : "DE",
+      "type" : "A340 313X",
+      "registration" : "D-AIGV",
+      "registered_owner_country_name" : "Germany"
+    }
+  },
+  {
+    "timesSeen" : [
+      1741014144.5,
+      1742003050.1,
+      1742059994.3,
+      1742356331.1999998,
+      1742827547.5,
+      1743173963.7,
+      1743706108.1999998,
+      1743787916,
+      1744139608.6000001,
+      1744294858.5,
+      1745002283.8999999,
+      1745159117.5,
+      1745259601.3,
+      1745419561.2,
+      1745860029.7,
+      1747158203,
+      1748029899.3999999,
+      1748095295.5,
+      1748181458.6999998,
+      1748219268.6999998,
+      1749324940.3,
+      1749389726.1,
+      1751339931.1000001
+    ],
+    "flights" : {
+      "JBU1408 " : 1
+    },
+    "hex" : "a4c592",
+    "lastSeen" : 1751340680.5
   }
 ]
