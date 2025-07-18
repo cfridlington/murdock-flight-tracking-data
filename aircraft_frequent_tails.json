@@ -610,17 +610,17 @@
     "lastSeen" : 1751818026
   },
   {
-    "hex" : "a82dbc",
     "properties" : {
-      "type" : "PA-28-151",
-      "icao_type" : "P28A",
       "manufacturer" : "Piper",
-      "registered_owner" : "Blue Sky Aviation LLC",
       "registered_owner_country_iso_name" : "US",
-      "registration" : "N626NJ",
       "registered_owner_operator_flag_code" : "BE20",
-      "registered_owner_country_name" : "United States"
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "registration" : "N626NJ",
+      "type" : "PA-28-151",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "P28A"
     },
+    "hex" : "a82dbc",
     "flights" : {
       "N626NJ  " : 61
     },
@@ -779,17 +779,17 @@
     "lastSeen" : 1751557957.6000001
   },
   {
-    "hex" : "a1b098",
     "properties" : {
-      "type" : "208",
-      "icao_type" : "C208",
       "manufacturer" : "Cessna",
-      "registered_owner" : "Maxim Aviation LLC",
-      "registration" : "N208JW",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "C208",
-      "registered_owner_country_name" : "United States"
+      "registered_owner" : "Maxim Aviation LLC",
+      "registration" : "N208JW",
+      "type" : "208",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "C208"
     },
+    "hex" : "a1b098",
     "flights" : {
       "N208JW  " : 20
     },
@@ -1203,23 +1203,23 @@
     "lastSeen" : 1751820367.7
   },
   {
-    "hex" : "4cabd1",
     "properties" : {
-      "type" : "A321 253NXSL",
       "manufacturer" : "Airbus",
-      "icao_type" : "A21N",
-      "registered_owner" : "Aer Lingus",
-      "registration" : "EI-LRE",
       "registered_owner_country_iso_name" : "IE",
       "registered_owner_operator_flag_code" : "EIN",
-      "registered_owner_country_name" : "Ireland"
+      "registered_owner" : "Aer Lingus",
+      "registration" : "EI-LRE",
+      "type" : "A321 253NXSL",
+      "registered_owner_country_name" : "Ireland",
+      "icao_type" : "A21N"
     },
+    "hex" : "4cabd1",
     "flights" : {
-      "EIN10M  " : 2,
-      "EIN119  " : 2,
-      "EIN1EA  " : 2,
+      "EIN11T  " : 1,
       "EIN13X  " : 1,
-      "EIN11T  " : 1
+      "EIN1EA  " : 2,
+      "EIN10M  " : 2,
+      "EIN119  " : 2
     },
     "timesSeen" : [
       1740689045.8,
