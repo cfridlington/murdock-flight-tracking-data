@@ -1,31 +1,26 @@
 [
   {
-    "hex" : "a9bc12",
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Embraer",
-      "registered_owner_operator_flag_code" : "RPA",
-      "registration" : "N726YX",
-      "registered_owner" : "United Express",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "EMB-175 LR",
-      "icao_type" : "E75L"
-    },
-    "flights" : {
-
-    },
-    "lastSeen" : 1751853630.3,
     "timesSeen" : [
       1749140850.6,
       1751853036.8999999
-    ]
+    ],
+    "properties" : {
+      "registration" : "N726YX",
+      "registered_owner_country_name" : "United States",
+      "type" : "EMB-175 LR",
+      "manufacturer" : "Embraer",
+      "icao_type" : "E75L",
+      "registered_owner_operator_flag_code" : "RPA",
+      "registered_owner" : "United Express",
+      "registered_owner_country_iso_name" : "US"
+    },
+    "lastSeen" : 1751853630.3,
+    "hex" : "a9bc12",
+    "flights" : {
+
+    }
   },
   {
-    "hex" : "3c6718",
-    "flights" : {
-      "DLH412  " : 1
-    },
-    "lastSeen" : 1751853574.5,
     "timesSeen" : [
       1743017275.6,
       1744172567,
@@ -35,50 +30,39 @@
       1745952300.8,
       1745974389,
       1751852674.4
-    ]
+    ],
+    "lastSeen" : 1751853574.5,
+    "hex" : "3c6718",
+    "flights" : {
+      "DLH412  " : 1
+    }
   },
   {
-    "hex" : "a36553",
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Embraer",
-      "registered_owner_operator_flag_code" : "JBU",
-      "registration" : "N318JB",
-      "registered_owner" : "JetBlue Airways",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "EMB-190 AR",
-      "icao_type" : "E190",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/143\/001143513.jpg"
-    },
-    "flights" : {
-
-    },
-    "lastSeen" : 1751853307.8,
     "timesSeen" : [
       1742184934.1000001,
       1742261325.6,
       1747539924.1,
       1749436581.6999998,
       1751852737.1
-    ]
+    ],
+    "properties" : {
+      "registration" : "N318JB",
+      "registered_owner_country_name" : "United States",
+      "type" : "EMB-190 AR",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/143\/001143513.jpg",
+      "manufacturer" : "Embraer",
+      "icao_type" : "E190",
+      "registered_owner_operator_flag_code" : "JBU",
+      "registered_owner" : "JetBlue Airways",
+      "registered_owner_country_iso_name" : "US"
+    },
+    "lastSeen" : 1751853307.8,
+    "hex" : "a36553",
+    "flights" : {
+
+    }
   },
   {
-    "hex" : "a12c18",
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "DAL",
-      "registration" : "N175DN",
-      "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "767 332ER\/W",
-      "icao_type" : "B763",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/668\/001668273.jpg"
-    },
-    "flights" : {
-      "DAL246  " : 2
-    },
-    "lastSeen" : 1751853267.5,
     "timesSeen" : [
       1743654514.3999999,
       1743697124.4,
@@ -97,27 +81,25 @@
       1751517684.8,
       1751560170.2,
       1751852111.6999998
-    ]
+    ],
+    "properties" : {
+      "registration" : "N175DN",
+      "type" : "767 332ER\/W",
+      "registered_owner_country_name" : "United States",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/668\/001668273.jpg",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B763",
+      "registered_owner_operator_flag_code" : "DAL",
+      "registered_owner" : "Delta Air Lines",
+      "registered_owner_country_iso_name" : "US"
+    },
+    "lastSeen" : 1751853267.5,
+    "hex" : "a12c18",
+    "flights" : {
+      "DAL246  " : 2
+    }
   },
   {
-    "hex" : "7380c2",
-    "properties" : {
-      "registered_owner_country_name" : "Israel",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "ELY",
-      "registration" : "4X-EDC",
-      "registered_owner" : "EL AL",
-      "registered_owner_country_iso_name" : "IL",
-      "type" : "787 9",
-      "icao_type" : "B789",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/677\/001677711.jpg"
-    },
-    "flights" : {
-      "ELY007  " : 1,
-      "ELY026  " : 1,
-      "ELY027  " : 1
-    },
-    "lastSeen" : 1751853219.7,
     "timesSeen" : [
       1741771469.2,
       1742781568,
@@ -138,30 +120,27 @@
       1751339180.3999999,
       1751507649,
       1751852584.3999999
-    ]
+    ],
+    "properties" : {
+      "registration" : "4X-EDC",
+      "type" : "787 9",
+      "registered_owner_country_name" : "Israel",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/677\/001677711.jpg",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B789",
+      "registered_owner_operator_flag_code" : "ELY",
+      "registered_owner" : "EL AL",
+      "registered_owner_country_iso_name" : "IL"
+    },
+    "lastSeen" : 1751853219.7,
+    "hex" : "7380c2",
+    "flights" : {
+      "ELY007  " : 1,
+      "ELY026  " : 1,
+      "ELY027  " : 1
+    }
   },
   {
-    "hex" : "4ca9bb",
-    "properties" : {
-      "registered_owner_country_name" : "Ireland",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "EIN",
-      "registration" : "EI-LRB",
-      "registered_owner" : "Aer Lingus",
-      "registered_owner_country_iso_name" : "IE",
-      "type" : "A321 253NXSL",
-      "icao_type" : "A21N",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/595\/001595633.jpg"
-    },
-    "flights" : {
-      "EIN11P  " : 1,
-      "EIN11T  " : 1,
-      "EIN118  " : 1,
-      "EIN13X  " : 3,
-      "EIN119  " : 1,
-      "EIN1PR  " : 3
-    },
-    "lastSeen" : 1751853085.2,
     "timesSeen" : [
       1740524312.3,
       1741897690.8,
@@ -222,40 +201,54 @@
       1751679276.6,
       1751755023.3,
       1751852043.2
-    ]
+    ],
+    "properties" : {
+      "registration" : "EI-LRB",
+      "registered_owner_country_name" : "Ireland",
+      "type" : "A321 253NXSL",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/595\/001595633.jpg",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A21N",
+      "registered_owner_operator_flag_code" : "EIN",
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_country_iso_name" : "IE"
+    },
+    "lastSeen" : 1751853085.2,
+    "hex" : "4ca9bb",
+    "flights" : {
+      "EIN11P  " : 1,
+      "EIN1PR  " : 3,
+      "EIN13X  " : 3,
+      "EIN118  " : 1,
+      "EIN11T  " : 1,
+      "EIN119  " : 1
+    }
   },
   {
-    "hex" : "4ba952",
-    "properties" : {
-      "registered_owner_country_name" : "Turkey",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "THY",
-      "registration" : "TC-JJR",
-      "registered_owner" : "Turkish Airlines",
-      "registered_owner_country_iso_name" : "TR",
-      "type" : "777 3F2ER",
-      "icao_type" : "B77W",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/660\/001660496.jpg"
-    },
-    "flights" : {
-      "THY7    " : 1
-    },
-    "lastSeen" : 1751853039.6,
     "timesSeen" : [
       1742780246.5,
       1743547660.1,
       1746207394.3999999,
       1751852403.6000001
-    ]
+    ],
+    "properties" : {
+      "registration" : "TC-JJR",
+      "type" : "777 3F2ER",
+      "registered_owner_country_name" : "Turkey",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/660\/001660496.jpg",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B77W",
+      "registered_owner_operator_flag_code" : "THY",
+      "registered_owner" : "Turkish Airlines",
+      "registered_owner_country_iso_name" : "TR"
+    },
+    "lastSeen" : 1751853039.6,
+    "hex" : "4ba952",
+    "flights" : {
+      "THY7    " : 1
+    }
   },
   {
-    "hex" : "a23f0c",
-    "flights" : {
-      "MXY6330 " : 1,
-      "MXY368  " : 1,
-      "MXY781  " : 1
-    },
-    "lastSeen" : 1751852942.8,
     "timesSeen" : [
       1741279083.1,
       1741648711.6000001,
@@ -285,47 +278,38 @@
       1751591503.3,
       1751597390.2,
       1751852255
-    ]
+    ],
+    "lastSeen" : 1751852942.8,
+    "hex" : "a23f0c",
+    "flights" : {
+      "MXY368  " : 1,
+      "MXY781  " : 1,
+      "MXY6330 " : 1
+    }
   },
   {
-    "hex" : "4843f2",
-    "properties" : {
-      "registered_owner_country_name" : "Netherlands",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "KLM",
-      "registration" : "PH-BQO",
-      "registered_owner" : "KLM Royal Dutch Airlines",
-      "registered_owner_country_iso_name" : "NL",
-      "type" : "777 206ER",
-      "icao_type" : "B772",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/678\/001678832.jpg"
-    },
-    "flights" : {
-      "KLM225  " : 1
-    },
-    "lastSeen" : 1751852896.5,
     "timesSeen" : [
       1748924803,
       1751852252.8
-    ]
+    ],
+    "properties" : {
+      "registration" : "PH-BQO",
+      "registered_owner_country_name" : "Netherlands",
+      "type" : "777 206ER",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/678\/001678832.jpg",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B772",
+      "registered_owner_operator_flag_code" : "KLM",
+      "registered_owner" : "KLM Royal Dutch Airlines",
+      "registered_owner_country_iso_name" : "NL"
+    },
+    "lastSeen" : 1751852896.5,
+    "hex" : "4843f2",
+    "flights" : {
+      "KLM225  " : 1
+    }
   },
   {
-    "hex" : "4b187f",
-    "properties" : {
-      "registered_owner_country_name" : "Switzerland",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "SWR",
-      "registration" : "HB-JHF",
-      "registered_owner" : "Swiss International Air Lines",
-      "registered_owner_country_iso_name" : "CH",
-      "type" : "A330 343E",
-      "icao_type" : "A333",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/761\/001761970.jpg"
-    },
-    "flights" : {
-      "SWR72   " : 1
-    },
-    "lastSeen" : 1751852880.8,
     "timesSeen" : [
       1740686519.3,
       1740789754.7,
@@ -340,6 +324,22 @@
       1749139195.4,
       1751505759.3,
       1751852195.9
-    ]
+    ],
+    "properties" : {
+      "registration" : "HB-JHF",
+      "registered_owner_country_name" : "Switzerland",
+      "type" : "A330 343E",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/761\/001761970.jpg",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A333",
+      "registered_owner_operator_flag_code" : "SWR",
+      "registered_owner" : "Swiss International Air Lines",
+      "registered_owner_country_iso_name" : "CH"
+    },
+    "lastSeen" : 1751852880.8,
+    "hex" : "4b187f",
+    "flights" : {
+      "SWR72   " : 1
+    }
   }
 ]
