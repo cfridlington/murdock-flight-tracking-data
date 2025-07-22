@@ -766,14 +766,14 @@
       1751555288.9
     ],
     "properties" : {
-      "registration" : "N626NJ",
-      "registered_owner_operator_flag_code" : "BE20",
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "icao_type" : "P28A",
       "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
       "manufacturer" : "Piper",
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "registered_owner_operator_flag_code" : "BE20",
+      "icao_type" : "P28A",
       "type" : "PA-28-151",
-      "registered_owner_country_iso_name" : "US"
+      "registration" : "N626NJ"
     },
     "hex" : "a82dbc",
     "lastSeen" : 1751557957.6000001
@@ -899,14 +899,14 @@
       1751827563.8000002
     ],
     "properties" : {
-      "registration" : "N208JW",
-      "registered_owner_operator_flag_code" : "C208",
-      "registered_owner" : "Maxim Aviation LLC",
-      "icao_type" : "C208",
       "registered_owner_country_name" : "United States",
       "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Cessna",
+      "registered_owner" : "Maxim Aviation LLC",
+      "registered_owner_operator_flag_code" : "C208",
+      "icao_type" : "C208",
       "type" : "208",
-      "manufacturer" : "Cessna"
+      "registration" : "N208JW"
     },
     "hex" : "a1b098",
     "lastSeen" : 1751828293.8000002
@@ -1207,8 +1207,8 @@
       "EIN13X  " : 1,
       "EIN11T  " : 1,
       "EIN1EA  " : 2,
-      "EIN10M  " : 2,
-      "EIN119  " : 2
+      "EIN119  " : 2,
+      "EIN10M  " : 2
     },
     "timesSeen" : [
       1740689045.8,
@@ -1286,14 +1286,14 @@
       1751847968.3999999
     ],
     "properties" : {
-      "registration" : "EI-LRE",
-      "registered_owner_operator_flag_code" : "EIN",
-      "registered_owner" : "Aer Lingus",
-      "icao_type" : "A21N",
       "registered_owner_country_name" : "Ireland",
       "registered_owner_country_iso_name" : "IE",
       "manufacturer" : "Airbus",
-      "type" : "A321 253NXSL"
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_operator_flag_code" : "EIN",
+      "icao_type" : "A21N",
+      "type" : "A321 253NXSL",
+      "registration" : "EI-LRE"
     },
     "hex" : "4cabd1",
     "lastSeen" : 1751848874.6000001
