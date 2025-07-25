@@ -1,306 +1,360 @@
 [
   {
-    "timesSeen" : [
-      1748613596.1,
-      1748649384.1000001,
-      1753328524.7
-    ],
-    "hex" : "c0653d",
-    "lastSeen" : 1753328885.1000001,
-    "properties" : {
-      "registration" : "C-GMIU",
-      "registered_owner_country_iso_name" : "CA",
-      "type" : "737MAX 8",
-      "registered_owner_operator_flag_code" : "ACA",
-      "icao_type" : "B38M",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "Canada",
-      "registered_owner" : "Air Canada"
-    },
     "flights" : {
-      "ACA948  " : 1
-    }
+      "FIN15   " : 1,
+      "FIN16   " : 4
+    },
+    "properties" : {
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "Finland",
+      "registered_owner" : "Finnair",
+      "registered_owner_country_iso_name" : "FI",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/686\/001686681.jpg",
+      "registration" : "OH-LTM",
+      "registered_owner_operator_flag_code" : "FIN",
+      "type" : "A330 302E",
+      "icao_type" : "A333"
+    },
+    "hex" : "461f06",
+    "timesSeen" : [
+      1741820321.2,
+      1741836456.6999998,
+      1742064232.1000001,
+      1742094810.6,
+      1743393843.8999999,
+      1743997881.1,
+      1745034384.3000002,
+      1747174303,
+      1748649189.8,
+      1748663395.8,
+      1751082987.8,
+      1753222128.7,
+      1753242520.5,
+      1753394962.3,
+      1753414360.7
+    ],
+    "lastSeen" : 1753415340
   },
   {
-    "timesSeen" : [
-      1741152496.8000002,
-      1741171309.3,
-      1743970228.6999998,
-      1743976400.2,
-      1748790242.1000001,
-      1748797573.9,
-      1749222386.1000001,
-      1749228216.6,
-      1749275583.3000002,
-      1749292274.6000001,
-      1751210829.7,
-      1751219197.5,
-      1751261615.8,
-      1751278362.7,
-      1753327444.8
-    ],
-    "hex" : "a69f9d",
-    "lastSeen" : 1753328695.6000001,
+    "flights" : {
+      "JIA5626 " : 1
+    },
     "properties" : {
-      "registration" : "N526EA",
+      "manufacturer" : "Bombardier",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "American Eagle",
       "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/375\/001375083.jpg",
-      "type" : "CRJ 700 702ER NG",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/490\/001490256.jpg",
+      "registration" : "N538EG",
       "registered_owner_operator_flag_code" : "JIA",
-      "icao_type" : "CRJ7",
-      "manufacturer" : "Bombardier",
+      "type" : "CRJ 700 702ER NG",
+      "icao_type" : "CRJ7"
+    },
+    "hex" : "a6ce90",
+    "timesSeen" : [
+      1740954241,
+      1743024316.3,
+      1743460145,
+      1743478229.9,
+      1743885582,
+      1743890618.7,
+      1749115593.3,
+      1753414363.8
+    ],
+    "lastSeen" : 1753415311.3000002
+  },
+  {
+    "flights" : {
+      "DAL72   " : 1,
+      "DAL237  " : 1,
+      "DAL47   " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Airbus",
       "registered_owner_country_name" : "United States",
-      "registered_owner" : "American Eagle"
-    },
-    "flights" : {
-      "JIA5330 " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1740561371.6000001,
-      1743977744.5,
-      1745331951.5,
-      1745615236.3999999,
-      1747170056.8,
-      1748133546.7,
-      1748612949,
-      1749024433.5,
-      1751271102.8,
-      1753327396.8
-    ],
-    "hex" : "4bb182",
-    "lastSeen" : 1753328437.1,
-    "properties" : {
-      "registration" : "TC-LLB",
-      "registered_owner_country_iso_name" : "TR",
-      "type" : "787 9",
-      "registered_owner_operator_flag_code" : "THY",
-      "icao_type" : "B789",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "Turkey",
-      "registered_owner" : "Turkish Airlines"
-    },
-    "flights" : {
-      "THY4JD  " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1744155271.3000002,
-      1744240810.2,
-      1744329657.1,
-      1744413036.5,
-      1744500949.1,
-      1744588749.5,
-      1744603095,
-      1744757749.6000001,
-      1744845773.6000001,
-      1744860819.3000002,
-      1744933118,
-      1745017175.9,
-      1745363476,
-      1745449965.8000002,
-      1745535423.1,
-      1745621833.4,
-      1745637195.3000002,
-      1745710592,
-      1745726400.1000001,
-      1745797462.9,
-      1745813832.8000002,
-      1745969125.8,
-      1745984690.1,
-      1746055672.2,
-      1746313901,
-      1746401224.5,
-      1746573668.5,
-      1746589972,
-      1747176675,
-      1747262273.2,
-      1747280523.5,
-      1747351295.8,
-      1747366973.6,
-      1747436454.2,
-      1747522636.8000002,
-      1747610046.5,
-      1747781178.2,
-      1747869244.5,
-      1747955971,
-      1748041676.2,
-      1748127257.8,
-      1748215121.1000001,
-      1748390429.7,
-      1748405787.3999999,
-      1748476465.3,
-      1748563148.7,
-      1748647067.6000001,
-      1748734546.3,
-      1748835049.6000001,
-      1748991991.8000002,
-      1749006320.9,
-      1749079567.5,
-      1749267920.3999999,
-      1749341409.3,
-      1749356057.2,
-      1749424389.3,
-      1749440033.4,
-      1750547616.3999999,
-      1751082273.7,
-      1751152437.1,
-      1751168651.9,
-      1751240648.1,
-      1751257078.3999999,
-      1751412137.1999998,
-      1751426678.1000001,
-      1751515428.2,
-      1751586289.6000001,
-      1751603369.8,
-      1751674741,
-      1751688737.8,
-      1751758165.1,
-      1751844524.6,
-      1753234431.1,
-      1753311549.1,
-      1753327144.4
-    ],
-    "hex" : "495278",
-    "lastSeen" : 1753328206.8999999,
-    "flights" : {
-      "LOT5N   " : 4,
-      "LOT4TL  " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1753327088.6
-    ],
-    "hex" : "a2bb89",
-    "lastSeen" : 1753327672,
-    "properties" : {
-      "registration" : "N27509",
+      "registered_owner" : "Delta Air Lines",
       "registered_owner_country_iso_name" : "US",
-      "type" : "737MAX 9",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/681\/001681211.jpg",
+      "registration" : "N808NW",
+      "registered_owner_operator_flag_code" : "DAL",
+      "type" : "A330 323X",
+      "icao_type" : "A333"
+    },
+    "hex" : "ab00d6",
+    "timesSeen" : [
+      1740682784.3000002,
+      1740713179.7,
+      1741719200.8,
+      1742179507.8999999,
+      1742603048.6000001,
+      1744051884.4,
+      1745770250.6,
+      1747489215.6999998,
+      1747579446.1,
+      1747673826.6,
+      1747758579.1000001,
+      1747845267.2,
+      1748270623.7,
+      1748630057.4,
+      1748963518.9,
+      1751219115.8000002,
+      1751386851.3999999,
+      1751848199.3000002,
+      1753414542.6000001
+    ],
+    "lastSeen" : 1753415272.7
+  },
+  {
+    "flights" : {
+      "AFR50G  " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "France",
+      "registered_owner" : "Air France",
+      "registered_owner_country_iso_name" : "FR",
+      "registration" : "F-GZNA",
+      "registered_owner_operator_flag_code" : "AFR",
+      "type" : "777 328ER",
+      "icao_type" : "B77W"
+    },
+    "hex" : "3965a0",
+    "timesSeen" : [
+      1740514777.3,
+      1741624648.8,
+      1741720310.9,
+      1742673350.8999999,
+      1742757982.5,
+      1742846185.7,
+      1743361420.3000002,
+      1743782010.1,
+      1744166885.3000002,
+      1744570918.1000001,
+      1744658409.9,
+      1744817822.4,
+      1745969248.3,
+      1747862850.2,
+      1748208576.3000002,
+      1748631648.6999998,
+      1748718762.4,
+      1751203037,
+      1751492283.8000002,
+      1751578207,
+      1751837691.7,
+      1753313778.2,
+      1753398111.5,
+      1753414937.6
+    ],
+    "lastSeen" : 1753415141.4
+  },
+  {
+    "flights" : {
+      "UAL351  " : 1,
+      "UAL316  " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United Airlines",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/656\/001656223.jpg",
+      "registration" : "N19117",
       "registered_owner_operator_flag_code" : "UAL",
+      "type" : "757 224\/W",
+      "icao_type" : "B752"
+    },
+    "hex" : "a16e7d",
+    "timesSeen" : [
+      1745433620.8,
+      1745812723.3,
+      1747848541.5,
+      1748999110.3000002,
+      1751086094,
+      1751207945.1000001,
+      1753370483,
+      1753414541.3000002
+    ],
+    "lastSeen" : 1753415137.5
+  },
+  {
+    "flights" : {
+      "DAL176  " : 1,
+      "DAL15   " : 1,
+      "DAL75   " : 1
+    },
+    "hex" : "a52736",
+    "timesSeen" : [
+      1740772994.8,
+      1740937321.7,
+      1741120003.6000001,
+      1741145064.4,
+      1741201798.1000001,
+      1741802706.2,
+      1741817962.6999998,
+      1741906040.4,
+      1741964600.9,
+      1743200583.1,
+      1744130579.8,
+      1744226964.1000001,
+      1744402419.3,
+      1744933400.7,
+      1745168211.7,
+      1745200649.7,
+      1745857461.3999999,
+      1747238679.7,
+      1747584699.5,
+      1748035850.1,
+      1748390700.3,
+      1749248450,
+      1751514077.9,
+      1751840509.3,
+      1753414000.2
+    ],
+    "lastSeen" : 1753415118.3
+  },
+  {
+    "flights" : {
+      "EDV5137 " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Bombardier",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "Delta Connection",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/672\/001672224.jpg",
+      "registration" : "N195PQ",
+      "registered_owner_operator_flag_code" : "EDV",
+      "type" : "CRJ 900 LR NG",
+      "icao_type" : "CRJ9"
+    },
+    "hex" : "a17c12",
+    "timesSeen" : [
+      1742034793.9,
+      1742077817.7,
+      1742119025.6,
+      1748835140,
+      1748859778.6000001,
+      1753414784.5
+    ],
+    "lastSeen" : 1753415081.7
+  },
+  {
+    "flights" : {
+      "AMX004  " : 1
+    },
+    "properties" : {
+      "manufacturer" : "Grumman",
+      "registered_owner_country_name" : "Mexico",
+      "registered_owner" : "Corporate",
+      "registered_owner_country_iso_name" : "MX",
+      "registration" : "XA-DHM",
+      "registered_owner_operator_flag_code" : "GLF3",
+      "type" : "GIII",
+      "icao_type" : "GLF3"
+    },
+    "hex" : "0d08d1",
+    "timesSeen" : [
+      1742532588.7,
+      1745040156.3,
+      1749132897.4,
+      1751297520.2,
+      1753414781.6000001
+    ],
+    "lastSeen" : 1753415081.6
+  },
+  {
+    "flights" : {
+      "BAW2203 " : 1
+    },
+    "properties" : {
       "manufacturer" : "Boeing",
-      "icao_type" : "B39M",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "United Airlines"
+      "registered_owner_country_name" : "United Kingdom",
+      "registered_owner" : "British Airways",
+      "registered_owner_country_iso_name" : "GB",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/681\/001681669.jpg",
+      "registration" : "G-YMME",
+      "registered_owner_operator_flag_code" : "BAW",
+      "type" : "777 236ER",
+      "icao_type" : "B772"
     },
-    "flights" : {
-
-    }
+    "hex" : "4007f0",
+    "timesSeen" : [
+      1740506129.1000001,
+      1740938691.9,
+      1744835473.1,
+      1745988165.8999999,
+      1746407779.9,
+      1747591579.1,
+      1748197067.9,
+      1751851712.1,
+      1753398592.5,
+      1753414341.8
+    ],
+    "lastSeen" : 1753414938.2
   },
   {
-    "timesSeen" : [
-      1747165266.6,
-      1753319393.6,
-      1753326590.7
-    ],
-    "hex" : "aac850",
-    "lastSeen" : 1753327527.4,
-    "properties" : {
-      "registration" : "N794QS",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "Challenger 350",
-      "registered_owner_operator_flag_code" : "EJA",
-      "icao_type" : "CL35",
-      "manufacturer" : "Bombardier",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "NetJets"
-    },
     "flights" : {
-      "EJA794  " : 3
-    }
-  },
-  {
-    "timesSeen" : [
-      1753316128.8999999,
-      1753326573.6000001
-    ],
-    "hex" : "a247b8",
-    "lastSeen" : 1753327343.7,
-    "properties" : {
-      "registration" : "N246QS",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "Challenger 650",
-      "registered_owner_operator_flag_code" : "EJA",
-      "manufacturer" : "Bombardier",
-      "icao_type" : "CL65",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "NetJets"
+      "UAL957  " : 1
     },
-    "flights" : {
-      "EJA246  " : 2
-    }
-  },
-  {
-    "timesSeen" : [
-      1751570688.6000001,
-      1751587633.9,
-      1753326576.1000001
-    ],
-    "hex" : "a4943f",
-    "lastSeen" : 1753327202.3,
     "properties" : {
-      "registration" : "N39416",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United Airlines",
       "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/696\/001696125.jpg",
-      "type" : "737NG 924ER\/W",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/663\/001663627.jpg",
+      "registration" : "N662UA",
       "registered_owner_operator_flag_code" : "UAL",
-      "manufacturer" : "Boeing",
-      "icao_type" : "B739",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "United Airlines"
+      "type" : "767 322ER\/W",
+      "icao_type" : "B763"
     },
-    "flights" : {
-      "UAL2032 " : 1,
-      "UAL2127 " : 1
-    }
-  },
-  {
+    "hex" : "a8bd6a",
     "timesSeen" : [
-      1743791055,
-      1749266350.7,
-      1751595419.3999999,
-      1753292942.9,
-      1753325861.3999999
+      1740511686.4,
+      1740765064,
+      1740956077.8,
+      1741029928.5,
+      1741048075.1,
+      1741104638.8999999,
+      1741892739.3999999,
+      1742225182.8999999,
+      1742249790.6000001,
+      1742509261.6000001,
+      1742584442.3999999,
+      1742685602.3000002,
+      1742777856.3999999,
+      1743036653.7,
+      1743178969.6000001,
+      1743617846,
+      1743717981.9,
+      1743809968.2,
+      1743878287.1,
+      1744060589.2,
+      1744077179.6,
+      1744734967.5,
+      1745000524.8,
+      1745359668.1000001,
+      1745431487.3,
+      1745507680.1999998,
+      1745598201.6,
+      1745684838.6000001,
+      1745898590.2,
+      1746228660.3,
+      1746393795.3,
+      1746549335,
+      1747500224.9,
+      1748384333,
+      1749256001.8,
+      1751231757.6000001,
+      1751336056.1,
+      1751495486.2,
+      1751586759.5,
+      1751668775.1,
+      1751748025.4,
+      1751844055.9,
+      1753217872.2,
+      1753304300.6000001,
+      1753413775.6000001
     ],
-    "hex" : "06a2c4",
-    "lastSeen" : 1753326799.3,
-    "properties" : {
-      "registration" : "A7-BEU",
-      "registered_owner_country_iso_name" : "QA",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/550\/001550130.jpg",
-      "type" : "777 300ER",
-      "registered_owner_operator_flag_code" : "QTR",
-      "manufacturer" : "Boeing",
-      "icao_type" : "B77W",
-      "registered_owner_country_name" : "Qatar",
-      "registered_owner" : "Qatar Airways"
-    },
-    "flights" : {
-      "QTR28N  " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1753325800.2
-    ],
-    "hex" : "a030a8",
-    "lastSeen" : 1753326766.1999998,
-    "properties" : {
-      "registration" : "N111HQ",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/512\/001512316.jpg",
-      "type" : "EMB-175 LR",
-      "registered_owner_operator_flag_code" : "RPA",
-      "manufacturer" : "Embraer",
-      "icao_type" : "E75S",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "American Eagle"
-    },
-    "flights" : {
-      "RPA4403 " : 1
-    }
+    "lastSeen" : 1753414880
   }
 ]
