@@ -254,10 +254,10 @@
   },
   {
     "flights" : {
-      "N405SB  " : 112
+      "N405SB  " : 115
     },
     "hex" : "a4c0c6",
-    "lastSeen" : 1753744516.4,
+    "lastSeen" : 1753830205.5,
     "timesSeen" : [
       1740504236.6,
       1740510052,
@@ -490,7 +490,13 @@
       1753727294.6,
       1753730902.3,
       1753737185.8,
-      1753742664.5
+      1753742664.5,
+      1753794937.8,
+      1753798563.6999998,
+      1753802175.9,
+      1753805797.1,
+      1753826187.3,
+      1753829905.1
     ]
   },
   {
@@ -697,21 +703,21 @@
     ]
   },
   {
+    "flights" : {
+      "N626NJ  " : 75
+    },
     "properties" : {
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "registration" : "N626NJ",
+      "icao_type" : "P28A",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "BE20",
       "registered_owner_country_name" : "United States",
-      "manufacturer" : "Piper",
-      "icao_type" : "P28A",
-      "registration" : "N626NJ",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "type" : "PA-28-151"
-    },
-    "flights" : {
-      "N626NJ  " : 72
+      "type" : "PA-28-151",
+      "manufacturer" : "Piper"
     },
     "hex" : "a82dbc",
-    "lastSeen" : 1753732125.4,
+    "lastSeen" : 1753814904.5,
     "timesSeen" : [
       1741022120.7,
       1741028594.1000001,
@@ -883,22 +889,28 @@
       1753620833.7,
       1753724862.1000001,
       1753728467.3,
-      1753732125.4
+      1753732125.4,
+      1753792430,
+      1753796073.5,
+      1753802987.2,
+      1753806621.2,
+      1753810278,
+      1753813889.7
     ]
   },
   {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "C208",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Cessna",
-      "icao_type" : "C208",
-      "registration" : "N208JW",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Maxim Aviation LLC",
-      "type" : "208"
-    },
     "flights" : {
       "N208JW  " : 44
+    },
+    "properties" : {
+      "registered_owner" : "Maxim Aviation LLC",
+      "registration" : "N208JW",
+      "icao_type" : "C208",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "C208",
+      "registered_owner_country_name" : "United States",
+      "type" : "208",
+      "manufacturer" : "Cessna"
     },
     "hex" : "a1b098",
     "lastSeen" : 1753743271.4,
@@ -1375,11 +1387,11 @@
   },
   {
     "flights" : {
-      "LOT4TL  " : 1,
-      "LOT5N   " : 4
+      "LOT5N   " : 4,
+      "LOT4TL  " : 2
     },
     "hex" : "495278",
-    "lastSeen" : 1753678290.2,
+    "lastSeen" : 1753831910.6,
     "timesSeen" : [
       1744155271.3000002,
       1744240810.2,
@@ -1459,7 +1471,8 @@
       1753398327.6999998,
       1753413039.6,
       1753663343.5,
-      1753677180.8
+      1753677180.8,
+      1753831191
     ]
   },
   {
@@ -1467,7 +1480,7 @@
       "N473CS  " : 38
     },
     "hex" : "a5cc82",
-    "lastSeen" : 1753737388.2,
+    "lastSeen" : 1753814693.8,
     "timesSeen" : [
       1740576634.8,
       1740582791.8,
@@ -1546,7 +1559,8 @@
       1753548238.6,
       1753660542.3,
       1753721318.1,
-      1753736502.9
+      1753736502.9,
+      1753811809.7
     ]
   }
 ]
