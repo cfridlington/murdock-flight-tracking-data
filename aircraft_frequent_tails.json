@@ -1,6 +1,20 @@
 [
   {
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "registration" : "N208JW",
+      "manufacturer" : "Cessna",
+      "registered_owner_operator_flag_code" : "C208",
+      "type" : "208",
+      "icao_type" : "C208",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Maxim Aviation LLC"
+    },
+    "hex" : "a1b098",
     "lastSeen" : 1758574949.1999998,
+    "flights" : {
+      "N208JW  " : 220
+    },
     "timesSeen" : [
       1745517985,
       1745592497.6,
@@ -456,24 +470,14 @@
       1758560851.1999998,
       1758568510.3999999,
       1758574126.9
-    ],
-    "properties" : {
-      "registration" : "N208JW",
-      "registered_owner_country_iso_name" : "US",
-      "type" : "208",
-      "registered_owner" : "Maxim Aviation LLC",
-      "manufacturer" : "Cessna",
-      "registered_owner_operator_flag_code" : "C208",
-      "icao_type" : "C208",
-      "registered_owner_country_name" : "United States"
-    },
-    "flights" : {
-      "N208JW  " : 220
-    },
-    "hex" : "a1b098"
+    ]
   },
   {
+    "hex" : "a470e3",
     "lastSeen" : 1758657697.8999999,
+    "flights" : {
+      "N38549  " : 191
+    },
     "timesSeen" : [
       1740576784,
       1740580402.3,
@@ -878,14 +882,14 @@
       1758486486,
       1758490140.8000002,
       1758656975.3999999
-    ],
-    "flights" : {
-      "N38549  " : 191
-    },
-    "hex" : "a470e3"
+    ]
   },
   {
+    "hex" : "a4c0c6",
     "lastSeen" : 1758643453.8000002,
+    "flights" : {
+      "N405SB  " : 183
+    },
     "timesSeen" : [
       1740504236.6,
       1740510052,
@@ -1240,14 +1244,14 @@
       1758571696.1,
       1758638533.6,
       1758642149.7
-    ],
-    "flights" : {
-      "N405SB  " : 183
-    },
-    "hex" : "a4c0c6"
+    ]
   },
   {
+    "hex" : "ad86ca",
     "lastSeen" : 1758725487.9,
+    "flights" : {
+      "N97055  " : 179
+    },
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -1601,14 +1605,24 @@
       1758653003.7,
       1758721455.8999999,
       1758725067.5
-    ],
-    "flights" : {
-      "N97055  " : 179
-    },
-    "hex" : "ad86ca"
+    ]
   },
   {
+    "properties" : {
+      "registered_owner_country_name" : "United States",
+      "registration" : "N626NJ",
+      "manufacturer" : "Piper",
+      "registered_owner_operator_flag_code" : "BE20",
+      "type" : "PA-28-151",
+      "icao_type" : "P28A",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Blue Sky Aviation LLC"
+    },
+    "hex" : "a82dbc",
     "lastSeen" : 1758751811.6,
+    "flights" : {
+      "N626NJ  " : 118
+    },
     "timesSeen" : [
       1741022120.7,
       1741028594.1000001,
@@ -1870,24 +1884,15 @@
       1758662682.5,
       1758729915.6000001,
       1758750802.6000001
-    ],
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "type" : "PA-28-151",
-      "registration" : "N626NJ",
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "manufacturer" : "Piper",
-      "registered_owner_operator_flag_code" : "BE20",
-      "icao_type" : "P28A",
-      "registered_owner_country_iso_name" : "US"
-    },
-    "flights" : {
-      "N626NJ  " : 118
-    },
-    "hex" : "a82dbc"
+    ]
   },
   {
-    "lastSeen" : 1758757289.3999999,
+    "hex" : "495278",
+    "lastSeen" : 1758847445.2,
+    "flights" : {
+      "LOT5N   " : 15,
+      "LOT4TL  " : 7
+    },
     "timesSeen" : [
       1744155271.3000002,
       1744240810.2,
@@ -2054,16 +2059,32 @@
       1758597024.1000001,
       1758669892.6000001,
       1758684818.5,
-      1758755899.2
-    ],
-    "flights" : {
-      "LOT5N   " : 15,
-      "LOT4TL  " : 7
-    },
-    "hex" : "495278"
+      1758755899.2,
+      1758846579.7
+    ]
   },
   {
-    "lastSeen" : 1758739341,
+    "properties" : {
+      "registered_owner_country_name" : "Ireland",
+      "registration" : "EI-FNG",
+      "manufacturer" : "Airbus",
+      "registered_owner_operator_flag_code" : "EIN",
+      "type" : "A330 302",
+      "icao_type" : "A333",
+      "registered_owner_country_iso_name" : "IE",
+      "registered_owner" : "Aer Lingus",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/647\/001647037.jpg"
+    },
+    "hex" : "4ca614",
+    "lastSeen" : 1758856722.1,
+    "flights" : {
+      "EIN104  " : 5,
+      "EIN13K  " : 2,
+      "EIN1AW  " : 1,
+      "EIN106  " : 4,
+      "EIN107  " : 6,
+      "EIN105  " : 1
+    },
     "timesSeen" : [
       1741196232.4,
       1741626180.1000001,
@@ -2208,31 +2229,16 @@
       1758558781.8,
       1758576500.2,
       1758665700.1000001,
-      1758738743.4
-    ],
-    "properties" : {
-      "type" : "A330 302",
-      "registration" : "EI-FNG",
-      "registered_owner_country_name" : "Ireland",
-      "registered_owner" : "Aer Lingus",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "EIN",
-      "icao_type" : "A333",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/647\/001647037.jpg",
-      "registered_owner_country_iso_name" : "IE"
-    },
-    "flights" : {
-      "EIN13K  " : 2,
-      "EIN107  " : 6,
-      "EIN1AW  " : 1,
-      "EIN106  " : 4,
-      "EIN105  " : 1,
-      "EIN104  " : 5
-    },
-    "hex" : "4ca614"
+      1758738743.4,
+      1758856003.8
+    ]
   },
   {
+    "hex" : "a4ccef",
     "lastSeen" : 1758123252.8,
+    "flights" : {
+      "N40812  " : 60
+    },
     "timesSeen" : [
       1740598348.8,
       1740602736.2,
@@ -2374,14 +2380,14 @@
       1758048324.6000001,
       1758116454.8,
       1758121829.6999998
-    ],
-    "flights" : {
-      "N40812  " : 60
-    },
-    "hex" : "a4ccef"
+    ]
   },
   {
+    "hex" : "a436eb",
     "lastSeen" : 1758759613.4,
+    "flights" : {
+      "N37050  " : 67
+    },
     "timesSeen" : [
       1740520276,
       1740746270,
@@ -2520,14 +2526,14 @@
       1758750458.3,
       1758754692.6000001,
       1758758849.5
-    ],
-    "flights" : {
-      "N37050  " : 67
-    },
-    "hex" : "a436eb"
+    ]
   },
   {
+    "hex" : "a5cc82",
     "lastSeen" : 1758485296.8999999,
+    "flights" : {
+      "N473CS  " : 63
+    },
     "timesSeen" : [
       1740576634.8,
       1740582791.8,
@@ -2664,10 +2670,6 @@
       1758380059.6000001,
       1758475775.8,
       1758482139.8999999
-    ],
-    "flights" : {
-      "N473CS  " : 63
-    },
-    "hex" : "a5cc82"
+    ]
   }
 ]
