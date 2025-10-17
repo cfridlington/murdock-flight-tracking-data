@@ -1,7 +1,19 @@
 [
   {
+    "lastSeen" : 1760221640.6,
     "flights" : {
       "N208JW  " : 272
+    },
+    "hex" : "a1b098",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "C208",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "C208",
+      "registered_owner" : "Maxim Aviation LLC",
+      "manufacturer" : "Cessna",
+      "type" : "208",
+      "registration" : "N208JW"
     },
     "timesSeen" : [
       1745517985,
@@ -539,24 +551,14 @@
       1760213225.1999998,
       1760216830.2,
       1760220435.2
-    ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Cessna",
-      "type" : "208",
-      "registration" : "N208JW",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "C208",
-      "registered_owner" : "Maxim Aviation LLC",
-      "registered_owner_operator_flag_code" : "C208"
-    },
-    "hex" : "a1b098",
-    "lastSeen" : 1760221640.6
+    ]
   },
   {
+    "lastSeen" : 1760622248.7,
     "flights" : {
-      "N38549  " : 217
+      "N38549  " : 218
     },
+    "hex" : "a470e3",
     "timesSeen" : [
       1740576784,
       1740580402.3,
@@ -1018,15 +1020,17 @@
       1760205392.5,
       1760208995.2,
       1760469573,
-      1760473176.6
-    ],
-    "hex" : "a470e3",
-    "lastSeen" : 1760474335.6
+      1760473176.6,
+      1760618269.4,
+      1760621888.1999998
+    ]
   },
   {
+    "lastSeen" : 1760538825.2,
     "flights" : {
       "N97055  " : 206
     },
+    "hex" : "ad86ca",
     "timesSeen" : [
       1740601807.1000001,
       1740606957.8,
@@ -1434,14 +1438,14 @@
       1760463788.3999999,
       1760467411.1999998,
       1760536373.2
-    ],
-    "hex" : "ad86ca",
-    "lastSeen" : 1760538825.2
+    ]
   },
   {
+    "lastSeen" : 1759350256,
     "flights" : {
       "N405SB  " : 187
     },
+    "hex" : "a4c0c6",
     "timesSeen" : [
       1740504236.6,
       1740510052,
@@ -1808,13 +1812,23 @@
       1759187529.7,
       1759345250,
       1759348854.1
-    ],
-    "hex" : "a4c0c6",
-    "lastSeen" : 1759350256
+    ]
   },
   {
+    "lastSeen" : 1760622137.1000001,
     "flights" : {
-      "N626NJ  " : 133
+      "N626NJ  " : 134
+    },
+    "hex" : "a82dbc",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "BE20",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "P28A",
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "manufacturer" : "Piper",
+      "type" : "PA-28-151",
+      "registration" : "N626NJ"
     },
     "timesSeen" : [
       1741022120.7,
@@ -2103,26 +2117,19 @@
       1760511489.8,
       1760535141.6,
       1760538745.6,
-      1760569832.8999999
-    ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "PA-28-151",
-      "manufacturer" : "Piper",
-      "registration" : "N626NJ",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "P28A",
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "registered_owner_operator_flag_code" : "BE20"
-    },
-    "hex" : "a82dbc",
-    "lastSeen" : 1760571641.4
+      1760569832.8999999,
+      1760590847.1000001,
+      1760617248.5,
+      1760620883.3
+    ]
   },
   {
+    "lastSeen" : 1759276164.8,
     "flights" : {
-      "LOT5N   " : 16,
-      "LOT4TL  " : 7
+      "LOT4TL  " : 7,
+      "LOT5N   " : 16
     },
+    "hex" : "495278",
     "timesSeen" : [
       1744155271.3000002,
       1744240810.2,
@@ -2297,14 +2304,14 @@
       1759103290.8999999,
       1759188459.4,
       1759274865.2
-    ],
-    "hex" : "495278",
-    "lastSeen" : 1759276164.8
+    ]
   },
   {
+    "lastSeen" : 1760213503.8,
     "flights" : {
       "N473CS  " : 76
     },
+    "hex" : "a5cc82",
     "timesSeen" : [
       1740576634.8,
       1740582791.8,
@@ -2474,14 +2481,14 @@
       1760204020.9,
       1760207651.7,
       1760211259.3999999
-    ],
-    "hex" : "a5cc82",
-    "lastSeen" : 1760213503.8
+    ]
   },
   {
+    "lastSeen" : 1760193678.1,
     "flights" : {
       "N40812  " : 71
     },
+    "hex" : "a4ccef",
     "timesSeen" : [
       1740598348.8,
       1740602736.2,
@@ -2641,14 +2648,14 @@
       1760108593.8000002,
       1760189255.2,
       1760192877.5
-    ],
-    "hex" : "a4ccef",
-    "lastSeen" : 1760193678.1
+    ]
   },
   {
+    "lastSeen" : 1760201081.5,
     "flights" : {
       "N19629  " : 42
     },
+    "hex" : "a18135",
     "timesSeen" : [
       1740513816.1,
       1741099448.2,
@@ -2806,14 +2813,14 @@
       1760041984.1,
       1760097478.3,
       1760197839.2
-    ],
-    "hex" : "a18135",
-    "lastSeen" : 1760201081.5
+    ]
   },
   {
+    "lastSeen" : 1760477568.3000002,
     "flights" : {
       "N214CA  " : 57
     },
+    "hex" : "a1c891",
     "timesSeen" : [
       1742306472.4,
       1742310075.8000002,
@@ -2969,8 +2976,6 @@
       1760389247.3999999,
       1760469600.6,
       1760474951.8
-    ],
-    "hex" : "a1c891",
-    "lastSeen" : 1760477568.3000002
+    ]
   }
 ]
