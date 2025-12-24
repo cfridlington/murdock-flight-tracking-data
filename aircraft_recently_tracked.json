@@ -1,24 +1,6 @@
 [
   {
-    "properties" : {
-      "icao_type" : "B789",
-      "registered_owner" : "Turkish Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/605\/001605687.jpg",
-      "type" : "787 9",
-      "registered_owner_operator_flag_code" : "THY",
-      "registration" : "TC-LLH",
-      "registered_owner_country_iso_name" : "TR",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "Turkey"
-    },
     "lastSeen" : 1766386596,
-    "hex" : "4bb188",
-    "flights" : {
-      "THY9LC  " : 2,
-      "THY69W  " : 1,
-      "THY83J  " : 1,
-      "THY4KG  " : 1
-    },
     "timesSeen" : [
       1740951179.5,
       1742511781.4,
@@ -52,15 +34,28 @@
       1761688729.1999998,
       1761953714.2,
       1766385543.9
-    ]
+    ],
+    "hex" : "4bb188",
+    "properties" : {
+      "registered_owner_country_iso_name" : "TR",
+      "registration" : "TC-LLH",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "Turkey",
+      "type" : "787 9",
+      "registered_owner_operator_flag_code" : "THY",
+      "icao_type" : "B789",
+      "registered_owner" : "Turkish Airlines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/605\/001605687.jpg"
+    },
+    "flights" : {
+      "THY9LC  " : 2,
+      "THY4KG  " : 1,
+      "THY83J  " : 1,
+      "THY69W  " : 1
+    }
   },
   {
     "lastSeen" : 1766386148.2,
-    "hex" : "78926a",
-    "flights" : {
-      "CPA841  " : 1,
-      "CPA811  " : 2
-    },
     "timesSeen" : [
       1746369833.9,
       1747721047.5,
@@ -74,26 +69,15 @@
       1759730180.1,
       1761026802.6,
       1766385121.8
-    ]
+    ],
+    "hex" : "78926a",
+    "flights" : {
+      "CPA811  " : 2,
+      "CPA841  " : 1
+    }
   },
   {
-    "properties" : {
-      "icao_type" : "B77W",
-      "registered_owner" : "Turkish Airlines",
-      "type" : "777 3F2ER",
-      "registered_owner_operator_flag_code" : "THY",
-      "registration" : "TC-LJJ",
-      "registered_owner_country_iso_name" : "TR",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "Turkey"
-    },
     "lastSeen" : 1766385179,
-    "hex" : "4bb14a",
-    "flights" : {
-      "THY8    " : 1,
-      "THY31K  " : 1,
-      "THY12   " : 1
-    },
     "timesSeen" : [
       1741904122.3999999,
       1741928552.3,
@@ -114,50 +98,48 @@
       1762915474.4,
       1762927995.6,
       1766384228.1999998
-    ]
+    ],
+    "hex" : "4bb14a",
+    "properties" : {
+      "registered_owner_country_iso_name" : "TR",
+      "registration" : "TC-LJJ",
+      "registered_owner_country_name" : "Turkey",
+      "manufacturer" : "Boeing",
+      "type" : "777 3F2ER",
+      "registered_owner_operator_flag_code" : "THY",
+      "icao_type" : "B77W",
+      "registered_owner" : "Turkish Airlines"
+    },
+    "flights" : {
+      "THY12   " : 1,
+      "THY8    " : 1,
+      "THY31K  " : 1
+    }
   },
   {
-    "properties" : {
-      "icao_type" : "A332",
-      "registered_owner" : "Air France",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/709\/001709910.jpg",
-      "type" : "A330 203",
-      "registered_owner_operator_flag_code" : "AFR",
-      "registration" : "F-GZCN",
-      "registered_owner_country_iso_name" : "FR",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "France"
-    },
     "lastSeen" : 1766384811.3000002,
-    "hex" : "39644d",
-    "flights" : {
-      "AFR31T  " : 1
-    },
     "timesSeen" : [
       1757543451.3,
       1766383404
-    ]
+    ],
+    "hex" : "39644d",
+    "properties" : {
+      "registered_owner_country_iso_name" : "FR",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "France",
+      "registration" : "F-GZCN",
+      "type" : "A330 203",
+      "registered_owner_operator_flag_code" : "AFR",
+      "icao_type" : "A332",
+      "registered_owner" : "Air France",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/709\/001709910.jpg"
+    },
+    "flights" : {
+      "AFR31T  " : 1
+    }
   },
   {
-    "properties" : {
-      "icao_type" : "B77L",
-      "registered_owner" : "DHL Air",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/677\/001677867.jpg",
-      "type" : "777 F",
-      "registered_owner_operator_flag_code" : "DHK",
-      "registration" : "G-DHLY",
-      "registered_owner_country_iso_name" : "GB",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United Kingdom"
-    },
     "lastSeen" : 1766383878.8,
-    "hex" : "407c8a",
-    "flights" : {
-      "DHK003  " : 1,
-      "DHK007  " : 1,
-      "DHK703  " : 2,
-      "DHK009  " : 1
-    },
     "timesSeen" : [
       1744375231.9,
       1751787825.6,
@@ -173,17 +155,28 @@
       1761305386,
       1762436288,
       1766383072.1000001
-    ]
+    ],
+    "hex" : "407c8a",
+    "properties" : {
+      "registered_owner_country_iso_name" : "GB",
+      "registration" : "G-DHLY",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United Kingdom",
+      "type" : "777 F",
+      "registered_owner_operator_flag_code" : "DHK",
+      "icao_type" : "B77L",
+      "registered_owner" : "DHL Air",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/677\/001677867.jpg"
+    },
+    "flights" : {
+      "DHK009  " : 1,
+      "DHK003  " : 1,
+      "DHK007  " : 1,
+      "DHK703  " : 2
+    }
   },
   {
     "lastSeen" : 1766382539.8,
-    "hex" : "c084a3",
-    "flights" : {
-      "ACA604  " : 1,
-      "ACA618  " : 1,
-      "ACA605  " : 1,
-      "ACA610  " : 1
-    },
     "timesSeen" : [
       1740976847.6000001,
       1744636670.1,
@@ -216,31 +209,17 @@
       1763508582,
       1763594934,
       1766381531.8000002
-    ]
+    ],
+    "hex" : "c084a3",
+    "flights" : {
+      "ACA604  " : 1,
+      "ACA618  " : 1,
+      "ACA605  " : 1,
+      "ACA610  " : 1
+    }
   },
   {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/655\/001655923.jpg",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States",
-      "registered_owner" : "United Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "B752",
-      "type" : "757 224\/W",
-      "registration" : "N14107"
-    },
     "lastSeen" : 1766382461.6999998,
-    "hex" : "a0a8df",
-    "flights" : {
-      "UAL634  " : 1,
-      "UAL711  " : 1,
-      "UAL979  " : 1,
-      "UAL316  " : 1,
-      "UAL229  " : 1,
-      "UAL36   " : 1,
-      "UAL37   " : 1
-    },
     "timesSeen" : [
       1742346633.4,
       1742518864.9,
@@ -290,37 +269,31 @@
       1762456625.5,
       1763692495.5,
       1766381494
-    ]
-  },
-  {
+    ],
+    "hex" : "a0a8df",
     "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/692\/001692882.jpg",
-      "manufacturer" : "Boeing",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N14107",
+      "type" : "757 224\/W",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/655\/001655923.jpg",
       "registered_owner_country_name" : "United States",
       "registered_owner" : "United Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "B763",
-      "type" : "767 322ER\/W",
-      "registration" : "N672UA"
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "UAL",
+      "icao_type" : "B752"
     },
-    "lastSeen" : 1766382104,
-    "hex" : "a8e4e9",
     "flights" : {
-      "UAL934  " : 2,
-      "UAL147  " : 1,
-      "UAL904  " : 2,
-      "UAL54   " : 1,
-      "UAL966  " : 2,
-      "UAL272  " : 1,
-      "UAL110  " : 2,
-      "UAL940  " : 2,
-      "UAL905  " : 1,
-      "UAL146  " : 1,
-      "UAL116  " : 1,
-      "UAL55   " : 1,
-      "UAL941  " : 1
-    },
+      "UAL634  " : 1,
+      "UAL316  " : 1,
+      "UAL37   " : 1,
+      "UAL229  " : 1,
+      "UAL711  " : 1,
+      "UAL36   " : 1,
+      "UAL979  " : 1
+    }
+  },
+  {
+    "lastSeen" : 1766382104,
     "timesSeen" : [
       1740626823.1000001,
       1740684481.2,
@@ -429,55 +402,59 @@
       1763569968.9,
       1763669549.8,
       1766381123.7
-    ]
+    ],
+    "hex" : "a8e4e9",
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N672UA",
+      "type" : "767 322ER\/W",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/692\/001692882.jpg",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United Airlines",
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "UAL",
+      "icao_type" : "B763"
+    },
+    "flights" : {
+      "UAL940  " : 2,
+      "UAL272  " : 1,
+      "UAL54   " : 1,
+      "UAL116  " : 1,
+      "UAL966  " : 2,
+      "UAL934  " : 2,
+      "UAL941  " : 1,
+      "UAL904  " : 2,
+      "UAL146  " : 1,
+      "UAL110  " : 2,
+      "UAL55   " : 1,
+      "UAL905  " : 1,
+      "UAL147  " : 1
+    }
   },
   {
-    "properties" : {
-      "registered_owner_operator_flag_code" : "ACA",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/684\/001684831.jpg",
-      "registered_owner_country_name" : "Canada",
-      "manufacturer" : "Boeing",
-      "registered_owner" : "Air Canada",
-      "registered_owner_country_iso_name" : "CA",
-      "icao_type" : "B788",
-      "type" : "787 8",
-      "registration" : "C-GHQY"
-    },
     "lastSeen" : 1766381518.7,
-    "hex" : "c058dd",
-    "flights" : {
-      "ACA856  " : 1
-    },
     "timesSeen" : [
       1762483541.4,
       1766380225.8
-    ]
+    ],
+    "hex" : "c058dd",
+    "properties" : {
+      "registered_owner_country_iso_name" : "CA",
+      "registration" : "C-GHQY",
+      "type" : "787 8",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/684\/001684831.jpg",
+      "registered_owner_country_name" : "Canada",
+      "registered_owner" : "Air Canada",
+      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "ACA",
+      "icao_type" : "B788"
+    },
+    "flights" : {
+      "ACA856  " : 1
+    }
   },
   {
-    "properties" : {
-      "registered_owner" : "British Airways",
-      "manufacturer" : "Boeing",
-      "registration" : "G-STBK",
-      "icao_type" : "B77W",
-      "registered_owner_country_name" : "United Kingdom",
-      "type" : "777 336ER",
-      "registered_owner_operator_flag_code" : "BAW",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676523.jpg",
-      "registered_owner_country_iso_name" : "GB"
-    },
     "lastSeen" : 1766380870,
-    "hex" : "406b0a",
-    "flights" : {
-      "BAW173A " : 1,
-      "BAW29G  " : 1,
-      "BAW7W   " : 1,
-      "BAW33K  " : 1,
-      "BAW14K  " : 2,
-      "BAW216  " : 1,
-      "BAW293  " : 1,
-      "BAW11J  " : 1,
-      "BAW18A  " : 1
-    },
     "timesSeen" : [
       1742142349,
       1743548742.8000002,
@@ -528,6 +505,29 @@
       1761002968.6,
       1761283163.6000001,
       1766380140.3
-    ]
+    ],
+    "hex" : "406b0a",
+    "properties" : {
+      "registered_owner_country_iso_name" : "GB",
+      "type" : "777 336ER",
+      "registered_owner_operator_flag_code" : "BAW",
+      "registered_owner_country_name" : "United Kingdom",
+      "registration" : "G-STBK",
+      "icao_type" : "B77W",
+      "registered_owner" : "British Airways",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676523.jpg",
+      "manufacturer" : "Boeing"
+    },
+    "flights" : {
+      "BAW29G  " : 1,
+      "BAW11J  " : 1,
+      "BAW293  " : 1,
+      "BAW33K  " : 1,
+      "BAW18A  " : 1,
+      "BAW7W   " : 1,
+      "BAW14K  " : 2,
+      "BAW173A " : 1,
+      "BAW216  " : 1
+    }
   }
 ]
