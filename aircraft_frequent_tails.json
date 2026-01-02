@@ -1,9 +1,9 @@
 [
   {
-    "hex" : "a470e3",
     "flights" : {
       "N38549  " : 297
     },
+    "hex" : "a470e3",
     "lastSeen" : 1767197447.3999999,
     "timesSeen" : [
       1740576784,
@@ -594,20 +594,20 @@
     ]
   },
   {
-    "hex" : "a1b098",
     "flights" : {
       "N208JW  " : 304
     },
+    "hex" : "a1b098",
     "lastSeen" : 1762116986.1000001,
     "properties" : {
+      "type" : "208",
       "manufacturer" : "Cessna",
+      "registered_owner_country_name" : "United States",
       "registered_owner_operator_flag_code" : "C208",
       "icao_type" : "C208",
-      "registration" : "N208JW",
-      "registered_owner" : "Maxim Aviation LLC",
-      "type" : "208",
       "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States"
+      "registration" : "N208JW",
+      "registered_owner" : "Maxim Aviation LLC"
     },
     "timesSeen" : [
       1745517985,
@@ -1195,10 +1195,10 @@
     ]
   },
   {
-    "hex" : "ad86ca",
     "flights" : {
       "N97055  " : 236
     },
+    "hex" : "ad86ca",
     "lastSeen" : 1763586667.4,
     "timesSeen" : [
       1740601807.1000001,
@@ -1680,10 +1680,10 @@
     ]
   },
   {
-    "hex" : "a4c0c6",
     "flights" : {
       "N405SB  " : 189
     },
+    "hex" : "a4c0c6",
     "lastSeen" : 1767195291.1,
     "timesSeen" : [
       1740504236.6,
@@ -2061,20 +2061,20 @@
     ]
   },
   {
-    "hex" : "a82dbc",
     "flights" : {
       "N626NJ  " : 177
     },
+    "hex" : "a82dbc",
     "lastSeen" : 1763679749.1,
     "properties" : {
+      "type" : "PA-28-151",
       "manufacturer" : "Piper",
+      "registered_owner_country_name" : "United States",
       "registered_owner_operator_flag_code" : "BE20",
       "icao_type" : "P28A",
       "registration" : "N626NJ",
-      "registered_owner" : "Blue Sky Aviation LLC",
-      "type" : "PA-28-151",
       "registered_owner_country_iso_name" : "US",
-      "registered_owner_country_name" : "United States"
+      "registered_owner" : "Blue Sky Aviation LLC"
     },
     "timesSeen" : [
       1741022120.7,
@@ -2436,10 +2436,10 @@
     ]
   },
   {
-    "hex" : "a5cc82",
     "flights" : {
       "N473CS  " : 92
     },
+    "hex" : "a5cc82",
     "lastSeen" : 1766957622.1999998,
     "timesSeen" : [
       1740576634.8,
@@ -2639,30 +2639,30 @@
     ]
   },
   {
-    "hex" : "4ca9cb",
     "flights" : {
-      "EIN1XG  " : 2,
-      "EIN11P  " : 1,
-      "EIN13X  " : 15,
       "EIN10M  " : 2,
-      "EIN119  " : 1,
-      "EIN118  " : 2,
       "EIN1PR  " : 22,
-      "EIN1TC  " : 2,
+      "EIN13X  " : 15,
+      "EIN11P  " : 1,
+      "EIN119  " : 1,
+      "EIN1EA  " : 1,
+      "EIN1XG  " : 2,
       "EIN13K  " : 1,
-      "EIN1EA  " : 1
+      "EIN1TC  " : 2,
+      "EIN118  " : 2
     },
-    "lastSeen" : 1767228276.2,
+    "hex" : "4ca9cb",
+    "lastSeen" : 1767315581.8000002,
     "properties" : {
-      "icao_type" : "A21N",
-      "registration" : "EI-LRD",
-      "registered_owner_country_name" : "Ireland",
-      "registered_owner_operator_flag_code" : "EIN",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/601\/001601518.jpg",
-      "type" : "A321 253NXSL",
-      "manufacturer" : "Airbus",
       "registered_owner_country_iso_name" : "IE",
-      "registered_owner" : "Aer Lingus"
+      "registered_owner_country_name" : "Ireland",
+      "icao_type" : "A21N",
+      "manufacturer" : "Airbus",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/601\/001601518.jpg",
+      "registration" : "EI-LRD",
+      "type" : "A321 253NXSL",
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_operator_flag_code" : "EIN"
     },
     "timesSeen" : [
       1740513143.8,
@@ -2853,14 +2853,15 @@
       1763679253.9,
       1766779588.1000001,
       1767057257.7,
-      1767227713.4
+      1767227713.4,
+      1767315554.3000002
     ]
   },
   {
-    "hex" : "a18135",
     "flights" : {
       "N19629  " : 52
     },
+    "hex" : "a18135",
     "lastSeen" : 1766955047.5,
     "timesSeen" : [
       1740513816.1,
@@ -3053,27 +3054,27 @@
     ]
   },
   {
-    "hex" : "4ca74e",
     "flights" : {
       "EIN13K  " : 1,
+      "EIN107  " : 5,
       "EIN104  " : 1,
-      "EIN12W  " : 2,
       "EIN12G  " : 2,
       "EIN106  " : 6,
       "EIN105  " : 5,
-      "EIN107  " : 5
+      "EIN12W  " : 2
     },
+    "hex" : "4ca74e",
     "lastSeen" : 1766801060,
     "properties" : {
-      "registered_owner_country_iso_name" : "IE",
-      "manufacturer" : "Airbus",
-      "registration" : "EI-EAV",
-      "registered_owner_operator_flag_code" : "EIN",
-      "registered_owner_country_name" : "Ireland",
-      "icao_type" : "A333",
-      "type" : "A330 302E",
       "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/686\/001686682.jpg",
-      "registered_owner" : "Aer Lingus"
+      "manufacturer" : "Airbus",
+      "type" : "A330 302E",
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_country_name" : "Ireland",
+      "registered_owner_operator_flag_code" : "EIN",
+      "registration" : "EI-EAV",
+      "registered_owner_country_iso_name" : "IE",
+      "icao_type" : "A333"
     },
     "timesSeen" : [
       1740505430.2,
@@ -3264,26 +3265,26 @@
     ]
   },
   {
-    "hex" : "4ca614",
     "flights" : {
-      "EIN105  " : 3,
-      "EIN1AW  " : 1,
       "EIN107  " : 6,
-      "EIN106  " : 5,
+      "EIN105  " : 3,
       "EIN13K  " : 2,
+      "EIN1AW  " : 1,
+      "EIN106  " : 5,
       "EIN104  " : 5
     },
+    "hex" : "4ca614",
     "lastSeen" : 1766876588,
     "properties" : {
-      "registered_owner_country_iso_name" : "IE",
-      "manufacturer" : "Airbus",
-      "registration" : "EI-FNG",
-      "registered_owner_operator_flag_code" : "EIN",
-      "registered_owner_country_name" : "Ireland",
-      "icao_type" : "A333",
-      "type" : "A330 302",
       "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/647\/001647037.jpg",
-      "registered_owner" : "Aer Lingus"
+      "manufacturer" : "Airbus",
+      "type" : "A330 302",
+      "registered_owner" : "Aer Lingus",
+      "registered_owner_country_name" : "Ireland",
+      "registered_owner_operator_flag_code" : "EIN",
+      "registration" : "EI-FNG",
+      "registered_owner_country_iso_name" : "IE",
+      "icao_type" : "A333"
     },
     "timesSeen" : [
       1741196232.4,
