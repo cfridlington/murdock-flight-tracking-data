@@ -1,17 +1,5 @@
 [
   {
-    "properties" : {
-      "icao_type" : "P28A",
-      "manufacturer" : "Piper",
-      "registered_owner_country_name" : "United States",
-      "type" : "PA-28-151",
-      "registration" : "N626NJ",
-      "registered_owner_operator_flag_code" : "BE20",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Blue Sky Aviation LLC"
-    },
-    "lastSeen" : 1784120690.2,
-    "hex" : "a82dbc",
     "flights" : {
       "N626NJ  " : 247
     },
@@ -494,11 +482,21 @@
       1784044988,
       1784048598.6999998,
       1784119797.3
-    ]
+    ],
+    "lastSeen" : 1784120690.2,
+    "hex" : "a82dbc",
+    "properties" : {
+      "registered_owner_operator_flag_code" : "BE20",
+      "registered_owner_country_name" : "United States",
+      "type" : "PA-28-151",
+      "manufacturer" : "Piper",
+      "registration" : "N626NJ",
+      "registered_owner" : "Blue Sky Aviation LLC",
+      "icao_type" : "P28A",
+      "registered_owner_country_iso_name" : "US"
+    }
   },
   {
-    "lastSeen" : 1784120687.5,
-    "hex" : "a4c0c6",
     "flights" : {
       "N405SB  " : 315
     },
@@ -1073,20 +1071,20 @@
       1784048771.5,
       1784052425.3000002,
       1784119888.2
-    ]
+    ],
+    "lastSeen" : 1784120687.5,
+    "hex" : "a4c0c6"
   },
   {
-    "lastSeen" : 1784120582.2,
-    "hex" : "a433d1",
     "flights" : {
-      "CNS259  " : 1,
-      "CNS1337 " : 1,
-      "CNS612  " : 1,
-      "CNS220  " : 1,
-      "CNS75   " : 1,
-      "CNS765  " : 1,
       "CNS111  " : 1,
-      "CNS298  " : 2
+      "CNS75   " : 1,
+      "CNS612  " : 1,
+      "CNS765  " : 1,
+      "CNS1337 " : 1,
+      "CNS259  " : 1,
+      "CNS298  " : 2,
+      "CNS220  " : 1
     },
     "timesSeen" : [
       1741300548.2,
@@ -1118,31 +1116,21 @@
       1782757163.1,
       1782761188.1999998,
       1784119626.6
-    ]
+    ],
+    "lastSeen" : 1784120582.2,
+    "hex" : "a433d1"
   },
   {
-    "lastSeen" : 1784120572.5,
-    "hex" : "aab5e5",
     "flights" : {
       "EJM79   " : 1
     },
     "timesSeen" : [
       1784119560.1000001
-    ]
+    ],
+    "lastSeen" : 1784120572.5,
+    "hex" : "aab5e5"
   },
   {
-    "properties" : {
-      "manufacturer" : "Bombardier",
-      "icao_type" : "LJ45",
-      "type" : "Learjet 45",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N45EJ",
-      "registered_owner_operator_flag_code" : "LJ45",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "Trego-Dugan Aviation"
-    },
-    "lastSeen" : 1784120510.4,
-    "hex" : "a57030",
     "flights" : {
       "N45EJ   " : 1
     },
@@ -1153,25 +1141,25 @@
       1756858627.5,
       1783894409.3,
       1784119527.2
-    ]
+    ],
+    "lastSeen" : 1784120510.4,
+    "hex" : "a57030",
+    "properties" : {
+      "registered_owner_operator_flag_code" : "LJ45",
+      "type" : "Learjet 45",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Bombardier",
+      "registration" : "N45EJ",
+      "registered_owner" : "Trego-Dugan Aviation",
+      "icao_type" : "LJ45",
+      "registered_owner_country_iso_name" : "US"
+    }
   },
   {
-    "properties" : {
-      "icao_type" : "BCS3",
-      "manufacturer" : "Airbus",
-      "registered_owner_country_name" : "Canada",
-      "type" : "A220 300",
-      "registration" : "C-GJXN",
-      "registered_owner_operator_flag_code" : "ACA",
-      "registered_owner_country_iso_name" : "CA",
-      "registered_owner" : "Air Canada"
-    },
-    "lastSeen" : 1784120471.5,
-    "hex" : "c05ed0",
     "flights" : {
-      "ACA748  " : 1,
-      "ACA754  " : 1,
       "ACA765  " : 1,
+      "ACA754  " : 1,
+      "ACA748  " : 1,
       "ACA749  " : 1
     },
     "timesSeen" : [
@@ -1194,21 +1182,21 @@
       1781560241.3,
       1783210072.5,
       1784119767.3999999
-    ]
+    ],
+    "lastSeen" : 1784120471.5,
+    "hex" : "c05ed0",
+    "properties" : {
+      "registered_owner_operator_flag_code" : "ACA",
+      "type" : "A220 300",
+      "registered_owner_country_name" : "Canada",
+      "manufacturer" : "Airbus",
+      "registration" : "C-GJXN",
+      "registered_owner" : "Air Canada",
+      "icao_type" : "BCS3",
+      "registered_owner_country_iso_name" : "CA"
+    }
   },
   {
-    "properties" : {
-      "icao_type" : "C68A",
-      "manufacturer" : "Textron Aviation",
-      "registered_owner_country_name" : "United States",
-      "type" : "Citation Latitude",
-      "registration" : "N597QS",
-      "registered_owner_operator_flag_code" : "EJA",
-      "registered_owner_country_iso_name" : "US",
-      "registered_owner" : "NetJets"
-    },
-    "lastSeen" : 1784120461.3999999,
-    "hex" : "a7b8d7",
     "flights" : {
       "EJA597  " : 3
     },
@@ -1220,16 +1208,26 @@
       1758048561.8,
       1769267555.1,
       1784119887.3999999
-    ]
+    ],
+    "lastSeen" : 1784120461.3999999,
+    "hex" : "a7b8d7",
+    "properties" : {
+      "registered_owner_operator_flag_code" : "EJA",
+      "registered_owner_country_name" : "United States",
+      "type" : "Citation Latitude",
+      "manufacturer" : "Textron Aviation",
+      "registration" : "N597QS",
+      "registered_owner" : "NetJets",
+      "icao_type" : "C68A",
+      "registered_owner_country_iso_name" : "US"
+    }
   },
   {
-    "lastSeen" : 1784120444.6,
-    "hex" : "a26df9",
     "flights" : {
-      "MXY739  " : 1,
-      "MXY174  " : 2,
+      "MXY139  " : 2,
       "MXY101  " : 3,
-      "MXY139  " : 2
+      "MXY739  " : 1,
+      "MXY174  " : 2
     },
     "timesSeen" : [
       1756164180.2,
@@ -1255,11 +1253,11 @@
       1783514215.7,
       1783520824.2,
       1784119347.3
-    ]
+    ],
+    "lastSeen" : 1784120444.6,
+    "hex" : "a26df9"
   },
   {
-    "lastSeen" : 1784120422.8999999,
-    "hex" : "acae64",
     "flights" : {
       "EJA916  " : 4
     },
@@ -1276,11 +1274,11 @@
       1783369983.5,
       1783376952.8999999,
       1784119436.8
-    ]
+    ],
+    "lastSeen" : 1784120422.8999999,
+    "hex" : "acae64"
   },
   {
-    "lastSeen" : 1784120420.3000002,
-    "hex" : "a470e3",
     "flights" : {
       "N38549  " : 450
     },
@@ -2130,6 +2128,8 @@
       1783978474.3,
       1784058885,
       1784120128
-    ]
+    ],
+    "lastSeen" : 1784120420.3000002,
+    "hex" : "a470e3"
   }
 ]
