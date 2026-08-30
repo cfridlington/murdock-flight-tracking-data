@@ -1,10 +1,6 @@
 [
   {
     "lastSeen" : 1787517276,
-    "flights" : {
-      "N66JL   " : 16
-    },
-    "hex" : "a8b2b3",
     "timesSeen" : [
       1747420833.8999999,
       1747570652.1999998,
@@ -34,19 +30,24 @@
       1783282128.3,
       1783952918.6,
       1787516512.1999998
-    ]
+    ],
+    "hex" : "a8b2b3",
+    "flights" : {
+      "N66JL   " : 16
+    }
   },
   {
-    "lastSeen" : 1787517142.6999998,
-    "flights" : {
-      "EDV5151 " : 1,
-      "EDV5254 " : 6,
-      "EDV5277 " : 1,
-      "EDV5010 " : 2,
-      "EDV5361 " : 2,
-      "EDV5399 " : 3
+    "properties" : {
+      "registration" : "N482PX",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Bombardier",
+      "icao_type" : "CRJ9",
+      "type" : "CRJ 900 LR NG",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "EDV",
+      "registered_owner" : "Delta Connection"
     },
-    "hex" : "a5f162",
+    "lastSeen" : 1787517142.6999998,
     "timesSeen" : [
       1740757807.3,
       1740763594.1999998,
@@ -88,27 +89,29 @@
       1783276877.1,
       1787516300
     ],
-    "properties" : {
-      "registered_owner" : "Delta Connection",
-      "icao_type" : "CRJ9",
-      "registered_owner_operator_flag_code" : "EDV",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N482PX",
-      "registered_owner_country_name" : "United States",
-      "type" : "CRJ 900 LR NG",
-      "manufacturer" : "Bombardier"
+    "hex" : "a5f162",
+    "flights" : {
+      "EDV5010 " : 2,
+      "EDV5399 " : 3,
+      "EDV5151 " : 1,
+      "EDV5254 " : 6,
+      "EDV5361 " : 2,
+      "EDV5277 " : 1
     }
   },
   {
-    "lastSeen" : 1787517114.1,
-    "flights" : {
-      "CNS147  " : 2,
-      "CNS1209 " : 1,
-      "CNS28   " : 1,
-      "CNS1820 " : 1,
-      "CNS308  " : 1
+    "properties" : {
+      "registration" : "N721AF",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Pilatus",
+      "icao_type" : "PC12",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/143\/001143933.jpg",
+      "type" : "PC-XII 47E",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "CNS",
+      "registered_owner" : "Planesense"
     },
-    "hex" : "a9a749",
+    "lastSeen" : 1787517114.1,
     "timesSeen" : [
       1754045291.8,
       1757035785.6999998,
@@ -134,24 +137,27 @@
       1787513002.2,
       1787516633.6000001
     ],
-    "properties" : {
-      "registered_owner" : "Planesense",
-      "icao_type" : "PC12",
-      "registered_owner_operator_flag_code" : "CNS",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/143\/001143933.jpg",
-      "manufacturer" : "Pilatus",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N721AF",
-      "type" : "PC-XII 47E"
+    "hex" : "a9a749",
+    "flights" : {
+      "CNS28   " : 1,
+      "CNS308  " : 1,
+      "CNS1209 " : 1,
+      "CNS147  " : 2,
+      "CNS1820 " : 1
     }
   },
   {
-    "lastSeen" : 1787517043.9,
-    "flights" : {
-      "N88MY   " : 8
+    "properties" : {
+      "registration" : "N88MY",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "BE20",
+      "manufacturer" : "Beech",
+      "type" : "King Air B200",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "BE20",
+      "registered_owner" : "Logan Aviation LLC"
     },
-    "hex" : "ac1ca6",
+    "lastSeen" : 1787517043.9,
     "timesSeen" : [
       1746390595.4,
       1746414751.2,
@@ -184,23 +190,13 @@
       1783562617.6000001,
       1787516983.8
     ],
-    "properties" : {
-      "registered_owner" : "Logan Aviation LLC",
-      "icao_type" : "BE20",
-      "registered_owner_operator_flag_code" : "BE20",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Beech",
-      "registration" : "N88MY",
-      "registered_owner_country_name" : "United States",
-      "type" : "King Air B200"
+    "hex" : "ac1ca6",
+    "flights" : {
+      "N88MY   " : 8
     }
   },
   {
     "lastSeen" : 1787517014.5,
-    "flights" : {
-      "N530DC  " : 3
-    },
-    "hex" : "a6b0bb",
     "timesSeen" : [
       1748105919.2,
       1748725080.1999998,
@@ -214,17 +210,25 @@
       1760630193,
       1782951146.6000001,
       1787515972.5
-    ]
+    ],
+    "hex" : "a6b0bb",
+    "flights" : {
+      "N530DC  " : 3
+    }
   },
   {
-    "lastSeen" : 1787516992.5,
-    "flights" : {
-      "PDT6038 " : 1,
-      "PDT5871 " : 1,
-      "PDT5875 " : 1,
-      "PDT5819 " : 1
+    "properties" : {
+      "registration" : "N637AE",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Embraer",
+      "icao_type" : "E145",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/686\/001686508.jpg",
+      "type" : "ERJ-145 LR",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "PDT",
+      "registered_owner" : "American Eagle"
     },
-    "hex" : "a857c2",
+    "lastSeen" : 1787516992.5,
     "timesSeen" : [
       1742811458.6000001,
       1744311444.9,
@@ -251,28 +255,27 @@
       1783437053.2,
       1787516962.3
     ],
-    "properties" : {
-      "registered_owner" : "American Eagle",
-      "icao_type" : "E145",
-      "registered_owner_operator_flag_code" : "PDT",
-      "registered_owner_country_iso_name" : "US",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/686\/001686508.jpg",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_name" : "United States",
-      "type" : "ERJ-145 LR",
-      "registration" : "N637AE"
+    "hex" : "a857c2",
+    "flights" : {
+      "PDT6038 " : 1,
+      "PDT5871 " : 1,
+      "PDT5875 " : 1,
+      "PDT5819 " : 1
     }
   },
   {
-    "lastSeen" : 1787516991.5,
-    "flights" : {
-      "SAS910  " : 1,
-      "SAS928  " : 2,
-      "SAS915  " : 1,
-      "SAS916  " : 5,
-      "SAS929  " : 1
+    "properties" : {
+      "registration" : "LN-RKR",
+      "registered_owner_country_iso_name" : "NO",
+      "icao_type" : "A333",
+      "manufacturer" : "Airbus",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/680\/001680845.jpg",
+      "type" : "A330 343E",
+      "registered_owner_country_name" : "Norway",
+      "registered_owner_operator_flag_code" : "SAS",
+      "registered_owner" : "Scandinavian Airlines System"
     },
-    "hex" : "478d42",
+    "lastSeen" : 1787516991.5,
     "timesSeen" : [
       1740514813.7,
       1741203808.6,
@@ -359,35 +362,48 @@
       1783123389.1,
       1787516991.5
     ],
-    "properties" : {
-      "registered_owner" : "Scandinavian Airlines System",
-      "icao_type" : "A333",
-      "registered_owner_operator_flag_code" : "SAS",
-      "registered_owner_country_iso_name" : "NO",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/680\/001680845.jpg",
-      "registration" : "LN-RKR",
-      "manufacturer" : "Airbus",
-      "type" : "A330 343E",
-      "registered_owner_country_name" : "Norway"
+    "hex" : "478d42",
+    "flights" : {
+      "SAS916  " : 5,
+      "SAS928  " : 2,
+      "SAS915  " : 1,
+      "SAS929  " : 1,
+      "SAS910  " : 1
     }
   },
   {
-    "lastSeen" : 1787516990.8,
-    "flights" : {
-      "N87HJ   " : 1
+    "properties" : {
+      "registration" : "N87HJ",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Honda Aircraft Company",
+      "icao_type" : "HDJT",
+      "url_photo" : "https:\/\/image.airport-data.com\/aircraft\/001188667.jpg",
+      "type" : "Honda Jet HA-420",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "HDJT",
+      "registered_owner" : "AeroCare"
     },
-    "hex" : "abf4b5",
+    "lastSeen" : 1787516990.8,
     "timesSeen" : [
       1787516631.7
-    ]
+    ],
+    "hex" : "abf4b5",
+    "flights" : {
+      "N87HJ   " : 1
+    }
   },
   {
-    "lastSeen" : 1787516989.6000001,
-    "flights" : {
-      "UZB101  " : 4,
-      "UZB102  " : 18
+    "properties" : {
+      "registration" : "UK78706",
+      "registered_owner_country_iso_name" : "UZ",
+      "icao_type" : "B788",
+      "manufacturer" : "Boeing",
+      "type" : "787 8",
+      "registered_owner_country_name" : "Uzbekistan",
+      "registered_owner_operator_flag_code" : "UZB",
+      "registered_owner" : "Uzbekistan Airways"
     },
-    "hex" : "507c59",
+    "lastSeen" : 1787516989.6000001,
     "timesSeen" : [
       1740683425.1999998,
       1740851007,
@@ -523,29 +539,25 @@
       1787501285.4,
       1787516300.8000002
     ],
-    "properties" : {
-      "registered_owner" : "Uzbekistan Airways",
-      "icao_type" : "B788",
-      "registered_owner_operator_flag_code" : "UZB",
-      "registered_owner_country_iso_name" : "UZ",
-      "registration" : "UK78706",
-      "registered_owner_country_name" : "Uzbekistan",
-      "manufacturer" : "Boeing",
-      "type" : "787 8"
+    "hex" : "507c59",
+    "flights" : {
+      "UZB101  " : 4,
+      "UZB102  " : 18
     }
   },
   {
-    "lastSeen" : 1787516853.1000001,
-    "flights" : {
-      "TSC647  " : 1,
-      "TSC610  " : 1,
-      "TSC683  " : 1,
-      "TSC613  " : 1,
-      "TSC615  " : 2,
-      "TSC448  " : 1,
-      "TSC646  " : 2
+    "properties" : {
+      "registration" : "C-GEZO",
+      "registered_owner_country_iso_name" : "CA",
+      "manufacturer" : "Airbus",
+      "icao_type" : "A321",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/413\/001413983.jpg",
+      "type" : "A321 211",
+      "registered_owner_country_name" : "Canada",
+      "registered_owner_operator_flag_code" : "TSC",
+      "registered_owner" : "Air Transat"
     },
-    "hex" : "c051d1",
+    "lastSeen" : 1787516853.1000001,
     "timesSeen" : [
       1740659737.8,
       1740700473.8,
@@ -590,16 +602,15 @@
       1771534934.9,
       1787516030.8
     ],
-    "properties" : {
-      "registered_owner" : "Air Transat",
-      "icao_type" : "A321",
-      "registered_owner_operator_flag_code" : "TSC",
-      "registered_owner_country_iso_name" : "CA",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/413\/001413983.jpg",
-      "registration" : "C-GEZO",
-      "manufacturer" : "Airbus",
-      "type" : "A321 211",
-      "registered_owner_country_name" : "Canada"
+    "hex" : "c051d1",
+    "flights" : {
+      "TSC646  " : 2,
+      "TSC683  " : 1,
+      "TSC613  " : 1,
+      "TSC448  " : 1,
+      "TSC647  " : 1,
+      "TSC610  " : 1,
+      "TSC615  " : 2
     }
   }
 ]
